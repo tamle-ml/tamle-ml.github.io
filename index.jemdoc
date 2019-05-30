@@ -3,35 +3,39 @@
 
 ~~~
 {}{img_left}{TamLe.jpg}{Tam Le}{150}{150}{TamLe.jpg}
-Tam Le \n
 (a.k.a. Lê Thanh Tâm) \n
 Postdoctoral Researcher \n
 [http://www.riken.jp/en/research/labs/aip/ RIKEN Center for Advanced Intelligence Project (RIKEN AIP)]. \n
 ~~~
 
-Research interests: machine learning, convex optimization, parametric optimization, metric learning, kernel methods, geometry-aware learning for histograms, material informatics. \n
+Research interests: Riemannian manifold, optimal transport/Wasserstein geometry, geometry in machine learning, topological data analysis, kernel methods, parametric optimization, metric learning. \n
 
 == Contact
 
 ~~~
-Nagoya Institute of Technology. \n
-Building 2, Room 409A, \n
-Gokiso-cho, Showa-ku, Nagoya, Aichi, 466-8555, Japan.
+RIKEN AIP (Kyoto University office) \n
+Artificial Intelligence Research Unit \n
+Graduate School of Informatics, Kyoto University \n
+Yoshida Honmachi, Sakyo-ku, Kyoto, 606-8501, Japan.
 ~~~
 
-Email: tam.le\[/at/\]nitech.ac.jp or lttam.vn\[/at/\]gmail.com \n
-My CV is [https://www.dropbox.com/s/84prl5ncs040nz4/TamLe_CV_2017Apr.pdf?dl=0 here] - Updated April, 2017.
+Email: tam.le\[/at/\]riken.jp or lttam.vn\[/at/\]gmail.com \n
+My CV is [https://www.dropbox.com/s/q4vk20b2h0a7nsw/TamLe2019Apr.pdf?dl=0 here] - Updated April, 2019.
 
 
 == News
-- 05-Apr-2017, Our proposal has been accepted by the Grants-in-Aid for Young Scientists (B) as PI (2017-2019).
+- 25-Apr-2019, Python code for our [https://icml.cc/ ICML'19] (Safe Grid Search with Optimal Complexity) is available [https://github.com/lttam/safe_grid_search \[Github\]], coded by Eugene Ndiaye.
+- 22-Apr-2019, Our paper, entitled [https://arxiv.org/pdf/1810.05471.pdf "Safe Grid Search with Optimal Complexity"] has been accepted to [https://icml.cc/ ICML'19]. This is joint work with Eugene Ndiaye, Olivier Fercoq, Joseph Salmon and Ichiro Takeuchi.
+- 19-Oct-2018, Matlab code v0.1 for Persistence Fisher distance (Fisher information metric between two persistence diagrams with or without Fast Gauss Transform) is available [https://github.com/lttam/PersistenceFisher \[Github\]].
+- 05-Sep-2018, Our paper, entitled [http://papers.nips.cc/paper/8205-persistence-fisher-kernel-a-riemannian-manifold-kernel-for-persistence-diagrams.pdf "Persistence Fisher Kernel: A Riemannian Manifold Kernel for Persistence Diagrams"] has been accepted to [https://nips.cc NeurIPS'18]!  
+- 01-Sep-2017, Join in High-Dimensional Statistical Unit, RIKEN AIP as a postdoctoral researcher.
+- 05-Apr-2017, Our proposal has been accepted by the Grants-in-Aid for Young Scientists (B) as PI (04/2017 - 03/2020).
+
+
 - 02-Jun-2006, [https://www.dropbox.com/s/o6nrtzh39si8u7p/TamLe_NIMS_June2016.pdf?dl=0 Slide] for my talk at NIMS.
-- 01-Jun-2016, Talk at [http://www.nims.go.jp/MII-I/event/h6g4rf000000034y-att/h6g4rf000000036n.pdf MI2I open seminar series at NIMS, Japan]. 
-- 01-Feb-16, start to work as a Postdoctoral Researcher at [http://www-als.ics.nitech.ac.jp/~takeuchi/ NITECH] and [http://www.nims.go.jp/eng/ NIMS].
-- 01-Jan-16, start to work as an Associate Researcher at [http://www-als.ics.nitech.ac.jp/~takeuchi/ NITECH].
 
 == Research Support
-- 04\/2017 - 03\/2020, [https://www.jsps.go.jp/english/e-grants/grants01.html JSPS grant] (Grants-in-Aid for Young Scientists (B) as PI). 
+- 04\/2017 - 03\/2020, [https://www.jsps.go.jp/english/e-grants/grants01.html  JSPS KAKENHI Grant number 17K12745] (Grants-in-Aid for Young Scientists (B) as PI). 
 
 == Education
 - 10\/2012 - 09\/2015, Doctor of Informatics (Ph.D) at [http://www.i.kyoto-u.ac.jp/en/ Graduate school of Informatics], [http://www.i.kyoto-u.ac.jp/en/ Kyoto University, Japan]. \[[http://en.wikipedia.org/wiki/Kyoto_University\#Academic_rankings *Ranking*]\]
