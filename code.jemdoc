@@ -1,0 +1,14 @@
+# jemdoc: menu{MENU}{code.html}
+= Tam Le \- Code
+
+- [https://sites.google.com/site/lttamvn/research/generalized-aitchison-embeddings Generalized Aitchison Embeddings for Histograms]. (ACML 2013 & MLJ 2014)
+- [https://sites.google.com/site/lttamvn/research/object-category Hierarchical Spatial Matching Kernel for Image Categorization]. (ICIAR 2011 & IIEEJ 2013)
+- [https://sites.google.com/site/lttamvn/research/traffic-sign-detection Realtime traffic sign detection using color and shape-based features]. (ACIIDS 2010)
+
+=== Notes
+
+The code available above is free of charge for research and education purposes. However, you must obtain a license from the author(s) to use it for commercial purposes. The code must not be distributed without prior permission of the author(s).
+
+The code is supplied "as is" without warranty of any kind, and the author(s) disclaim any and all warranties, including but not limited to any implied warranties of merchantability and fitness for a particular purpose, and any warranties or non infringement. The user assumes all liability and responsibility for use of the code, and in no event shall the author(s) be liable for damages of any kind resulting from its use.
+
+

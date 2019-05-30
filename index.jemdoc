@@ -1,0 +1,69 @@
+# jemdoc: menu{MENU}{index.html}
+= Tam Le
+
+~~~
+{}{img_left}{TamLe.jpg}{Tam Le}{150}{150}{TamLe.jpg}
+Postdoctoral Researcher \n
+[http://www-als.ics.nitech.ac.jp/~takeuchi/ Nagoya Institute of Technology, Japan]. \n
+[http://www.nims.go.jp/eng/ National Institute for Materials Science, Japan]. \n
+~~~
+
+Research interests: machine learning, convex optimization, parametric optimization, metric learning, kernel methods, geometry-aware learning for histograms, material informatics. \n
+
+*I will leave NITECH/NIMS at the end of August, 2017. So, this site will not be maintained anymore. Please visit my research google site instead: [http://sites.google.com/site/lttamvn/home http:\/\/sites.google.com\/site\/lttamvn\/home].*\n
+
+== Contact
+
+~~~
+Nagoya Institute of Technology. \n
+Building 2, Room 409A, \n
+Gokiso-cho, Showa-ku, Nagoya, Aichi, 466-8555, Japan.
+~~~
+
+Email: tam.le\[/at/\]nitech.ac.jp or lttam.vn\[/at/\]gmail.com \n
+My CV is [https://www.dropbox.com/s/84prl5ncs040nz4/TamLe_CV_2017Apr.pdf?dl=0 here] - Updated April, 2017.
+
+
+== News
+- 05-Apr-2017, Our proposal has been accepted by the Grants-in-Aid for Young Scientists (B) as PI (2017-2019).
+- 02-Jun-2006, [https://www.dropbox.com/s/o6nrtzh39si8u7p/TamLe_NIMS_June2016.pdf?dl=0 Slide] for my talk at NIMS.
+- 01-Jun-2016, Talk at [http://www.nims.go.jp/MII-I/event/h6g4rf000000034y-att/h6g4rf000000036n.pdf MI2I open seminar series at NIMS, Japan]. 
+- 01-Feb-16, start to work as a Postdoctoral Researcher at [http://www-als.ics.nitech.ac.jp/~takeuchi/ NITECH] and [http://www.nims.go.jp/eng/ NIMS].
+- 01-Jan-16, start to work as an Associate Researcher at [http://www-als.ics.nitech.ac.jp/~takeuchi/ NITECH].
+
+== Research Support
+- 04\/2017 - 03\/2020, [https://www.jsps.go.jp/english/e-grants/grants01.html JSPS grant] (Grants-in-Aid for Young Scientists (B) as PI). 
+
+== Education
+- 10\/2012 - 09\/2015, Doctor of Informatics (Ph.D) at [http://www.i.kyoto-u.ac.jp/en/ Graduate school of Informatics], [http://www.i.kyoto-u.ac.jp/en/ Kyoto University, Japan]. \[[http://en.wikipedia.org/wiki/Kyoto_University\#Academic_rankings *Ranking*]\]
+-- Supervisors: [http://www.iip.ist.i.kyoto-u.ac.jp/member/cuturi/ Professor *Marco* *Cuturi*], [http://www.iip.ist.i.kyoto-u.ac.jp/member/akihiro/index-e.html Professor *Akihiro* *Yamamoto*].
+-- Thesis: Geometry-aware learning algorithms for histogram data using adaptive metric embeddings and kernel functions. \[[http://repository.kulib.kyoto-u.ac.jp/dspace/bitstream/2433/204594/2/djohk00596.pdf PDF]\]
+-- I officially received my PhD degree in January, 2016.
+- 09\/2008 - 05\/2011, Master of Science (M.Sc) in computer science, [http://www.fit.hcmus.edu.vn/ University of Science, VNU-HCM].
+-- Rank: *1\/100+*
+- 09\/2004 - 09\/2008, Bachelor of Science (B.Sc) in computer science, [http://www.fit.hcmus.edu.vn/ University of Science, VNU-HCM] (*/honor/* */program/*).
+-- Rank: *3\/36* (/honor/ /program/) & *3\/550+* (/faculty/)
+
+== Research Experience
+- 2\/2016 - present, Postdoctoral Researcher at [http://www-als.ics.nitech.ac.jp/~takeuchi/ Takeuchi-Karasuyama laboratory, Nagoya Institute of Technology, Japan].
+-- Supervisors: [http://www-als.ics.nitech.ac.jp/~takeuchi/ Professor Ichiro Takeuchi].
+- 2\/2016 - present, Postdoctoral Researcher at [http://www.nims.go.jp/eng/ National Institute for Materials Science, Japan].
+- 1\/2016, Associate Researcher at [http://www-als.ics.nitech.ac.jp/~takeuchi/ Takeuchi-Karasuyama laboratory, Nagoya Institute of Technology, Japan].
+-- Supervisors: [http://www-als.ics.nitech.ac.jp/~takeuchi/ Professor Ichiro Takeuchi].
+- 10\/2015 - 12\/2015, Associate Researcher at [http://www.iip.ist.i.kyoto-u.ac.jp/index-e.html Yamamoto-Cuturi laboratory, Graduate School of Informatics, Kyoto University, Japan].
+-- Supervisors: [http://www.iip.ist.i.kyoto-u.ac.jp/member/akihiro/index-e.html Professor Akihiro Yamamoto], [http://www.iip.ist.i.kyoto-u.ac.jp/member/cuturi/ Professor Marco Cuturi].
+- 01\/2014 - 02\/2014, Internship student at [http://lear.inrialpes.fr/ Lear, INRIA, Grenoble, France].
+-- Supervisor: [http://www.harchaoui.eu/zaid/en/page.php?category=Bio Dr. Zaid Harchaoui].
+- 03\/2013, Internship student at [http://lear.inrialpes.fr/ Lear, INRIA, Grenoble, France].
+-- Supervisor: [http://www.harchaoui.eu/zaid/en/page.php?category=Bio Dr. Zaid Harchaoui].
+-- Subject: Some methods in optimization and machine learning.
+- 08\/2010 - 02\/2011, Internship student at [http://www.nii.ac.jp/en/ National Institute of Informatics, Tokyo, Japan].
+-- Supervisor: [http://www.nii.ac.jp/en/faculty/digital_content/sugimoto_akihiko/ Professor Akihiro Sugimoto], [http://researchmap.jp/yskang/?lang=english Dr. Yousun Kang].
+-- Project: Image Categorization using Kernel Methods.
+- 04\/2009 - 06\/2009, Internship student at [http://www.toyota-ti.ac.jp/ Toyota Technological Institute of Nagoya, Japan].
+-- Supervisor: [http://www.ttic.edu/mita.php Professor Seiichi Mita], Dr. Son T. Tran.
+-- Project: Autonomous driving system (Module: Real time traffic sign detection).
+
+\n\n
+
+
