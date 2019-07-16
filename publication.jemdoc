@@ -3,46 +3,58 @@
 
 == Selected Journals / Conference papers
 
-- {{<font color="blue">Safe Grid Search with Optimal Complexity</font>}}, International Conference on Machine Learning (*ICML*), 2019. \[[http://proceedings.mlr.press/v97/ndiaye19a/ndiaye19a.pdf PDF]\/[http://proceedings.mlr.press/v97/ndiaye19a/ndiaye19a-supp.pdf Supplementary]\/[https://www.dropbox.com/s/f4appwq8sghnz31/poster_icml2019_ndiaye_final.pdf?dl=0 POSTER]\] (Acceptance rate: 773/3424=22.6%) \n
+- [http://proceedings.mlr.press/v97/ndiaye19a/ndiaye19a.pdf {{<font color="blue">Safe Grid Search with Optimal Complexity</font>}}]. \[[http://proceedings.mlr.press/v97/ndiaye19a/ndiaye19a-supp.pdf Supplementary]\/[https://www.dropbox.com/s/f4appwq8sghnz31/poster_icml2019_ndiaye_final.pdf?dl=0 POSTER]\]  \n
+International Conference on Machine Learning (*ICML*), 2019. (/Acceptance rate: 773\/3424=22.6%/) \n
  Eugene Ndiaye, *Tam Le*, Olivier Fercoq, Joseph Salmon, Ichiro Takeuchi
-- {{<font color="blue">Persistence Fisher Kernel: A Riemannian Manifold Kernel for Persistence Diagrams</font>}}, Advances in Neural Information Processing Systems (*NeurIPS\/NIPS*), 2018. \[[http://papers.nips.cc/paper/8205-persistence-fisher-kernel-a-riemannian-manifold-kernel-for-persistence-diagrams.pdf PDF]\/[http://papers.nips.cc/paper/8205-persistence-fisher-kernel-a-riemannian-manifold-kernel-for-persistence-diagrams-supplemental.zip Supplementary]\/[https://www.dropbox.com/s/o99zja0qtzpdzci/TLMY_NIPS18_PFKernel_PD.pdf?dl=0 POSTER]\] (Acceptance rate: 1011/4856=20.8%) \n
+- [http://papers.nips.cc/paper/8205-persistence-fisher-kernel-a-riemannian-manifold-kernel-for-persistence-diagrams.pdf {{<font color="blue">Persistence Fisher Kernel: A Riemannian Manifold Kernel for Persistence Diagrams</font>}}]. \[[http://papers.nips.cc/paper/8205-persistence-fisher-kernel-a-riemannian-manifold-kernel-for-persistence-diagrams-supplemental.zip Supplementary]\/[https://www.dropbox.com/s/o99zja0qtzpdzci/TLMY_NIPS18_PFKernel_PD.pdf?dl=0 POSTER]\]  \n
+Neural Information Processing Systems (*NeurIPS\/NIPS*), 2018. (/Acceptance rate: 1011\/4856=20.8%/) \n
  *Tam Le*, Makoto Yamada
-- {{<font color="blue">Unsupervised Riemannian Metric Learning for Histograms Using Aitchison Transformations</font>}}, International Conference on Machine Learning (*ICML*), 2015. \[[http://videolectures.net/icml2015_le_histograms/?q=Tam\%20Le Video]\/[http://proceedings.mlr.press/v37/le15.pdf PDF]\/[http://proceedings.mlr.press/v37/le15-supp.pdf Supplemental]\/[https://www.dropbox.com/s/vj4gsgnazrhlvdt/TL.MC.ICML2015.Slide.pdf?dl=0 SLIDE]\/[https://www.dropbox.com/s/4zboqoil7gwn3i1/TL.MC.ICML2015.Poster.pdf?dl=0 POSTER]\] (Acceptance rate: 270/1037 = 26.0%) \n
+- [http://proceedings.mlr.press/v37/le15.pdf {{<font color="blue">Unsupervised Riemannian Metric Learning for Histograms Using Aitchison Transformations</font>}}]. \[[http://videolectures.net/icml2015_le_histograms/?q=Tam\%20Le Video]\/[http://proceedings.mlr.press/v37/le15-supp.pdf Supplemental]\/[https://www.dropbox.com/s/vj4gsgnazrhlvdt/TL.MC.ICML2015.Slide.pdf?dl=0 SLIDE]\/[https://www.dropbox.com/s/4zboqoil7gwn3i1/TL.MC.ICML2015.Poster.pdf?dl=0 POSTER]\] \n
+International Conference on Machine Learning (*ICML*), 2015. (/Acceptance rate: 270\/1037 = 26.0%/) \n
  *Tam Le*, Marco Cuturi
-- {{<font color="blue">Adaptive Euclidean Maps for Histograms: Generalized Aitchison Embeddings</font>}}, Machine Learning Journal (*MLJ*), 2014. \[[https://www.dropbox.com/s/ag7hy2v7wdilu4j/TL.MC.MLJ2014.pdf?dl=0 PDF]\] \n
+- [https://www.dropbox.com/s/ag7hy2v7wdilu4j/TL.MC.MLJ2014.pdf?dl=0 {{<font color="blue">Adaptive Euclidean Maps for Histograms: Generalized Aitchison Embeddings</font>}}] \n
+Machine Learning Journal (*MLJ*), 2014. \n
  *Tam Le*, Marco Cuturi
 
 == Others
 
 *Preprints / Technical reports*
-- {{<font color="blue">Tree-Sliced Variants of Wasserstein Distances</font>}}, 2019 \[[https://arxiv.org/pdf/1902.00342.pdf ArXiv]\] \n
+- [https://arxiv.org/pdf/1902.00342.pdf {{<font color="blue">Tree-Sliced Variants of Wasserstein Distances</font>}}] \n
+ ArXiv, 2019. \n 
  *Tam Le*, Makoto Yamada, Kenji Fukumizu, Marco Cuturi
-- {{<font color="blue">Topological Bayesian Optimization with Persistence Diagrams</font>}}, 2019 \[[https://arxiv.org/pdf/1902.09722.pdf ArXiv]\] \n
+- [https://arxiv.org/pdf/1902.09722.pdf {{<font color="blue">Topological Bayesian Optimization with Persistence Diagrams</font>}}] \n
+ ArXiv, 2019. \n
  Tatsuya Shiraishi, *Tam Le*, Hisashi Kashima, Makoto Yamada
 
 *Other Journals / Conference papers*
-- {{<font color="blue">A General Representation Scheme for Crystalline Solids based on Voronoi-Tessellation Real Feature Values and Atomic Property Data</font>}}, Science and Technology of Advance Materials Journal (STAM), 2018. \[[https://www.tandfonline.com/doi/full/10.1080/14686996.2018.1439253\#aHR0cHM6Ly93d3cudGFuZGZvbmxpbmUuY29tL2RvaS9wZGYvMTAuMTA4MC8xNDY4Njk5Ni4yMDE4LjE0MzkyNTM/bmVlZEFjY2Vzcz10cnVlQEBAMA== PDF]\] \n
+- [https://www.tandfonline.com/doi/full/10.1080/14686996.2018.1439253\#aHR0cHM6Ly93d3cudGFuZGZvbmxpbmUuY29tL2RvaS9wZGYvMTAuMTA4MC8xNDY4Njk5Ni4yMDE4LjE0MzkyNTM/bmVlZEFjY2Vzcz10cnVlQEBAMA== {{<font color="blue">A General Representation Scheme for Crystalline Solids based on Voronoi-Tessellation Real Feature Values and Atomic Property Data</font>}}] \n
+Science and Technology of Advance Materials Journal (STAM), 2018. \n
  Randy Jalem, Masanobu Nakayama, Yusuke Noda, *Tam Le*, Ichiro Takeuchi, Yoshitaka Tateyama, Hisatsugu Yamazaki
-- {{<font color="blue">Generalized Aitchison Embeddings for Histograms</font>}}, Asian Conference on Machine Learning (ACML), 2013 (oral). \[[http://proceedings.mlr.press/v29/Le13.pdf PDF]\/[https://799a327a-a-62cb3a1a-s-sites.googlegroups.com/site/tamtle85/acml13/TamLe_ACML13.pdf?attachauth=ANoY7co0ctNrM6IGtGy7-HUUGaF_jZNDALnhKuyeXTvrvnRFksIGZaEm5xtXaqY8o92WUlHWgomz46LrFTNuAxHpyH260KPc9qFskG75521q96T1aVUXrtSSJsMZowtTBxFO5cMtu6l4GYPQT-rsx97SfSU8QxMoGN-ik17jgZyKGNqWVINs36qZ7VDnUYopGTOi0_vMOKI5AHjMnjTEm_yWp9VdkJcA05GFzRhsNpNJqZewg222Sqo%3D&attredirects=0 SLIDE]\] (Acceptance rate: 31\%, oral paper rate: 9.7\%) \n
+- [http://proceedings.mlr.press/v29/Le13.pdf {{<font color="blue">Generalized Aitchison Embeddings for Histograms</font>}}]. \[[https://799a327a-a-62cb3a1a-s-sites.googlegroups.com/site/tamtle85/acml13/TamLe_ACML13.pdf?attachauth=ANoY7co0ctNrM6IGtGy7-HUUGaF_jZNDALnhKuyeXTvrvnRFksIGZaEm5xtXaqY8o92WUlHWgomz46LrFTNuAxHpyH260KPc9qFskG75521q96T1aVUXrtSSJsMZowtTBxFO5cMtu6l4GYPQT-rsx97SfSU8QxMoGN-ik17jgZyKGNqWVINs36qZ7VDnUYopGTOi0_vMOKI5AHjMnjTEm_yWp9VdkJcA05GFzRhsNpNJqZewg222Sqo%3D&attredirects=0 SLIDE]\] \n
+Asian Conference on Machine Learning (ACML), 2013 (oral). (/Acceptance rate: 31\%, oral paper rate: 9.7\%/) \n
  *Tam Le*, Marco Cuturi
-- {{<font color="blue">Image Categorization Using Hierarchical Spatial Matching Kernel</font>}}, Journal of the Institute of Image Electronics Engineers of Japan (IIEEJ), Vol. 42, No. 2, 2013. \[[https://799a327a-a-62cb3a1a-s-sites.googlegroups.com/site/tamtle85/hsmk-code/TL.YK.AS-HSMK-IIEEJ13.pdf?attachauth=ANoY7cptnG2XULNdwNvStBxHRF8txio8ZQk3x6EZgWSPZPNf91QFmZQAI4gI6v7o2bS48WD9Pcn-KC1VGm43cZh6E0nH_xC0jDkQ22HyVHkW7V-8NOF0cpQGaxgdxxtsQqz50Mc3PkLvMsSSCxyiGCTgUmzdycH3WiQK64E9RV6dYDItqJs-EJZbTCq9qJT6enMaItGICb7BP6M1ybUWqCMEXIBBw7JAUtmDfUZkl2auPdjT5bSEw_o%3D&attredirects=0 PDF]\] \n
+- [https://799a327a-a-62cb3a1a-s-sites.googlegroups.com/site/tamtle85/hsmk-code/TL.YK.AS-HSMK-IIEEJ13.pdf?attachauth=ANoY7cptnG2XULNdwNvStBxHRF8txio8ZQk3x6EZgWSPZPNf91QFmZQAI4gI6v7o2bS48WD9Pcn-KC1VGm43cZh6E0nH_xC0jDkQ22HyVHkW7V-8NOF0cpQGaxgdxxtsQqz50Mc3PkLvMsSSCxyiGCTgUmzdycH3WiQK64E9RV6dYDItqJs-EJZbTCq9qJT6enMaItGICb7BP6M1ybUWqCMEXIBBw7JAUtmDfUZkl2auPdjT5bSEw_o%3D&attredirects=0 {{<font color="blue">Image Categorization Using Hierarchical Spatial Matching Kernel</font>}}] \n
+Journal of the Institute of Image Electronics Engineers of Japan (IIEEJ), Vol. 42, No. 2, 2013. \n
  *Tam Le*, Yousun Kang, Akihiro Sugimoto
-- {{<font color="blue">Hierarchical Spatial Matching Kernel for Image Categorization</font>}}, International Conference on Image Processing and Recognition (ICIAR), 2011 (oral). \[[https://www.dropbox.com/s/4bqrsuzn9as0tix/TamLe-ICIAR11.pdf?dl=0 PDF]\/[https://f2496fb7-a-62cb3a1a-s-sites.googlegroups.com/site/lttam85/Home/TamLe-HSMK-ICIAR11.pdf?attachauth=ANoY7crjZ3Vt6hzUNYaDrFcbxZa7jywngZ-KX3FDN8uMs7NLsMbGWBOp122P29kFrRmXAgYLVtN6VKr-TksXj7p_XUSOyo_WDfmjl_6xRsFR-Cf3OTCfrdyLoGvODtRi7i5xS3L0j1jKiAf-EncSOtNba7Qaq1EL46LaG9rLERKLvr39AeOSKb8MVy5oN2o-mW0PMEwIfDW8p8jIUPR_XBAqg2hpJoJSMKOtzihdKDvTMGuhBiniQIk%3D&attredirects=0 SLIDE]\] (Acceptance rate: 57\%, oral paper rate: 25\%) \n
+- [https://www.dropbox.com/s/4bqrsuzn9as0tix/TamLe-ICIAR11.pdf?dl=0 {{<font color="blue">Hierarchical Spatial Matching Kernel for Image Categorization</font>}}]. \[[https://f2496fb7-a-62cb3a1a-s-sites.googlegroups.com/site/lttam85/Home/TamLe-HSMK-ICIAR11.pdf?attachauth=ANoY7crjZ3Vt6hzUNYaDrFcbxZa7jywngZ-KX3FDN8uMs7NLsMbGWBOp122P29kFrRmXAgYLVtN6VKr-TksXj7p_XUSOyo_WDfmjl_6xRsFR-Cf3OTCfrdyLoGvODtRi7i5xS3L0j1jKiAf-EncSOtNba7Qaq1EL46LaG9rLERKLvr39AeOSKb8MVy5oN2o-mW0PMEwIfDW8p8jIUPR_XBAqg2hpJoJSMKOtzihdKDvTMGuhBiniQIk%3D&attredirects=0 SLIDE]\] \n
+International Conference on Image Processing and Recognition (ICIAR), 2011 (oral). (/Acceptance rate: 57\%, oral paper rate: 25\%/)\n
  *Tam Le*, Yousun Kang, Akihiro Sugimoto, Son Tran, Thuc Nguyen
-- {{<font color="blue">Realtime Traffic Sign Detection Using Color and Shape-Based Features</font>}}, Asian Conference on Intelligent Information and Database Systems (ACIIDS), 2010 (oral). \[[https://www.dropbox.com/s/987ev6ok1dtatyj/TamLe-ACIIDS10.pdf?dl=0 PDF]\] \n
+- [https://www.dropbox.com/s/987ev6ok1dtatyj/TamLe-ACIIDS10.pdf?dl=0 {{<font color="blue">Realtime Traffic Sign Detection Using Color and Shape-Based Features</font>}}] \n
+Asian Conference on Intelligent Information and Database Systems (ACIIDS), 2010 (oral). \n
  *Tam Le*, Son Tran, Seichii Mita, Thuc Nguyen
 
 *Thesis*
-- {{<font color="blue">Geometry-Aware Learning Algorithms for Histogram Data Using Adaptive Metric Embeddings and Kernel Functions</font>}}, PhD thesis, Kyoto University, Japan, 2015. \[[https://repository.kulib.kyoto-u.ac.jp/dspace/bitstream/2433/204594/2/djohk00596.pdf PDF]\]
+- [https://repository.kulib.kyoto-u.ac.jp/dspace/bitstream/2433/204594/2/djohk00596.pdf {{<font color="blue">Geometry-Aware Learning Algorithms for Histogram Data Using Adaptive Metric Embeddings and Kernel Functions</font>}}] \n
+ PhD thesis, Kyoto University, Japan, 2015.
 
 == Workshop Posters / Talks
 
 *Workshop Posters*
 - 2019, {{<font color="blue">Tree-Sliced Approximation of Wasserstein Distances</font>}}, [http://aisociety.kr/KJMLW2019/ Korea-Japan Machine Learning workshop]. \[[https://www.dropbox.com/s/pym938fkamamgyo/TLMYKFMC_KJworkshop19_Tree-SlicedWasserstein.pdf?dl=0 Poster]\]
 - 2019, {{<font color="blue">Persistence Fisher Kernel: A Riemannian Manifold Kernel for Persistence Diagrams</font>}}, [http://aisociety.kr/KJMLW2019/ Korea-Japan Machine Learning workshop].
-- 2018, {{<font color="blue">Persistence Fisher Kernel: A Riemannian Manifold Kernel for Persistence Diagrams</font>}}, [http://gimli.cc/2018/ ICML workshops (Geometry in Machine Learning)]. \[[https://www.dropbox.com/s/r6mabb120909khd/gimli_icml18_v04.pdf?dl=0 PDF]\/[http://papers.nips.cc/paper/8205-persistence-fisher-kernel-a-riemannian-manifold-kernel-for-persistence-diagrams.html a longer version at NeurIPS/NIPS'18]\]
+- 2018, [https://www.dropbox.com/s/r6mabb120909khd/gimli_icml18_v04.pdf?dl=0 {{<font color="blue">Persistence Fisher Kernel: A Riemannian Manifold Kernel for Persistence Diagrams</font>}}], [http://gimli.cc/2018/ ICML workshops (Geometry in Machine Learning)].
 - 2018, {{<font color="blue">Riemannian Manifold Kernel for Persistence Diagrams</font>}}, [https://sites.google.com/view/aip-fau-mlgt-2018/home Transatlantic and Transpacific Workshop on Machine Learning and Discrete Optimization]. 
-- Eugene Ndiaye, *Tam Le*, Olivier Fercoq, Joseph Salmon, Ichiro Takeuchi, {{<font color="blue">Optimal Approximation for regularization and validation path</font>}}. [http://smai-mode2018.imag.fr Journees SMAI MODE], 2018. \[[http://smai-mode2018.imag.fr/resumes/resumesLong/subm26.pdf PDF]\]
+- Eugene Ndiaye, *Tam Le*, Olivier Fercoq, Joseph Salmon, Ichiro Takeuchi, [http://smai-mode2018.imag.fr/resumes/resumesLong/subm26.pdf {{<font color="blue">Optimal Approximation for regularization and validation path</font>}}]. [http://smai-mode2018.imag.fr Journees SMAI MODE], 2018.
 - Eugene Ndiaye, *Tam Le*, Olivier Fercoq, Joseph Salmon, Ichiro Takeuchi, {{<font color="blue">GridSearch: Complexite et Garantie pour la Validation (GridSearch: Complexity and Guarantee for Validation)</font>}}. [http://cap2018.litislab.fr/Programme-en.html Conference Sur L'Apprentissage Automatique (CAp)], 2018.
 
 *Talks*
