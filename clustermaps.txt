@@ -1,8 +1,0 @@
-{\rtf1\ansi\ansicpg1252\cocoartf1187\cocoasubrtf340
-{\fonttbl\f0\fswiss\fcharset0 ArialMT;}
-{\colortbl;\red255\green255\blue255;\red26\green26\blue26;\red16\green60\blue192;}
-\paperw11900\paperh16840\margl1440\margr1440\vieww10800\viewh8400\viewkind0
-\deftab720
-\pard\pardeftab720
-
-\f0\fs26 \cf2 <div id="clustrmaps-widget"></div><script type="text/javascript">var _clustrmaps = \{'url' : '{\field{\*\fldinst{HYPERLINK "http://www.iip.ist.i.kyoto-u.ac.jp/member/tamle/"}}{\fldrslt \cf3 \ul \ulc3 http://www.iip.ist.i.kyoto-u.ac.jp/member/tamle/}}', 'user' : 1115913, 'server' : '2', 'id' : 'clustrmaps-widget', 'version' : 1, 'date' : '2013-10-07', 'lang' : 'en', 'corners' : 'square' \};(function ()\{ var s = document.createElement('script'); s.type = 'text/javascript'; s.async = true; s.src = '{\field{\*\fldinst{HYPERLINK "http://www2.clustrmaps.com/counter/map.js"}}{\fldrslt \cf3 \ul \ulc3 http://www2.clustrmaps.com/counter/map.js}}'; var x = document.getElementsByTagName('script')[0]; x.parentNode.insertBefore(s, x);\})();</script><noscript><a href="{\field{\*\fldinst{HYPERLINK "http://www2.clustrmaps.com/user/78e110709"}}{\fldrslt \cf3 \ul \ulc3 http://www2.clustrmaps.com/user/78e110709}}"><img src="{\field{\*\fldinst{HYPERLINK "http://www2.clustrmaps.com/stats/maps-no_clusters/www.iip.ist.i.kyoto-u.ac.jp-member-tamle--thumb.jpg"}}{\fldrslt \cf3 \ul \ulc3 http://www2.clustrmaps.com/stats/maps-no_clusters/www.iip.ist.i.kyoto-u.ac.jp-member-tamle--thumb.jpg}}" alt="Locations of visitors to this page" /></a></noscript>}
