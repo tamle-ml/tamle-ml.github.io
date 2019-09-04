@@ -3,6 +3,9 @@
 
 == Selected Journals / Conference papers
 
+- [https://arxiv.org/pdf/1902.00342.pdf {{<font color="blue">Tree-Sliced Variants of Wasserstein Distances</font>}}] \n
+ /to appear in/ Neural Information Processing Systems (/*NeurIPS\/NIPS*/), 2019. (/Acceptance rate: 1428\/6743=21.2%/) \n 
+ *Tam Le*, Makoto Yamada, Kenji Fukumizu, Marco Cuturi
 - [http://proceedings.mlr.press/v97/ndiaye19a/ndiaye19a.pdf {{<font color="blue">Safe Grid Search with Optimal Complexity</font>}}]. \[[http://proceedings.mlr.press/v97/ndiaye19a/ndiaye19a-supp.pdf Supplementary]\/[https://www.dropbox.com/s/f4appwq8sghnz31/poster_icml2019_ndiaye_final.pdf?dl=0 POSTER]\]  \n
 International Conference on Machine Learning (/*ICML*/), 2019. (/Acceptance rate: 773\/3424=22.6%/) \n
  Eugene Ndiaye, *Tam Le*, Olivier Fercoq, Joseph Salmon, Ichiro Takeuchi
@@ -19,9 +22,6 @@ Machine Learning Journal (/*MLJ*/), 2014. \n
 == Others
 
 *Preprints / Technical reports*
-- [https://arxiv.org/pdf/1902.00342.pdf {{<font color="blue">Tree-Sliced Variants of Wasserstein Distances</font>}}] \n
- ArXiv, 2019. \n 
- *Tam Le*, Makoto Yamada, Kenji Fukumizu, Marco Cuturi
 - [https://arxiv.org/pdf/1902.09722.pdf {{<font color="blue">Topological Bayesian Optimization with Persistence Diagrams</font>}}] \n
  ArXiv, 2019. \n
  Tatsuya Shiraishi, *Tam Le*, Hisashi Kashima, Makoto Yamada
