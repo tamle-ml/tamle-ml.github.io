@@ -1,6 +1,8 @@
 # jemdoc: menu{MENU}{publication.html}
 = Tam Le \- Publications
 
+({{<font color="red">*</font>}}: equal contribution)
+
 == Selected Journals / Conference papers
 
 - [https://arxiv.org/pdf/1902.00342.pdf {{<font color="blue">Tree-Sliced Variants of Wasserstein Distances</font>}}] \n
@@ -23,14 +25,14 @@ Machine Learning Journal (*MLJ*), 2014. \n
 
 *Preprints / Technical reports*
 - {{<font color="blue">On Scalable Variant of Wasserstein Barycenter</font>}} \n
-Submitted, 2019. \n
-*Tam Le*{{<font color="red">*</font>}}, Viet Huynh{{<font color="red">*</font>}}, Nhat Ho{{<font color="red">*</font>}}, Dinh Phung, Makoto Yamada ({{<font color="red">*</font>}}: equal contribution)
+ArXiv, 2019. \n
+*Tam Le*{{<font color="red">*</font>}}, Viet Huynh{{<font color="red">*</font>}}, Nhat Ho{{<font color="red">*</font>}}, Dinh Phung, Makoto Yamada
 - {{<font color="blue">Computationally Efficient Tree Variants of Gromov-Wasserstein</font>}} \n
-Submitted, 2019. \n
-*Tam Le*{{<font color="red">*</font>}}, Nhat Ho{{<font color="red">*</font>}}, Makoto Yamada ({{<font color="red">*</font>}}: equal contribution)
+ArXiv, 2019. \n
+*Tam Le*{{<font color="red">*</font>}}, Nhat Ho{{<font color="red">*</font>}}, Makoto Yamada
 - [https://arxiv.org/pdf/1909.02373.pdf {{<font color="blue">LSMI-Sinkhorn: Semi-supervised Squared-Loss Mutual Information Estimation with Optimal Transport</font>}}] \n
 ArXiv, 2019. \n
-Yanbin Liu{{<font color="red">*</font>}}, Makoto Yamada{{<font color="red">*</font>}}, Yao-Hung Hubert Tsai, *Tam Le*, Ruslan Salakhutdinov, Yi Yang ({{<font color="red">*</font>}}: equal contribution)
+Yanbin Liu{{<font color="red">*</font>}}, Makoto Yamada{{<font color="red">*</font>}}, Yao-Hung Hubert Tsai, *Tam Le*, Ruslan Salakhutdinov, Yi Yang
 - [https://arxiv.org/pdf/1902.09722.pdf {{<font color="blue">Topological Bayesian Optimization with Persistence Diagrams</font>}}] \n
 ArXiv, 2019. \n
 Tatsuya Shiraishi, *Tam Le*, Hisashi Kashima, Makoto Yamada
