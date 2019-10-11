@@ -24,10 +24,10 @@ Machine Learning Journal (*MLJ*), 2014. \n
 == Others
 
 *Preprints / Technical reports*
-- {{<font color="blue">On Scalable Variant of Wasserstein Barycenter</font>}} \n
+- [https://arxiv.org/pdf/1910.04483.pdf {{<font color="blue">On Scalable Variant of Wasserstein Barycenter</font>}}] \n
 ArXiv, 2019. \n
 *Tam Le*{{<font color="red">*</font>}}, Viet Huynh{{<font color="red">*</font>}}, Nhat Ho{{<font color="red">*</font>}}, Dinh Phung, Makoto Yamada
-- {{<font color="blue">Computationally Efficient Tree Variants of Gromov-Wasserstein</font>}} \n
+- [https://arxiv.org/pdf/1910.04462.pdf {{<font color="blue">Computationally Efficient Tree Variants of Gromov-Wasserstein</font>}}] \n
 ArXiv, 2019. \n
 *Tam Le*{{<font color="red">*</font>}}, Nhat Ho{{<font color="red">*</font>}}, Makoto Yamada
 - [https://arxiv.org/pdf/1909.02373.pdf {{<font color="blue">LSMI-Sinkhorn: Semi-supervised Squared-Loss Mutual Information Estimation with Optimal Transport</font>}}] \n
