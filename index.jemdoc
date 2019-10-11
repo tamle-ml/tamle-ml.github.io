@@ -24,6 +24,7 @@ My CV is [https://www.dropbox.com/s/q4vk20b2h0a7nsw/TamLe2019Apr.pdf?dl=0 here] 
 
 
 == News
+- 11-Oct-2019, Matlab code for Kmeans with Flow-based Tree Gromov-Wasserstein in [https://arxiv.org/pdf/1910.04462.pdf "Computationally Efficient Tree Variants of Gromov-Wasserstein"] is available [https://github.com/lttam/Kmeans-FlowTreeGW-Barycenter \[Github\]].  
 - 04-Sep-2019, Our paper, entitled [https://arxiv.org/pdf/1902.00342.pdf "Tree-Sliced Variants of Wasserstein Distances"] has been accepted to [https://nips.cc NeurIPS'19]! This is joint work with Marco Cuturi, Kenji Fukumizu, and Makoto Yamada.  
 - 11-Jul-2019, [https://www.dropbox.com/s/gejiyhbjfcpfk4t/2019July_TDA_GeometricKernel.pdf?dl=0 Slides] for my presentation (Kernel methods for Persistence Diagrams: A Geometric Approach) at Institute for Advanced Study, Kyoto University.
 - 25-Apr-2019, Python code for our [https://icml.cc/ ICML'19] (Safe Grid Search with Optimal Complexity) is available [https://github.com/lttam/safe_grid_search \[Github\]], coded by Eugene Ndiaye.
