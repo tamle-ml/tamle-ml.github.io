@@ -5,8 +5,8 @@
 
 == Selected Journals / Conference papers
 
-- [https://arxiv.org/pdf/1902.00342.pdf {{<font color="blue">Tree-Sliced Variants of Wasserstein Distances</font>}}] \n
- /to appear in/ Neural Information Processing Systems (*NeurIPS\/NIPS*), 2019. (/Acceptance rate: 1428\/6743=21.2%/) \n 
+- [https://arxiv.org/pdf/1902.00342.pdf {{<font color="blue">Tree-Sliced Variants of Wasserstein Distances</font>}}] \[[https://www.dropbox.com/s/4ugbmyu5jepxun0/TLMYKFMC_NeurIPS19_TSW.pdf?dl=0 POSTER]\] \n
+ Neural Information Processing Systems (*NeurIPS\/NIPS*), 2019. (/Acceptance rate: 1428\/6743=21.2%/) \n 
  *Tam Le*, Makoto Yamada, Kenji Fukumizu, Marco Cuturi
 - [http://proceedings.mlr.press/v97/ndiaye19a/ndiaye19a.pdf {{<font color="blue">Safe Grid Search with Optimal Complexity</font>}}]. \[[http://proceedings.mlr.press/v97/ndiaye19a/ndiaye19a-supp.pdf Supplementary]\/[https://www.dropbox.com/s/f4appwq8sghnz31/poster_icml2019_ndiaye_final.pdf?dl=0 POSTER]\]  \n
 International Conference on Machine Learning (*ICML*), 2019. (/Acceptance rate: 773\/3424=22.6%/) \n
@@ -23,7 +23,7 @@ Machine Learning Journal (*MLJ*), 2014. \n
 
 == Others
 
-*Preprints / Technical reports*
+*Preprints*
 - [https://arxiv.org/pdf/1910.04483.pdf {{<font color="blue">On Scalable Variant of Wasserstein Barycenter</font>}}] \n
 ArXiv, 2019. \n
 *Tam Le*{{<font color="red">*</font>}}, Viet Huynh{{<font color="red">*</font>}}, Nhat Ho{{<font color="red">*</font>}}, Dinh Phung, Makoto Yamada
@@ -33,11 +33,11 @@ ArXiv, 2019. \n
 - [https://arxiv.org/pdf/1909.02373.pdf {{<font color="blue">LSMI-Sinkhorn: Semi-supervised Squared-Loss Mutual Information Estimation with Optimal Transport</font>}}] \n
 ArXiv, 2019. \n
 Yanbin Liu{{<font color="red">*</font>}}, Makoto Yamada{{<font color="red">*</font>}}, Yao-Hung Hubert Tsai, *Tam Le*, Ruslan Salakhutdinov, Yi Yang
+
+*Other Journals \/ Conference papers \/ Technical reports*
 - [https://arxiv.org/pdf/1902.09722.pdf {{<font color="blue">Topological Bayesian Optimization with Persistence Diagrams</font>}}] \n
 ArXiv, 2019. \n
 Tatsuya Shiraishi, *Tam Le*, Hisashi Kashima, Makoto Yamada
-
-*Other Journals / Conference papers*
 - [https://www.tandfonline.com/doi/full/10.1080/14686996.2018.1439253\#aHR0cHM6Ly93d3cudGFuZGZvbmxpbmUuY29tL2RvaS9wZGYvMTAuMTA4MC8xNDY4Njk5Ni4yMDE4LjE0MzkyNTM/bmVlZEFjY2Vzcz10cnVlQEBAMA== {{<font color="blue">A General Representation Scheme for Crystalline Solids based on Voronoi-Tessellation Real Feature Values and Atomic Property Data</font>}}] \n
 Science and Technology of Advance Materials Journal (STAM), 2018. \n
  Randy Jalem, Masanobu Nakayama, Yusuke Noda, *Tam Le*, Ichiro Takeuchi, Yoshitaka Tateyama, Hisatsugu Yamazaki
