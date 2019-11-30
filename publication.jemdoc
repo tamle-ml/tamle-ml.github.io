@@ -24,12 +24,12 @@ Machine Learning Journal (*MLJ*), 2014. \n
 == Others
 
 *Preprints*
-- [https://arxiv.org/pdf/1910.04483.pdf {{<font color="blue">On Scalable Variant of Wasserstein Barycenter</font>}}] \n
-ArXiv, 2019. \n
-*Tam Le*{{<font color="red">*</font>}}, Viet Huynh{{<font color="red">*</font>}}, Nhat Ho{{<font color="red">*</font>}}, Dinh Phung, Makoto Yamada
 - [https://arxiv.org/pdf/1910.04462.pdf {{<font color="blue">Computationally Efficient Tree Variants of Gromov-Wasserstein</font>}}] \n
 ArXiv, 2019. \n
 *Tam Le*{{<font color="red">*</font>}}, Nhat Ho{{<font color="red">*</font>}}, Makoto Yamada
+- [https://arxiv.org/pdf/1910.04483.pdf {{<font color="blue">On Scalable Variant of Wasserstein Barycenter</font>}}] \n
+ArXiv, 2019. \n
+*Tam Le*{{<font color="red">*</font>}}, Viet Huynh{{<font color="red">*</font>}}, Nhat Ho{{<font color="red">*</font>}}, Dinh Phung, Makoto Yamada
 - [https://arxiv.org/pdf/1909.02373.pdf {{<font color="blue">LSMI-Sinkhorn: Semi-supervised Squared-Loss Mutual Information Estimation with Optimal Transport</font>}}] \n
 ArXiv, 2019. \n
 Yanbin Liu{{<font color="red">*</font>}}, Makoto Yamada{{<font color="red">*</font>}}, Yao-Hung Hubert Tsai, *Tam Le*, Ruslan Salakhutdinov, Yi Yang
@@ -61,6 +61,7 @@ Asian Conference on Intelligent Information and Database Systems (ACIIDS), 2010 
 == Workshop Posters / Talks
 
 *Workshop Posters*
+- Eugene Ndiaye, *Tam Le*, Olivier Fercoq, Joseph Salmon, Ichiro Takeuchi, {{<font color="blue">Safe Grid Search with Optimal Complexity</font>}}. [https://miaoxu-ml.github.io/aip_workshop.html The ACML'2019 RIKEN AIP Workshop], 2019.
 - 2019, {{<font color="blue">Tree-Sliced Approximation of Wasserstein Distances</font>}}, [http://aisociety.kr/KJMLW2019/ Korea-Japan Machine Learning workshop]. \[[https://www.dropbox.com/s/pym938fkamamgyo/TLMYKFMC_KJworkshop19_Tree-SlicedWasserstein.pdf?dl=0 Poster]\]
 - 2019, {{<font color="blue">Persistence Fisher Kernel: A Riemannian Manifold Kernel for Persistence Diagrams</font>}}, [http://aisociety.kr/KJMLW2019/ Korea-Japan Machine Learning workshop].
 - 2018, [https://www.dropbox.com/s/r6mabb120909khd/gimli_icml18_v04.pdf?dl=0 {{<font color="blue">Persistence Fisher Kernel: A Riemannian Manifold Kernel for Persistence Diagrams</font>}}], [http://gimli.cc/2018/ ICML workshops (Geometry in Machine Learning)].
