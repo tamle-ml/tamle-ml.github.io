@@ -5,7 +5,7 @@
 
 == Selected Journals / Conference papers
 
-- [https://arxiv.org/pdf/1902.00342.pdf {{<font color="blue">Tree-Sliced Variants of Wasserstein Distances</font>}}] \[[https://www.dropbox.com/s/4ugbmyu5jepxun0/TLMYKFMC_NeurIPS19_TSW.pdf?dl=0 POSTER]\] \n
+- [https://papers.nips.cc/paper/9396-tree-sliced-variants-of-wasserstein-distances.pdf {{<font color="blue">Tree-Sliced Variants of Wasserstein Distances</font>}}]. \[[https://papers.nips.cc/paper/9396-tree-sliced-variants-of-wasserstein-distances-supplemental.zip Supplementary]\/[https://www.dropbox.com/s/4ugbmyu5jepxun0/TLMYKFMC_NeurIPS19_TSW.pdf?dl=0 POSTER]\] \n
  Neural Information Processing Systems (*NeurIPS\/NIPS*), 2019. (/Acceptance rate: 1428\/6743=21.2%/) \n 
  *Tam Le*, Makoto Yamada, Kenji Fukumizu, Marco Cuturi
 - [http://proceedings.mlr.press/v97/ndiaye19a/ndiaye19a.pdf {{<font color="blue">Safe Grid Search with Optimal Complexity</font>}}]. \[[http://proceedings.mlr.press/v97/ndiaye19a/ndiaye19a-supp.pdf Supplementary]\/[https://www.dropbox.com/s/f4appwq8sghnz31/poster_icml2019_ndiaye_final.pdf?dl=0 POSTER]\]  \n
@@ -24,7 +24,7 @@ Machine Learning Journal (*MLJ*), 2014. \n
 == Others
 
 *Preprints*
-- [https://arxiv.org/pdf/1910.04462.pdf {{<font color="blue">Computationally Efficient Tree Variants of Gromov-Wasserstein</font>}}] \n
+- [https://arxiv.org/pdf/1910.04462.pdf {{<font color="blue">Fast Tree Variants of Gromov-Wasserstein</font>}}] \n
 ArXiv, 2019. \n
 *Tam Le*{{<font color="red">*</font>}}, Nhat Ho{{<font color="red">*</font>}}, Makoto Yamada
 - [https://arxiv.org/pdf/1910.04483.pdf {{<font color="blue">On Scalable Variant of Wasserstein Barycenter</font>}}] \n
