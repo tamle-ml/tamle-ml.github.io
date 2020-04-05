@@ -8,7 +8,7 @@ Postdoctoral Researcher \n
 [http://www.riken.jp/en/research/labs/aip/ RIKEN Center for Advanced Intelligence Project (RIKEN AIP)]. \n
 ~~~
 
-Research interests: Optimal transport, tree-Wasserstein geometry, geometry in machine learning, Riemannian manifold, topological data analysis, kernel methods, parametric optimization, metric learning. \n
+Research interests: Optimal transport, tree-Wasserstein geometry, geometric machine learning, Riemannian manifold, topological data analysis, kernel methods, parametric optimization, metric learning. \n
 
 == Contact
 
@@ -22,8 +22,8 @@ Yoshida Honmachi, Sakyo-ku, Kyoto, 606-8501, Japan.
 Email: tam.le\[/at/\]riken.jp or lttam.vn\[/at/\]gmail.com \n
 My CV is [https://www.dropbox.com/s/u5oogip3s60qiph/TamLe2020March.pdf?dl=0 here] - Updated March, 2020.
 
-
 == News
+- 05-Apr-2020, Our proposal has been accepted by the Grants-in-Aid for Young Scientists as PI (04\/2020 - 03\/2023).
 - 26-Oct-2019, Matlab code for tree-(sliced)-Wasserstein distance in our [https://neurips.cc/ NeurIPS'19] ([https://arxiv.org/pdf/1902.00342.pdf Tree-Sliced Variants of Wasserstein Distances]) is available [https://github.com/lttam/TreeWasserstein \[Github\]].  
 - 11-Oct-2019, Matlab code for Kmeans with Flow-based Tree Gromov-Wasserstein in [https://arxiv.org/pdf/1910.04462.pdf "Computationally Efficient Tree Variants of Gromov-Wasserstein"] is available [https://github.com/lttam/Kmeans-FlowTreeGW-Barycenter \[Github\]].  
 - 04-Sep-2019, Our paper, entitled [https://arxiv.org/pdf/1902.00342.pdf "Tree-Sliced Variants of Wasserstein Distances"] has been accepted to [https://nips.cc NeurIPS'19]! This is joint work with Marco Cuturi, Kenji Fukumizu, and Makoto Yamada.  
@@ -36,7 +36,8 @@ My CV is [https://www.dropbox.com/s/u5oogip3s60qiph/TamLe2020March.pdf?dl=0 here
 - 05-Apr-2017, Our proposal has been accepted by the Grants-in-Aid for Young Scientists (B) as PI (04\/2017 - 03\/2020).
 
 == Research Support
-- 04\/2017 - 03\/2020, [https://www.jsps.go.jp/english/e-grants/grants01.html  JSPS KAKENHI Grant number 17K1274], Grants-in-Aid for Young Scientists (B) as PI (4M JPY). 
+- 04\/2020 - 03\/2023, [https://www.jsps.go.jp/english/e-grants/grants01.html  JSPS KAKENHI Grant number 20K19873], Grants-in-Aid for Young Scientists as PI (4.2M JPY). 
+- 04\/2017 - 03\/2020, [https://www.jsps.go.jp/english/e-grants/grants01.html  JSPS KAKENHI Grant number 17K1274], Grants-in-Aid for Young Scientists (B) as PI (4.1M JPY). 
 
 == Education
 - 10\/2012 - 09\/2015, PhD program, [http://www.i.kyoto-u.ac.jp/en/ Graduate school of Informatics], [http://www.i.kyoto-u.ac.jp/en/ Kyoto University, Japan].
