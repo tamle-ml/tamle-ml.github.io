@@ -24,12 +24,12 @@ Machine Learning Journal (*MLJ*), 2014. \n
 == Others
 
 *Preprints*
-- [https://arxiv.org/pdf/2006.07593.pdf {{<font color="blue">Optimal Transport Kernels for Sequential and Parallel Neural Architecture Search</font>}}] \n
-ArXiv, 2020. \n
-Vu Nguyen{{<font color="red">*</font>}}, *Tam Le*{{<font color="red">*</font>}}, Makoto Yamada, Michael A. Osborne
 - [https://arxiv.org/pdf/1910.04462.pdf {{<font color="blue">Flow-based Alignment Approaches for Probability Measures in Different Spaces</font>}}] \n
 ArXiv, 2020. \n
 *Tam Le*{{<font color="red">*</font>}}, Nhat Ho{{<font color="red">*</font>}}, Makoto Yamada
+- [https://arxiv.org/pdf/2006.07593.pdf {{<font color="blue">Optimal Transport Kernels for Sequential and Parallel Neural Architecture Search</font>}}] \n
+ArXiv, 2020. \n
+Vu Nguyen{{<font color="red">*</font>}}, *Tam Le*{{<font color="red">*</font>}}, Makoto Yamada, Michael A. Osborne
 - [https://arxiv.org/pdf/1910.04483.pdf {{<font color="blue">Tree-Wasserstein Barycenter for Large-Scale Multilevel Clustering and Scalable Bayes</font>}}] \n
 ArXiv, 2019. \n
 *Tam Le*{{<font color="red">*</font>}}, Viet Huynh{{<font color="red">*</font>}}, Nhat Ho{{<font color="red">*</font>}}, Dinh Phung, Makoto Yamada
