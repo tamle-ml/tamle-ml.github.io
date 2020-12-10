@@ -25,21 +25,21 @@ Machine Learning Journal (*MLJ*), 2014. \n
 
 *Preprints*
 - [https://arxiv.org/pdf/1910.04462.pdf {{<font color="blue">Flow-based Alignment Approaches for Probability Measures in Different Spaces</font>}}] \n
-ArXiv, 2020. \n
+ArXiv. \n
 *Tam Le*{{<font color="red">*</font>}}, Nhat Ho{{<font color="red">*</font>}}, Makoto Yamada
 - [https://arxiv.org/pdf/2006.07593.pdf {{<font color="blue">Optimal Transport Kernels for Sequential and Parallel Neural Architecture Search</font>}}] \n
-ArXiv, 2020. \n
+ArXiv. \n
 Vu Nguyen{{<font color="red">*</font>}}, *Tam Le*{{<font color="red">*</font>}}, Makoto Yamada, Michael A. Osborne
-- [https://arxiv.org/pdf/1910.04483.pdf {{<font color="blue">Tree-Wasserstein Barycenter for Large-Scale Multilevel Clustering and Scalable Bayes</font>}}] \n
-ArXiv, 2019. \n
-*Tam Le*{{<font color="red">*</font>}}, Viet Huynh{{<font color="red">*</font>}}, Nhat Ho{{<font color="red">*</font>}}, Dinh Phung, Makoto Yamada
 
 *Other Journals \/ Conference papers \/ Technical reports*
+- [https://arxiv.org/pdf/1910.04483.pdf {{<font color="blue">Tree-Wasserstein Barycenter for Large-Scale Multilevel Clustering and Scalable Bayes</font>}}] \n
+ArXiv. \n
+*Tam Le*{{<font color="red">*</font>}}, Viet Huynh{{<font color="red">*</font>}}, Nhat Ho{{<font color="red">*</font>}}, Dinh Phung, Makoto Yamada
 - [https://arxiv.org/pdf/1902.09722.pdf {{<font color="blue">Topological Bayesian Optimization with Persistence Diagrams</font>}}] \n
 European Conference on Artificial Intelligence (ECAI), 2020. (/Acceptance rate: 365\/1363 = 26.8%/) \n
 Tatsuya Shiraishi, *Tam Le*, Hisashi Kashima, Makoto Yamada
 - [https://arxiv.org/pdf/1909.02373.pdf {{<font color="blue">LSMI-Sinkhorn: Semi-supervised Squared-Loss Mutual Information Estimation with Optimal Transport</font>}}] \n
-ArXiv, 2019. \n
+ArXiv. \n
 Yanbin Liu{{<font color="red">*</font>}}, Makoto Yamada{{<font color="red">*</font>}}, Yao-Hung Hubert Tsai, *Tam Le*, Ruslan Salakhutdinov, Yi Yang
 - [https://www.tandfonline.com/doi/full/10.1080/14686996.2018.1439253\#aHR0cHM6Ly93d3cudGFuZGZvbmxpbmUuY29tL2RvaS9wZGYvMTAuMTA4MC8xNDY4Njk5Ni4yMDE4LjE0MzkyNTM/bmVlZEFjY2Vzcz10cnVlQEBAMA== {{<font color="blue">A General Representation Scheme for Crystalline Solids based on Voronoi-Tessellation Real Feature Values and Atomic Property Data</font>}}] \n
 Science and Technology of Advance Materials Journal (STAM), 2018. \n
