@@ -23,6 +23,7 @@ Email: tam.le\[/at/\]riken.jp or lttam.vn\[/at/\]gmail.com \n
 My CV is [https://www.dropbox.com/s/2rsiwe1pmhon0tx/TamLe2020June.pdf?dl=0 here] - Updated June, 2020.
 
 == News
+- 23-Jan-2021, Our 2 papers, entitled [https://arxiv.org "Entropy Partial Transport with Tree Metrics: Theory and Practice"] (joint work with Truyen Nguyen) and [https://arxiv.org/pdf/1910.04462.pdf "Flow-based Alignment Approaches for Probability Measures in Different Spaces"] (joint work with Nhat Ho and Makoto Yamada), have been accepted to [https://aistats.org/aistats2021/ AISTATS'21].
 - 05-Apr-2020, Our proposal has been accepted by the Grants-in-Aid for Young Scientists as PI (04\/2020 - 03\/2023).
 - 26-Oct-2019, Matlab code for tree-(sliced)-Wasserstein distance in our [https://neurips.cc/ NeurIPS'19] ([https://arxiv.org/pdf/1902.00342.pdf Tree-Sliced Variants of Wasserstein Distances]) is available [https://github.com/lttam/TreeWasserstein \[Github\]].  
 - 04-Sep-2019, Our paper, entitled [https://arxiv.org/pdf/1902.00342.pdf "Tree-Sliced Variants of Wasserstein Distances"] has been accepted to [https://nips.cc NeurIPS'19]! This is joint work with Marco Cuturi, Kenji Fukumizu, and Makoto Yamada.  
@@ -46,7 +47,7 @@ My CV is [https://www.dropbox.com/s/2rsiwe1pmhon0tx/TamLe2020June.pdf?dl=0 here]
 == Research Experience
 - 09\/2017 - present, Postdoctoral Researcher, [http://www.riken.jp/en/research/labs/aip/generic_tech/highdim_stat_model/ High-Dimensional Statistical Modeling Team], [http://www.riken.jp/en/research/labs/aip/ RIKEN Center for Advanced Intelligence Project (RIKEN AIP)].
 -- Mentor: [https://riken-yamada.github.io/profile.html Professor Makoto Yamada]
-- 02\/2016 - 08\/2017, Postdoctoral Researcher, [http://www-als.ics.nitech.ac.jp/~takeuchi/ Nagoya Institute of Technology, Japan] & [https://www.nims.go.jp/eng/ National Institute for Materials Science, Japan].
+- 02\/2016 - 08\/2017, Postdoctoral Researcher, [http://www-als.ics.nitech.ac.jp/~takeuchi/ Nagoya Institute of Technology] & [https://www.nims.go.jp/eng/ National Institute for Materials Science, Japan].
 -- Mentor: [http://www-als.ics.nitech.ac.jp/~takeuchi/ Professor Ichiro Takeuchi].
 - 01\/2016, Associate Researcher, [http://www-als.ics.nitech.ac.jp/~takeuchi/ Nagoya Institute of Technology, Japan].
 -- Mentor: [http://www-als.ics.nitech.ac.jp/~takeuchi/ Professor Ichiro Takeuchi].

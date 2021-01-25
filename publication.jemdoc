@@ -5,18 +5,30 @@
 
 == Selected Journals / Conference papers
 
+- [https://arxiv.org {{<font color="blue">Entropy Partial Transport with Tree Metrics: Theory and Practice</font>}}] \n
+International Conference on Artificial Intelligence and Statistics (*AISTATS*), 2021. (/Acceptance rate: 455\/1527=29.8%/) \n 
+*Tam Le*{{<font color="red">*</font>}}, Truyen Nguyen{{<font color="red">*</font>}}
+
+- [https://arxiv.org/pdf/1910.04462.pdf {{<font color="blue">Flow-based Alignment Approaches for Probability Measures in Different Spaces</font>}}] \n
+International Conference on Artificial Intelligence and Statistics (*AISTATS*), 2021. (/Acceptance rate: 455\/1527=29.8%/) \n 
+*Tam Le*{{<font color="red">*</font>}}, Nhat Ho{{<font color="red">*</font>}}, Makoto Yamada
+
 - [https://papers.nips.cc/paper/9396-tree-sliced-variants-of-wasserstein-distances.pdf {{<font color="blue">Tree-Sliced Variants of Wasserstein Distances</font>}}]. \[[https://papers.nips.cc/paper/9396-tree-sliced-variants-of-wasserstein-distances-supplemental.zip Supplementary]\/[https://www.dropbox.com/s/4ugbmyu5jepxun0/TLMYKFMC_NeurIPS19_TSW.pdf?dl=0 POSTER]\] \n
  Neural Information Processing Systems (*NeurIPS\/NIPS*), 2019. (/Acceptance rate: 1428\/6743=21.2%/) \n 
  *Tam Le*, Makoto Yamada, Kenji Fukumizu, Marco Cuturi
+ 
 - [http://proceedings.mlr.press/v97/ndiaye19a/ndiaye19a.pdf {{<font color="blue">Safe Grid Search with Optimal Complexity</font>}}]. \[[http://proceedings.mlr.press/v97/ndiaye19a/ndiaye19a-supp.pdf Supplementary]\/[https://www.dropbox.com/s/f4appwq8sghnz31/poster_icml2019_ndiaye_final.pdf?dl=0 POSTER]\]  \n
 International Conference on Machine Learning (*ICML*), 2019. (/Acceptance rate: 773\/3424=22.6%/) \n
  Eugene Ndiaye, *Tam Le*, Olivier Fercoq, Joseph Salmon, Ichiro Takeuchi
+
 - [http://papers.nips.cc/paper/8205-persistence-fisher-kernel-a-riemannian-manifold-kernel-for-persistence-diagrams.pdf {{<font color="blue">Persistence Fisher Kernel: A Riemannian Manifold Kernel for Persistence Diagrams</font>}}]. \[[http://papers.nips.cc/paper/8205-persistence-fisher-kernel-a-riemannian-manifold-kernel-for-persistence-diagrams-supplemental.zip Supplementary]\/[https://www.dropbox.com/s/o99zja0qtzpdzci/TLMY_NIPS18_PFKernel_PD.pdf?dl=0 POSTER]\]  \n
 Neural Information Processing Systems (*NeurIPS\/NIPS*), 2018. (/Acceptance rate: 1011\/4856=20.8%/) \n
  *Tam Le*, Makoto Yamada
+ 
 - [http://proceedings.mlr.press/v37/le15.pdf {{<font color="blue">Unsupervised Riemannian Metric Learning for Histograms Using Aitchison Transformations</font>}}]. \[[http://videolectures.net/icml2015_le_histograms/?q=Tam\%20Le Video]\/[http://proceedings.mlr.press/v37/le15-supp.pdf Supplemental]\/[https://www.dropbox.com/s/vj4gsgnazrhlvdt/TL.MC.ICML2015.Slide.pdf?dl=0 SLIDE]\/[https://www.dropbox.com/s/4zboqoil7gwn3i1/TL.MC.ICML2015.Poster.pdf?dl=0 POSTER]\] \n
 International Conference on Machine Learning (*ICML*), 2015. (/Acceptance rate: 270\/1037 = 26.0%/) \n
  *Tam Le*, Marco Cuturi
+ 
 - [https://www.dropbox.com/s/ag7hy2v7wdilu4j/TL.MC.MLJ2014.pdf?dl=0 {{<font color="blue">Adaptive Euclidean Maps for Histograms: Generalized Aitchison Embeddings</font>}}] \n
 Machine Learning Journal (*MLJ*), 2014. \n
  *Tam Le*, Marco Cuturi
@@ -24,9 +36,7 @@ Machine Learning Journal (*MLJ*), 2014. \n
 == Others
 
 *Preprints*
-- [https://arxiv.org/pdf/1910.04462.pdf {{<font color="blue">Flow-based Alignment Approaches for Probability Measures in Different Spaces</font>}}] \n
-ArXiv. \n
-*Tam Le*{{<font color="red">*</font>}}, Nhat Ho{{<font color="red">*</font>}}, Makoto Yamada
+
 - [https://arxiv.org/pdf/2006.07593.pdf {{<font color="blue">Optimal Transport Kernels for Sequential and Parallel Neural Architecture Search</font>}}] \n
 ArXiv. \n
 Vu Nguyen{{<font color="red">*</font>}}, *Tam Le*{{<font color="red">*</font>}}, Makoto Yamada, Michael A. Osborne
@@ -73,6 +83,7 @@ Asian Conference on Intelligent Information and Database Systems (ACIIDS), 2010 
 - Eugene Ndiaye, *Tam Le*, Olivier Fercoq, Joseph Salmon, Ichiro Takeuchi, {{<font color="blue">GridSearch: Complexite et Garantie pour la Validation (GridSearch: Complexity and Guarantee for Validation)</font>}}. [http://cap2018.litislab.fr/Programme-en.html Conference Sur L'Apprentissage Automatique (CAp)], 2018.
 
 *Talks*
+- 2021, {{<font color="blue">An Introduction on Tree-(Sliced)-Wasserstein Geometry</font>}}, RIKEN AIP Open Seminar Series, Virtual. \[[https://www.dropbox.com/s/6tpdgjy7nqp93gq/TamLe_TW_RIKEN%20Open%20Seminar_FINAL_2021.pdf?dl=0 SLIDE]\]
 - 2019, {{<font color="blue">Kernel methods for Persistence Diagrams: A Geometric Approach</font>}}, Institute for Advanced Study, Kyoto University, Japan. \[[https://www.dropbox.com/s/gejiyhbjfcpfk4t/2019July_TDA_GeometricKernel.pdf?dl=0 SLIDE]\]
 - 2016, {{<font color="blue">Geometry-Aware Metric Learning for Histograms</font>}}, [http://www.nims.go.jp/MII-I/event/h6g4rf000000034y-att/h6g4rf000000036n.pdf MI2I Open Seminar Series], National Institute for Materials Science, Tsukuba, Japan. \[[https://www.dropbox.com/s/o6nrtzh39si8u7p/TamLe_NIMS_June2016.pdf?dl=0 SLIDE]\]
 - 2015, {{<font color="blue">Metric Learning for Histograms</font>}}, Nagoya Institute of Technology, Japan. 
