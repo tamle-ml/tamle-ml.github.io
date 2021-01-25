@@ -41,28 +41,40 @@ Machine Learning Journal (*MLJ*), 2014. \n
 ArXiv. \n
 Vu Nguyen{{<font color="red">*</font>}}, *Tam Le*{{<font color="red">*</font>}}, Makoto Yamada, Michael A. Osborne
 
-*Other Journals \/ Conference papers \/ Technical reports*
 - [https://arxiv.org/pdf/1910.04483.pdf {{<font color="blue">Tree-Wasserstein Barycenter for Large-Scale Multilevel Clustering and Scalable Bayes</font>}}] \n
 ArXiv. \n
 *Tam Le*{{<font color="red">*</font>}}, Viet Huynh{{<font color="red">*</font>}}, Nhat Ho{{<font color="red">*</font>}}, Dinh Phung, Makoto Yamada
-- [https://arxiv.org/pdf/1902.09722.pdf {{<font color="blue">Topological Bayesian Optimization with Persistence Diagrams</font>}}] \n
-European Conference on Artificial Intelligence (ECAI), 2020. (/Acceptance rate: 365\/1363 = 26.8%/) \n
-Tatsuya Shiraishi, *Tam Le*, Hisashi Kashima, Makoto Yamada
+
 - [https://arxiv.org/pdf/1909.02373.pdf {{<font color="blue">LSMI-Sinkhorn: Semi-supervised Squared-Loss Mutual Information Estimation with Optimal Transport</font>}}] \n
 ArXiv. \n
 Yanbin Liu{{<font color="red">*</font>}}, Makoto Yamada{{<font color="red">*</font>}}, Yao-Hung Hubert Tsai, *Tam Le*, Ruslan Salakhutdinov, Yi Yang
+
+- [https://arxiv.org {{<font color="blue">Point-set Distances for Learning Representations of 3D Point Clouds</font>}}] \n
+/Under review/. \n
+Trung Nguyen, Hieu Pham, *Tam Le*, Nhat Ho, Tung Pham, Son Hua.
+
+
+*Other Journals \/ Conference papers*
+- [https://arxiv.org/pdf/1902.09722.pdf {{<font color="blue">Topological Bayesian Optimization with Persistence Diagrams</font>}}] \n
+European Conference on Artificial Intelligence (ECAI), 2020. (/Acceptance rate: 365\/1363 = 26.8%/) \n
+Tatsuya Shiraishi, *Tam Le*, Hisashi Kashima, Makoto Yamada
+
 - [https://www.tandfonline.com/doi/full/10.1080/14686996.2018.1439253\#aHR0cHM6Ly93d3cudGFuZGZvbmxpbmUuY29tL2RvaS9wZGYvMTAuMTA4MC8xNDY4Njk5Ni4yMDE4LjE0MzkyNTM/bmVlZEFjY2Vzcz10cnVlQEBAMA== {{<font color="blue">A General Representation Scheme for Crystalline Solids based on Voronoi-Tessellation Real Feature Values and Atomic Property Data</font>}}] \n
 Science and Technology of Advance Materials Journal (STAM), 2018. \n
  Randy Jalem, Masanobu Nakayama, Yusuke Noda, *Tam Le*, Ichiro Takeuchi, Yoshitaka Tateyama, Hisatsugu Yamazaki
+ 
 - [http://proceedings.mlr.press/v29/Le13.pdf {{<font color="blue">Generalized Aitchison Embeddings for Histograms</font>}}]. \[[https://799a327a-a-62cb3a1a-s-sites.googlegroups.com/site/tamtle85/acml13/TamLe_ACML13.pdf?attachauth=ANoY7co0ctNrM6IGtGy7-HUUGaF_jZNDALnhKuyeXTvrvnRFksIGZaEm5xtXaqY8o92WUlHWgomz46LrFTNuAxHpyH260KPc9qFskG75521q96T1aVUXrtSSJsMZowtTBxFO5cMtu6l4GYPQT-rsx97SfSU8QxMoGN-ik17jgZyKGNqWVINs36qZ7VDnUYopGTOi0_vMOKI5AHjMnjTEm_yWp9VdkJcA05GFzRhsNpNJqZewg222Sqo%3D&attredirects=0 SLIDE]\] \n
 Asian Conference on Machine Learning (ACML), 2013 (oral). (/Oral paper rate: 9.7\%/) \n
  *Tam Le*, Marco Cuturi
+ 
 - [https://799a327a-a-62cb3a1a-s-sites.googlegroups.com/site/tamtle85/hsmk-code/TL.YK.AS-HSMK-IIEEJ13.pdf?attachauth=ANoY7cptnG2XULNdwNvStBxHRF8txio8ZQk3x6EZgWSPZPNf91QFmZQAI4gI6v7o2bS48WD9Pcn-KC1VGm43cZh6E0nH_xC0jDkQ22HyVHkW7V-8NOF0cpQGaxgdxxtsQqz50Mc3PkLvMsSSCxyiGCTgUmzdycH3WiQK64E9RV6dYDItqJs-EJZbTCq9qJT6enMaItGICb7BP6M1ybUWqCMEXIBBw7JAUtmDfUZkl2auPdjT5bSEw_o%3D&attredirects=0 {{<font color="blue">Image Categorization Using Hierarchical Spatial Matching Kernel</font>}}] \n
 Journal of the Institute of Image Electronics Engineers of Japan (IIEEJ), Vol. 42, No. 2, 2013. \n
  *Tam Le*, Yousun Kang, Akihiro Sugimoto
+ 
 - [https://www.dropbox.com/s/4bqrsuzn9as0tix/TamLe-ICIAR11.pdf?dl=0 {{<font color="blue">Hierarchical Spatial Matching Kernel for Image Categorization</font>}}]. \[[https://f2496fb7-a-62cb3a1a-s-sites.googlegroups.com/site/lttam85/Home/TamLe-HSMK-ICIAR11.pdf?attachauth=ANoY7crjZ3Vt6hzUNYaDrFcbxZa7jywngZ-KX3FDN8uMs7NLsMbGWBOp122P29kFrRmXAgYLVtN6VKr-TksXj7p_XUSOyo_WDfmjl_6xRsFR-Cf3OTCfrdyLoGvODtRi7i5xS3L0j1jKiAf-EncSOtNba7Qaq1EL46LaG9rLERKLvr39AeOSKb8MVy5oN2o-mW0PMEwIfDW8p8jIUPR_XBAqg2hpJoJSMKOtzihdKDvTMGuhBiniQIk%3D&attredirects=0 SLIDE]\] \n
 International Conference on Image Processing and Recognition (ICIAR), 2011 (oral). (/Oral paper rate: 25\%/)\n
  *Tam Le*, Yousun Kang, Akihiro Sugimoto, Son Tran, Thuc Nguyen
+ 
 - [https://www.dropbox.com/s/987ev6ok1dtatyj/TamLe-ACIIDS10.pdf?dl=0 {{<font color="blue">Realtime Traffic Sign Detection Using Color and Shape-Based Features</font>}}] \n
 Asian Conference on Intelligent Information and Database Systems (ACIIDS), 2010 (oral). \n
  *Tam Le*, Son Tran, Seichii Mita, Thuc Nguyen
