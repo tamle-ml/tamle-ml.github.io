@@ -5,6 +5,10 @@
 
 == Selected Journals / Conference papers
 
+- [https://arxiv.org/pdf/2006.07593.pdf {{<font color="blue">Optimal Transport Kernels for Sequential and Parallel Neural Architecture Search</font>}}] \n
+International Conference on Machine Learning (*ICML*), 2021. (/Acceptance rate: 1184\/5513=21.5%/) \n
+Vu Nguyen{{<font color="red">*</font>}}, *Tam Le*{{<font color="red">*</font>}}, Makoto Yamada, Michael A. Osborne
+
 - [https://arxiv.org/pdf/2101.09756.pdf {{<font color="blue">Entropy Partial Transport with Tree Metrics: Theory and Practice</font>}}] \n
 International Conference on Artificial Intelligence and Statistics (*AISTATS*), 2021. (/Oral rate: 48\/1527=3.1%/) \n 
 *Tam Le*{{<font color="red">*</font>}}, Truyen Nguyen{{<font color="red">*</font>}} \n
@@ -39,10 +43,6 @@ Machine Learning Journal (*MLJ*), 2014. \n
 == Others
 
 *Preprints*
-
-- [https://arxiv.org/pdf/2006.07593.pdf {{<font color="blue">Optimal Transport Kernels for Sequential and Parallel Neural Architecture Search</font>}}] \n
-ArXiv. \n
-Vu Nguyen{{<font color="red">*</font>}}, *Tam Le*{{<font color="red">*</font>}}, Makoto Yamada, Michael A. Osborne
 
 - [https://arxiv.org/pdf/1910.04483.pdf {{<font color="blue">Tree-Wasserstein Barycenter for Large-Scale Multilevel Clustering and Scalable Bayes</font>}}] \n
 ArXiv. \n
