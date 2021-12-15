@@ -3,16 +3,17 @@
 
 - [https://github.com/lttam/Adversarial-Regression Adversarial Regression with Doubly Non-negative Weighting Matrices]. (NeurIPS 2021)
 -- An adversarial regression (e.g., for Nadaraya-Watson, for locally linear regression, for support vector regression).
+-- Implemented by TL and Viet Anh Nguyen.
 - [https://github.com/lttam/EntropyPartialTransport Entropy Partial Transport with Tree Metric]. (AISTATS 2021)
 -- An unbalanced version of Tree-(Sliced)-Wasserstein for probability measures with different total mass.
 -- A valid positive definite kernel for persistence diagrams (which can have different numbers of topological features, e.g., connected components, rings).
 - [https://github.com/lttam/FlowBasedAlignment-GW Flow-based Alignment Approaches for Probability Measures in Different Spaces]. (AISTATS 2021)
 -- A variant of Gromov-Wasserstein with tree metrics.
 - [https://github.com/lttam/TW_NAS Optimal Transport Kernels for Sequential and Parallel Neural Architecture Search]. (ICML 2021)
--- Implemented by Vu Nguyen.
+-- Implemented by Vu Nguyen. (Partially by TL --  tree-Wasserstein for neural networks)
 - [https://github.com/lttam/LSMI-Sinkhorn LSMI-Sinkhorn]. (ECML-PKDD 2021)
 -- Implemented by Yanbin Liu and Makoto Yamada.
-- [https://github.com/lttam/TreeWasserstein Tree-(Sliced)-Wasserstein Distances]. (NeurIPS/NIPS 2019)
+- [https://github.com/lttam/TreeWasserstein Tree-(Sliced)-Wasserstein Distances]. (NeurIPS 2019)
 -- A Valid Positive Definite Wasserstein Kernel for Persistence Diagrams.
 #- [https://github.com/lttam/Kmeans-FlowTreeGW-Barycenter Kmeans with Flow-based Tree Gromov-Wasserstein Barycenters]. (ArXiv 2019)
 - [https://github.com/lttam/safe_grid_search Safe Grid Search with Optimal Complexity]. (ICML 2019)
