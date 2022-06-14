@@ -5,8 +5,7 @@
 
 == Selected Journals / Conference papers
 
-- [https://arxiv.org/pdf/2202.10723.pdf {{<font color="blue">Sobolev Transport: A Scalable Metric for Probability Measures with Graph Metrics</font>}}] . \n
-# \[[https://slideslive.com/38953310/flowbased-alignment-approaches-for-probability-measures-in-different-spaces?ref=speaker-17801-latest Video]\/[http://proceedings.mlr.press/v130/le21b/le21b-supp.pdf Supplementary]\/[https://www.dropbox.com/s/vc09k731yh20nhv/TLNHMY_AISTATS2021_FlowAlign.pdf?dl=0 POSTER]\] \n
+- [Download PDF {{<font color="blue">Sobolev Transport: A Scalable Metric for Probability Measures with Graph Metrics</font>}}] .  \[[https://slideslive.com/38980758/sobolev-transport-a-scalable-metric-for-probability-measures-with-graph-metrics?ref=speaker-17801 Video]\/[https://proceedings.mlr.press/v151/le22b/le22b-supp.zip Supplementary]\/[https://www.dropbox.com/s/eg4pw4rw960bho1/LNPN_AISTATS2022_SobolevTransport_Poster.pdf?dl=0 POSTER]\] \n
 International Conference on Artificial Intelligence and Statistics (*AISTATS*), 2022. (/Acceptance rate: 492\/1685=29.2%/) \n 
 *Tam Le*{{<font color="red">*</font>}}, Truyen Nguyen{{<font color="red">*</font>}}, Dinh Phung, Viet Anh Nguyen
 
@@ -104,7 +103,7 @@ Asian Conference on Intelligent Information and Database Systems (ACIIDS), 2010 
 - Eugene Ndiaye, *Tam Le*, Olivier Fercoq, Joseph Salmon, Ichiro Takeuchi, {{<font color="blue">GridSearch: Complexite et Garantie pour la Validation (GridSearch: Complexity and Guarantee for Validation)</font>}}. [http://cap2018.litislab.fr/Programme-en.html Conference Sur L'Apprentissage Automatique (CAp)], 2018.
 
 *Invited Talks*
-- \[Upcoming\] 2022, {{<font color="blue">Geometric Approaches for Persistence Diagrams in Topological Data Analysis</font>}}, [https://sites.google.com/kyoto-u.ac.jp/apatg Asia Pacific Seminar on Applied Topology and Geometry (APATG)], Virtual. ###\[[https://www.dropbox.com/s/4l37iw738ivtn0h/TamLe_AAAI22%20Workshop_OTSDM.pdf?dl=0 SLIDE]\]
+- 2022, {{<font color="blue">Geometric Approaches for Persistence Diagrams in Topological Data Analysis</font>}}, [https://sites.google.com/kyoto-u.ac.jp/apatg Asia Pacific Seminar on Applied Topology and Geometry (APATG)], Virtual. \[[https://www.dropbox.com/s/hd8c61gui6n55py/TamLe_APATG2022_Slide.pdf?dl=0 SLIDE]\]
 - 2022, {{<font color="blue">On Scalability of Optimal Transport with Tree/Graph metric</font>}}, AAAI workshop ([https://ot-sdm.github.io/ OT-SDM: International Workshop on Optimal Transport and Structured Data Modeling]), Virtual. \[[https://www.dropbox.com/s/4l37iw738ivtn0h/TamLe_AAAI22%20Workshop_OTSDM.pdf?dl=0 SLIDE]\]
 - 2021, {{<font color="blue">Adversarial Regression with Doubly Non-negative Weighting Matrices</font>}}, [https://www.vinai.io/neuripsworkshop2021 VinAI workshop], Virtual. \[[https://www.dropbox.com/s/mjovcgfeyogrb30/TamLe_VinAIWorkshopp2021_Adversarial%20Regrerssion.pdf?dl=0 SLIDE]\]
 - 2021, {{<font color="blue">An Introduction on Tree-(Sliced)-Wasserstein Geometry</font>}}, RIKEN AIP Open Seminar Series, Virtual. \[[https://www.dropbox.com/s/6tpdgjy7nqp93gq/TamLe_TW_RIKEN%20Open%20Seminar_FINAL_2021.pdf?dl=0 SLIDE]\]

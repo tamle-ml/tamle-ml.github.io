@@ -1,6 +1,9 @@
 # jemdoc: menu{MENU}{code.html}
 = Tam Le \- Code & Datasets
 
+- [https://github.com/lttam/SobolevTransport Sobolev Transport]. (AISTATS 2022)
+-- A scalable variant of optimal transport for probability measures supported on a graph metric space.
+-- (i) closed-form expression for fast computation; (ii) negative definite metric which allows to build positive definite kernels.
 - [https://github.com/lttam/Adversarial-Regression Adversarial Regression with Doubly Non-negative Weighting Matrices]. (NeurIPS 2021)
 -- An adversarial regression (e.g., for Nadaraya-Watson, for locally linear regression, for support vector regression).
 -- Implemented by TL and Viet Anh Nguyen.
