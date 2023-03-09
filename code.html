@@ -21,11 +21,24 @@
 <h1>Tam Le - Code &amp; Datasets</h1>
 </div>
 <ul>
-<li><p><a href="https://github.com/lttam/SobolevTransport" target=&ldquo;blank&rdquo;>Sobolev Transport</a>. (AISTATS 2022)</p>
+<li><p><a href="https://github.com/lttam/UnbalancedSobolevTransport" target=&ldquo;blank&rdquo;>Unbalanced Sobolev Transport (UST)</a>. (AISTATS 2023)</p>
+<ul>
+<li><p>A scalable variant of unbalanced optimal transport for measures supported on a graph metric space.</p>
+</li>
+<li><p>(i) closed-form expression for fast computation; (ii) negative definite metric which allows to build positive definite kernels.</p>
+</li>
+<li><p>Note 1: The standard (Balanced) Sobolev Transport (AISTATS 2022) is a special case of UST (when input measures have the same mass).</p>
+</li>
+<li><p>Note 2: A variant distance of Entropy Partial Transport (AISTATS 2021) is a special case of UST (when input measures are supported on a tree metric space and UST with length measure and its order is equal to one). </p>
+</li></ul>
+</li>
+<li><p><a href="https://github.com/lttam/SobolevTransport" target=&ldquo;blank&rdquo;>Sobolev Transport (ST)</a>. (AISTATS 2022)</p>
 <ul>
 <li><p>A scalable variant of optimal transport for probability measures supported on a graph metric space.</p>
 </li>
 <li><p>(i) closed-form expression for fast computation; (ii) negative definite metric which allows to build positive definite kernels.</p>
+</li>
+<li><p>Note: Tree Wasserstein (NeurIPS 2019) is a special case of ST (when input measures are supported in a tree metric space).</p>
 </li></ul>
 </li>
 <li><p><a href="https://github.com/lttam/Adversarial-Regression" target=&ldquo;blank&rdquo;>Adversarial Regression with Doubly Non-negative Weighting Matrices</a>. (NeurIPS 2021)</p>
@@ -90,7 +103,7 @@
 <p><br /><br /></p>
 <div id="footer">
 <div id="footer-text">
-Page generated 2023-02-27 17:06:47 JST, by <a href="https://github.com/wsshin/jemdoc_mathjax" target="blank">jemdoc+MathJax</a>.
+Page generated 2023-03-09 15:42:24 JST, by <a href="https://github.com/wsshin/jemdoc_mathjax" target="blank">jemdoc+MathJax</a>.
 </div>
 </div>
 </td>

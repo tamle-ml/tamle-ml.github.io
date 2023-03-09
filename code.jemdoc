@@ -1,9 +1,15 @@
 # jemdoc: menu{MENU}{code.html}
 = Tam Le \- Code & Datasets
 
-- [https://github.com/lttam/SobolevTransport Sobolev Transport]. (AISTATS 2022)
+- [https://github.com/lttam/UnbalancedSobolevTransport Unbalanced Sobolev Transport (UST)]. (AISTATS 2023)
+-- A scalable variant of unbalanced optimal transport for measures supported on a graph metric space.
+-- (i) closed-form expression for fast computation; (ii) negative definite metric which allows to build positive definite kernels.
+-- Note 1: The standard (Balanced) Sobolev Transport (AISTATS 2022) is a special case of UST (when input measures have the same mass).
+-- Note 2: A variant distance of Entropy Partial Transport (AISTATS 2021) is a special case of UST (when input measures are supported on a tree metric space and UST with length measure and its order is equal to one). 
+- [https://github.com/lttam/SobolevTransport Sobolev Transport (ST)]. (AISTATS 2022)
 -- A scalable variant of optimal transport for probability measures supported on a graph metric space.
 -- (i) closed-form expression for fast computation; (ii) negative definite metric which allows to build positive definite kernels.
+-- Note: Tree Wasserstein (NeurIPS 2019) is a special case of ST (when input measures are supported in a tree metric space).
 - [https://github.com/lttam/Adversarial-Regression Adversarial Regression with Doubly Non-negative Weighting Matrices]. (NeurIPS 2021)
 -- An adversarial regression (e.g., for Nadaraya-Watson, for locally linear regression, for support vector regression).
 -- Implemented by TL and Viet Anh Nguyen.
