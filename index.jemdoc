@@ -4,13 +4,16 @@
 ~~~
 {}{img_left}{TamLeANU13.jpg}{Tam Le}{150}{178}{TamLeANU13.jpg}
 (a.k.a. Lê Thanh Tâm) \n
-*Assistant Professor*, [https://www.ism.ac.jp/organization/sec_analysis_e.html *Department of Statistical Inference and Mathematics*], [https://www.ism.ac.jp/index_e.html *The Institute of Statistical Mathematics (ISM)*]. \n
-Assistant Professor, [https://www.ism.ac.jp/noe/sml-center/en/index.html Research Center for Statistical Machine Learning], [https://www.ism.ac.jp/index_e.html ISM]. \n
-Assistant Professor, [https://www.ism.ac.jp/senkou_eng/ Statistical Science Program], [https://www.soken.ac.jp/en/index.html The Graduate School for Advanced Studies (SOKENDAI)]. \n
+[https://www.ism.ac.jp/index_e.html *The Institute of Statistical Mathematics (ISM)*] \n
+Assistant Professor, [https://www.ism.ac.jp/organization/sec_analysis_e.html Department of Statistical Inference and Mathematics] \n
+Assistant Professor, [https://www.ism.ac.jp/noe/sml-center/en/index.html Research Center for Statistical Machine Learning] \n
+\n 
+Concurrent affiliation: \n
 Visiting Scientist, [https://www.riken.jp/en/research/labs/aip/generic_tech/funct_anl_learn/ Functional Analytic Learning Team], [https://www.riken.jp/en/research/labs/aip/index.html RIKEN Center for Advanced Intelligence Project (RIKEN AIP)]. \n
+Assistant Professor, [https://www.ism.ac.jp/senkou_eng/ Statistical Science Program], [https://www.soken.ac.jp/en/index.html The Graduate School for Advanced Studies (SOKENDAI)]. \n
 ~~~
 
-Research interests: Optimal transport, tree-Wasserstein, Sobolev transport, geometric machine learning, Riemannian manifold, topological data analysis, kernel methods, robustness approach. \n
+Research interests: Machine learning, optimal transport, tree-Wasserstein, Sobolev transport, geometric machine learning, kernel methods. \n
 
 == Contact
 
@@ -29,9 +32,10 @@ My CV is [https://www.dropbox.com/scl/fi/qf5fjrdp2gkyxyjkbhmmz/TamLe2023Aug.pdf?
 - 21-Jan-2023, Our paper, entitled [https://arxiv.org/pdf/2302.12498.pdf "Scalable Unbalanced Sobolev Transport for Measures on a Graph"] has been accepted to [http://aistats.org/aistats2023/ *AISTATS'23*]! This is joint work with Kenji Fukumizu, and Truyen Nguyen.  
 - 01-Dec-2022, I am officially appointed as a visiting scientist at [https://www.riken.jp/en/research/labs/aip/generic_tech/funct_anl_learn/ Functional Analytic Learning Unit], [https://www.riken.jp/en/research/labs/aip/index.html RIKEN Center for Advanced Intelligence Project (RIKEN AIP)].
 - 01-Sep-2022, I officially join in [https://www.ism.ac.jp/index_e.html The Institute of Statistical Mathematics (ISM)] as Assistant Professor. I am also an Assistant Professor at [https://www.soken.ac.jp/en/index.html The Graduate School for Advanced Studies (SOKENDAI)].
-- 26-Jul-2022, I give an invited talk at Kyoto Machine Learning workshop.
-- 27-May-2022, I give an invited talk at [https://sites.google.com/kyoto-u.ac.jp/apatg Asia Pacific Seminar on Applied Topology and Geometry (APATG)]. \[[https://www.dropbox.com/s/hd8c61gui6n55py/TamLe_APATG2022_Slide.pdf?dl=0 SLIDE]\]
-- 01-Mar-2022, I give an invited talk at the AAAI workshop ([https://ot-sdm.github.io/ OT-SDM: International Workshop on Optimal Transport and Structured Data Modeling]). \[[https://www.dropbox.com/s/4l37iw738ivtn0h/TamLe_AAAI22%20Workshop_OTSDM.pdf?dl=0 SLIDE]\]
+
+#- 26-Jul-2022, I give an invited talk at Kyoto Machine Learning workshop.
+#- 27-May-2022, I give an invited talk at [https://sites.google.com/kyoto-u.ac.jp/apatg Asia Pacific Seminar on Applied Topology and Geometry (APATG)]. \[[https://www.dropbox.com/s/hd8c61gui6n55py/TamLe_APATG2022_Slide.pdf?dl=0 SLIDE]\]
+#- 01-Mar-2022, I give an invited talk at the AAAI workshop ([https://ot-sdm.github.io/ OT-SDM: International Workshop on Optimal Transport and Structured Data Modeling]). \[[https://www.dropbox.com/s/4l37iw738ivtn0h/TamLe_AAAI22%20Workshop_OTSDM.pdf?dl=0 SLIDE]\]
 
 #- 05-Apr-2020, Our proposal has been accepted by the Grants-in-Aid for Young Scientists as PI (04\/2020 - 03\/2023).
 #- 04-Sep-2019, Our paper, entitled [https://arxiv.org/pdf/1902.00342.pdf "Tree-Sliced Variants of Wasserstein Distances"] has been accepted to [https://nips.cc *NeurIPS 2019*]! This is joint work with Marco Cuturi, Kenji Fukumizu, and Makoto Yamada.  
@@ -50,8 +54,8 @@ My CV is [https://www.dropbox.com/scl/fi/qf5fjrdp2gkyxyjkbhmmz/TamLe2023Aug.pdf?
 
 *Others*
 
-- 06\/2022 - 03\/2027, a collaborator in Data Science group led by Professor Kenji Fukumizu (ISM), JSPS - Grant-in-Aid for Transformative Research Areas (A). 
-- 04\/2023 - 03\/2024, a collaborator in a group led by Professor Hideitsu Hino (ISM), Mitsui Information Co., Ltd grant. 
+- 06\/2022 - 03\/2027, a collaborator in Data Science group led by [https://www.ism.ac.jp/~fukumizu/ Professor Kenji Fukumizu] (ISM), JSPS - Grant-in-Aid for Transformative Research Areas (A). 
+- 04\/2023 - 03\/2024, a collaborator in a group led by [https://sites.google.com/view/hinohide/ Professor Hideitsu Hino] (ISM), Mitsui Information Co., Ltd grant. 
 - 04\/2023 - 03\/2024, ISM Joint-research 2023-ISMCRP-2010 as PI.
  
 == Education
@@ -62,8 +66,8 @@ My CV is [https://www.dropbox.com/scl/fi/qf5fjrdp2gkyxyjkbhmmz/TamLe2023Aug.pdf?
 == Research Experience
 - 09\/2022 - present, Assistant Professor, [https://www.ism.ac.jp/organization/sec_analysis_e.html Department of Statistical Inference and Mathematics], [https://www.ism.ac.jp/index_e.html The Institute of Statistical Mathematics (ISM)].
 - 12\/2022 - present, Visiting Scientist, [https://www.riken.jp/en/research/labs/aip/generic_tech/funct_anl_learn/ Functional Analytic Learning Team], [https://www.riken.jp/en/research/labs/aip/index.html RIKEN Center for Advanced Intelligence Project (RIKEN AIP)].
-- 03\/2023 - present, Assistant Professor, [https://www.ism.ac.jp/noe/sml-center/en/index.html Research Center for Statistical Machine Learning], [https://www.ism.ac.jp/index_e.html The Institute of Statistical Mathematics (ISM)]. \n
-- 09\/2022 - present, Assistant Professor, [https://www.soken.ac.jp/en/index.html The Graduate School for Advanced Studies (SOKENDAI)].
+- 03\/2023 - present, Assistant Professor, [https://www.ism.ac.jp/noe/sml-center/en/index.html Research Center for Statistical Machine Learning], [https://www.ism.ac.jp/index_e.html The Institute of Statistical Mathematics (ISM)]. \[concurrent affiliation\]
+- 09\/2022 - present, Assistant Professor, [https://www.soken.ac.jp/en/index.html The Graduate School for Advanced Studies (SOKENDAI)]. \[concurrent affiliation\]
 - 08\/2021 - 08\/2022, Research Scientist, [http://www.riken.jp/en/research/labs/aip/ RIKEN Center for Advanced Intelligence Project (RIKEN AIP)].
 -- Mentor: [https://riken-yamada.github.io/profile.html Professor Makoto Yamada]
 -- This position requires at least 5-year research experience after Ph.D.
