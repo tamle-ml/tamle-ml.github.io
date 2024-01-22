@@ -7,7 +7,8 @@
 
 - [https://arxiv.org/pdf/2310.13653.pdf {{<font color="blue">Optimal Transport for Measures with Noisy Tree Metric</font>}}] \n
 International Conference on Artificial Intelligence and Statistics (*AISTATS*), 2024. (/Acceptance rate: 546\/1980/) \n 
-*Tam Le*, Truyen Nguyen, Kenji Fukumizu.
+*Tam Le*, Truyen Nguyen, Kenji Fukumizu. \n
+(Preliminary workshop version in NeurIPS workshop: OTML, 2023)
 
 - [https://arxiv.org/pdf/2302.12498.pdf {{<font color="blue">Scalable Unbalanced Sobolev Transport for Measures on a Graph</font>}}] .  \n #\[[https://slideslive.com/38980758/sobolev-transport-a-scalable-metric-for-probability-measures-with-graph-metrics?ref=speaker-17801 Video]\/[https://proceedings.mlr.press/v151/le22b/le22b-supp.zip Supplementary]\/[https://www.dropbox.com/s/eg4pw4rw960bho1/LNPN_AISTATS2022_SobolevTransport_Poster.pdf?dl=0 POSTER]\] \n
 International Conference on Artificial Intelligence and Statistics (*AISTATS*), 2023. (/Acceptance rate: 496\/1686/) \n 
@@ -47,6 +48,7 @@ International Conference on Machine Learning (*ICML*), 2019. (/Acceptance rate: 
 - [http://papers.nips.cc/paper/8205-persistence-fisher-kernel-a-riemannian-manifold-kernel-for-persistence-diagrams.pdf {{<font color="blue">Persistence Fisher Kernel: A Riemannian Manifold Kernel for Persistence Diagrams</font>}}]. \[[http://papers.nips.cc/paper/8205-persistence-fisher-kernel-a-riemannian-manifold-kernel-for-persistence-diagrams-supplemental.zip Supplementary]\/[https://www.dropbox.com/s/o99zja0qtzpdzci/TLMY_NIPS18_PFKernel_PD.pdf?dl=0 POSTER]\]  \n
 Neural Information Processing Systems (*NeurIPS\/NIPS*), 2018. (/Acceptance rate: 1011\/4856/) \n
  *Tam Le*, Makoto Yamada
+ (Preliminary workshop version in ICML workshop: GML, 2018)
  
 - [http://proceedings.mlr.press/v37/le15.pdf {{<font color="blue">Unsupervised Riemannian Metric Learning for Histograms Using Aitchison Transformations</font>}}]. \[[http://videolectures.net/icml2015_le_histograms/?q=Tam\%20Le Video]\/[http://proceedings.mlr.press/v37/le15-supp.pdf Supplemental]\/[https://www.dropbox.com/s/vj4gsgnazrhlvdt/TL.MC.ICML2015.Slide.pdf?dl=0 SLIDE]\/[https://www.dropbox.com/s/4zboqoil7gwn3i1/TL.MC.ICML2015.Poster.pdf?dl=0 POSTER]\] \n
 International Conference on Machine Learning (*ICML*), 2015. (/Acceptance rate: 270\/1037/) \n
