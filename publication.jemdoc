@@ -63,6 +63,10 @@ Machine Learning Journal (*MLJ*), 2014. \n
 
 *Other Journals \/ Conference papers \/ Preprints*
 
+- [https://arxiv.org/pdf/2402.04516.pdf {{<font color="blue">Generalized Sobolev Transport for Probability Measures on a Graph</font>}}] .  \n 
+ArXiv, 2024. \n 
+*Tam Le*{{<font color="red">*</font>}}, Truyen Nguyen{{<font color="red">*</font>}}, Kenji Fukumizu.
+
 - [https://arxiv.org/pdf/2401.15889.pdf {{<font color="blue">Sliced Wasserstein with Random-Path Projecting Directions</font>}}] .  \n 
 ArXiv, 2024. \n 
 Khai Nguyen, Shujian Zhang, *Tam Le*, Nhat Ho.
@@ -70,10 +74,6 @@ Khai Nguyen, Shujian Zhang, *Tam Le*, Nhat Ho.
 - [to-be-updated {{<font color="blue">SAVA: Scalable Learning-Agnostic Data Valuation</font>}}] .  \n 
 Under review, 2024. \n 
 Samuel Kessler{{<font color="red">*</font>}}, *Tam Le*{{<font color="red">*</font>}}, Vu Nguyen.
-
-- [to-be-updated {{<font color="blue">Generalized Sobolev Transport for Probability Measures on a Graph</font>}}] .  \n 
-Under review, 2024. \n 
-*Tam Le*{{<font color="red">*</font>}}, Truyen Nguyen{{<font color="red">*</font>}}, Kenji Fukumizu.
 
 - [https://arxiv.org/pdf/2311.00927.pdf {{<font color="blue">Scalable Counterfactual Distribution Estimation in Multivariate Causal Models</font>}}] \n
 Conference on Causal Learning and Reasoning (/CLeaR/), 2024. \n
