@@ -21,89 +21,212 @@
 <h1>Tam Le - Code &amp; Datasets</h1>
 </div>
 <ul>
-<li><p><a href="https://github.com/lttam/UnbalancedSobolevTransport" target=&ldquo;blank&rdquo;>Unbalanced Sobolev Transport (UST)</a>. (AISTATS 2023)</p>
-<ul>
-<li><p>A scalable variant of unbalanced optimal transport for measures supported on a graph metric space.</p>
-</li>
-<li><p>(i) closed-form expression for fast computation; (ii) negative definite metric which allows to build positive definite kernels.</p>
-</li>
-<li><p>Note 1: The standard (Balanced) Sobolev Transport (AISTATS 2022) is a special case of UST (when input measures have the same mass).</p>
-</li>
-<li><p>Note 2: A variant distance of Entropy Partial Transport (AISTATS 2021) is a special case of UST (when input measures are supported on a tree metric space and UST with length measure and its order is equal to one). </p>
-</li></ul>
-</li>
-<li><p><a href="https://github.com/lttam/SobolevTransport" target=&ldquo;blank&rdquo;>Sobolev Transport (ST)</a>. (AISTATS 2022)</p>
-<ul>
-<li><p>A scalable variant of optimal transport for probability measures supported on a graph metric space.</p>
-</li>
-<li><p>(i) closed-form expression for fast computation; (ii) negative definite metric which allows to build positive definite kernels.</p>
-</li>
-<li><p>Note: Tree Wasserstein (NeurIPS 2019) is a special case of ST (when input measures are supported in a tree metric space).</p>
-</li></ul>
-</li>
-<li><p><a href="https://github.com/lttam/Adversarial-Regression" target=&ldquo;blank&rdquo;>Adversarial Regression with Doubly Non-negative Weighting Matrices</a>. (NeurIPS 2021)</p>
-<ul>
-<li><p>An adversarial regression (e.g., for Nadaraya-Watson, for locally linear regression, for support vector regression).</p>
-</li>
-<li><p>Implemented by TL and Viet Anh Nguyen.</p>
-</li></ul>
-</li>
-<li><p><a href="https://github.com/lttam/EntropyPartialTransport" target=&ldquo;blank&rdquo;>Entropy Partial Transport with Tree Metric</a>. (AISTATS 2021)</p>
-<ul>
-<li><p>An unbalanced version of Tree-(Sliced)-Wasserstein for probability measures with different total mass.</p>
-</li>
-<li><p>A valid positive definite kernel for persistence diagrams (which can have different numbers of topological features, e.g., connected components, rings).</p>
-</li></ul>
-</li>
-<li><p><a href="https://github.com/lttam/FlowBasedAlignment-GW" target=&ldquo;blank&rdquo;>Flow-based Alignment Approaches for Probability Measures in Different Spaces</a>. (AISTATS 2021)</p>
-<ul>
-<li><p>A variant of Gromov-Wasserstein with tree metrics.</p>
-</li></ul>
-</li>
-<li><p><a href="https://github.com/lttam/TW_NAS" target=&ldquo;blank&rdquo;>Optimal Transport Kernels for Sequential and Parallel Neural Architecture Search</a>. (ICML 2021)</p>
-<ul>
-<li><p>Implemented by Vu Nguyen. (Partially by TL &ndash;  tree-Wasserstein for neural networks)</p>
-</li></ul>
-</li>
-<li><p><a href="https://github.com/lttam/LSMI-Sinkhorn" target=&ldquo;blank&rdquo;>LSMI-Sinkhorn</a>. (ECML-PKDD 2021)</p>
-<ul>
-<li><p>Implemented by Yanbin Liu and Makoto Yamada.</p>
-</li></ul>
-</li>
-<li><p><a href="https://github.com/lttam/TreeWasserstein" target=&ldquo;blank&rdquo;>Tree-(Sliced)-Wasserstein Distances</a>. (NeurIPS 2019)</p>
-<ul>
-<li><p>A Valid Positive Definite Wasserstein Kernel for Persistence Diagrams.
+<li><p><a href="https://github.com/lttam/RobustOT-NoisyTreeMetric" target=&ldquo;blank&rdquo;>Scalable Robust Optimal Transport</a>. (AISTATS 2024)
 </p>
-</li></ul>
-</li>
-<li><p><a href="https://github.com/lttam/safe_grid_search" target=&ldquo;blank&rdquo;>Safe Grid Search with Optimal Complexity</a>. (ICML 2019)</p>
 <ul>
-<li><p>Implemented by Eugene Ndiaye.</p>
-</li></ul>
+<li><p>A scalable max-min robust optimal transport (OT) for measures with noisy tree metric.
+</p>
 </li>
-<li><p><a href="https://github.com/lttam/PersistenceFisher" target=&ldquo;blank&rdquo;>Persistence Fisher distance with or without Fast Gauss Transform</a>. (NeurIPS/NIPS 2018)</p>
+<li><p>Robust OT approach for the counterpart tree-Wasserstein (NeurIPS 2019) for measures supported on a tree metric space.
+</p>
+</li>
+</ul>
+
+</li>
+</ul>
 <ul>
-<li><p>Fisher information metric between two persistence diagrams.</p>
-</li></ul>
+<li><p><a href="https://github.com/lttam/scalable-counterfactual" target=&ldquo;blank&rdquo;>Scalable Counterfactual Distribution Estimation for Multivariate Causal Model</a>. (CLeaR 2024)
+</p>
+<ul>
+<li><p>A scalable optimal transport approach to estimate counterfactual distribution for causal inference.
+</p>
 </li>
-<li><p><a href="https://github.com/lttam/GenAitEmb" target=&ldquo;blank&rdquo;>Generalized Aitchison Embeddings for Histograms</a>. (ACML 2013 &amp; MLJ 2014)</p>
+<li><p>Implemented by Thong Pham.
+</p>
 </li>
-<li><p><a href="https://sites.google.com/site/lttamvn/research/object-category" target=&ldquo;blank&rdquo;>Hierarchical Spatial Matching Kernel for Image Categorization</a>. (ICIAR 2011 &amp; IIEEJ 2013)</p>
+</ul>
+
 </li>
-<li><p><a href="https://sites.google.com/site/lttamvn/research/traffic-sign-detection" target=&ldquo;blank&rdquo;>Realtime traffic sign detection using color and shape-based features</a>. (ACIIDS 2010)</p>
+</ul>
+<ul>
+<li><p><a href="https://github.com/lttam/UnbalancedSobolevTransport" target=&ldquo;blank&rdquo;>Unbalanced Sobolev Transport (UST)</a>. (AISTATS 2023)
+</p>
+<ul>
+<li><p>A scalable variant of unbalanced optimal transport for measures supported on a graph metric space.
+</p>
 </li>
-<li><p><a href="https://sites.google.com/site/lttamvn/research/traffic-sign-detection" target=&ldquo;blank&rdquo;>Color Training Dataset for Traffic Sign Segmentation</a>. (ACIIDS 2010) </p>
+<li><p>(i) closed-form expression for fast computation; (ii) negative definite metric which allows to build positive definite kernels.
+</p>
 </li>
-<li><p><a href="https://sites.google.com/site/lttamvn/research/traffic-sign-detection" target=&ldquo;blank&rdquo;>Test Dataset for Traffic Sign Detection</a>. (ACIIDS 2010)</p>
+<li><p>Note 1: The standard (Balanced) Sobolev Transport (AISTATS 2022) is a special case of UST (when input measures have the same mass).
+</p>
+</li>
+<li><p>Note 2: A variant distance of Entropy Partial Transport (AISTATS 2021) is a special case of UST (when input measures are supported on a tree metric space and UST with length measure and its order is equal to one). 
+</p>
+</li>
+</ul>
+
+</li>
+</ul>
+<ul>
+<li><p><a href="https://github.com/lttam/SobolevTransport" target=&ldquo;blank&rdquo;>Sobolev Transport (ST)</a>. (AISTATS 2022)
+</p>
+<ul>
+<li><p>A scalable variant of optimal transport for probability measures supported on a graph metric space.
+</p>
+</li>
+<li><p>(i) closed-form expression for fast computation; (ii) negative definite metric which allows to build positive definite kernels.
+</p>
+</li>
+<li><p>Note: Tree Wasserstein (NeurIPS 2019) is a special case of ST (when input measures are supported in a tree metric space).
+</p>
+</li>
+</ul>
+
+</li>
+</ul>
+<ul>
+<li><p><a href="https://github.com/lttam/Adversarial-Regression" target=&ldquo;blank&rdquo;>Adversarial Regression with Doubly Non-negative Weighting Matrices</a>. (NeurIPS 2021)
+</p>
+<ul>
+<li><p>An adversarial regression (e.g., for Nadaraya-Watson, for locally linear regression, for support vector regression).
+</p>
+</li>
+<li><p>Implemented by TL and Viet Anh Nguyen.
+</p>
+</li>
+</ul>
+
+</li>
+</ul>
+<ul>
+<li><p><a href="https://github.com/lttam/EntropyPartialTransport" target=&ldquo;blank&rdquo;>Entropy Partial Transport with Tree Metric</a>. (AISTATS 2021)
+</p>
+<ul>
+<li><p>The <i>first</i> closed-form solution of optimal transport problem for unbalanced measures. 
+</p>
+</li>
+<li><p>An unbalanced version of Tree-(Sliced)-Wasserstein for probability measures with different total mass.
+</p>
+</li>
+<li><p>A valid positive definite kernel for persistence diagrams (which can have different numbers of topological features, e.g., connected components, rings).
+</p>
+</li>
+</ul>
+
+</li>
+</ul>
+<ul>
+<li><p><a href="https://github.com/lttam/FlowBasedAlignment-GW" target=&ldquo;blank&rdquo;>Flow-based Alignment Approaches for Probability Measures in Different Spaces</a>. (AISTATS 2021)
+</p>
+<ul>
+<li><p>A variant of Gromov-Wasserstein with tree metrics.
+</p>
+</li>
+</ul>
+
+</li>
+</ul>
+<ul>
+<li><p><a href="https://github.com/lttam/TW_NAS" target=&ldquo;blank&rdquo;>Optimal Transport Kernels for Sequential and Parallel Neural Architecture Search</a>. (ICML 2021)
+</p>
+<ul>
+<li><p>Implemented by Vu Nguyen. (Partially by TL &ndash;  tree-Wasserstein for neural networks)
+</p>
+</li>
+<li><p>A valid positive-definite optimal transport kernel for neural network architectures.
+</p>
+</li>
+</ul>
+
+</li>
+</ul>
+<ul>
+<li><p><a href="https://github.com/lttam/LSMI-Sinkhorn" target=&ldquo;blank&rdquo;>LSMI-Sinkhorn</a>. (ECML-PKDD 2021)
+</p>
+<ul>
+<li><p>Implemented by Yanbin Liu and Makoto Yamada.
+</p>
+</li>
+</ul>
+
+</li>
+</ul>
+<ul>
+<li><p><a href="https://github.com/lttam/TreeWasserstein" target=&ldquo;blank&rdquo;>Tree-(Sliced)-Wasserstein Distances</a>. (NeurIPS 2019)
+</p>
+<ul>
+<li><p>A valid positive-definite Wasserstein Kernel for Persistence Diagrams.
+</p>
+</li>
+<li><p>A generalized version for the Sliced-Wasserstein (SW), i.e., a tree is a chain.
+</p>
+</li>
+<li><p>Closed-form expression of optimal transport (OT) for measures supported on a tree metric space.
+
+</p>
+</li>
+</ul>
+
+</li>
+</ul>
+<ul>
+<li><p><a href="https://github.com/lttam/safe_grid_search" target=&ldquo;blank&rdquo;>Safe Grid Search with Optimal Complexity</a>. (ICML 2019)
+</p>
+<ul>
+<li><p>Implemented by Eugene Ndiaye.
+</p>
+</li>
+</ul>
+
+</li>
+</ul>
+<ul>
+<li><p><a href="https://github.com/lttam/PersistenceFisher" target=&ldquo;blank&rdquo;>Persistence Fisher distance with or without Fast Gauss Transform</a>. (NeurIPS 2018)
+</p>
+<ul>
+<li><p>Fisher information metric between two persistence diagrams.
+</p>
+</li>
+</ul>
+
+</li>
+</ul>
+<ul>
+<li><p><a href="https://github.com/lttam/GenAitEmb" target=&ldquo;blank&rdquo;>Generalized Aitchison Embeddings for Histograms</a>. (ACML 2013 &amp; MLJ 2014)
+</p>
+</li>
+</ul>
+<ul>
+<li><p><a href="https://sites.google.com/site/lttamvn/research/object-category" target=&ldquo;blank&rdquo;>Hierarchical Spatial Matching Kernel for Image Categorization</a>. (ICIAR 2011 &amp; IIEEJ 2013)
+</p>
+</li>
+</ul>
+<ul>
+<li><p><a href="https://sites.google.com/site/lttamvn/research/traffic-sign-detection" target=&ldquo;blank&rdquo;>Realtime traffic sign detection using color and shape-based features</a>. (ACIIDS 2010)
+</p>
+</li>
+</ul>
+<ul>
+<li><p><a href="https://sites.google.com/site/lttamvn/research/traffic-sign-detection" target=&ldquo;blank&rdquo;>Color Training Dataset for Traffic Sign Segmentation</a>. (ACIIDS 2010) 
+</p>
+</li>
+</ul>
+<ul>
+<li><p><a href="https://sites.google.com/site/lttamvn/research/traffic-sign-detection" target=&ldquo;blank&rdquo;>Test Dataset for Traffic Sign Detection</a>. (ACIIDS 2010)
+</p>
 </li>
 </ul>
 <h3>Notes</h3>
-<p>The code available above is free of charge for research and education purposes. However, you must obtain a license from the author(s) to use it for commercial purposes. The code must not be distributed without prior permission of the author(s).</p>
-<p>The code is supplied &ldquo;as is&rdquo; without warranty of any kind, and the author(s) disclaim any and all warranties, including but not limited to any implied warranties of merchantability and fitness for a particular purpose, and any warranties or non infringement. The user assumes all liability and responsibility for use of the code, and in no event shall the author(s) be liable for damages of any kind resulting from its use.</p>
-<p><br /><br /></p>
+<p>The code available above is free of charge for research and education purposes. However, you must obtain a license from the author(s) to use it for commercial purposes. The code must not be distributed without prior permission of the author(s).
+</p>
+<p>The code is supplied &ldquo;as is&rdquo; without warranty of any kind, and the author(s) disclaim any and all warranties, including but not limited to any implied warranties of merchantability and fitness for a particular purpose, and any warranties or non infringement. The user assumes all liability and responsibility for use of the code, and in no event shall the author(s) be liable for damages of any kind resulting from its use.
+</p>
+<p><br /><br />
+</p>
 <div id="footer">
 <div id="footer-text">
-Page generated 2024-02-16 09:30:06 JST, by <a href="https://github.com/wsshin/jemdoc_mathjax" target="blank">jemdoc+MathJax</a>.
+Page generated 2024-02-28 21:33:19 JST, by <a href="https://github.com/wsshin/jemdoc_mathjax" target="blank">jemdoc+MathJax</a>.
 </div>
 </div>
 </td>
