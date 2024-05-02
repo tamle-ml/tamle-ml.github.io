@@ -5,6 +5,14 @@
 
 == Selected Journals / Conference papers
 
+- [https://arxiv.org/pdf/2401.15889.pdf {{<font color="blue">Sliced Wasserstein with Random-Path Projecting Directions</font>}}]  \n 
+International Conference on Machine Learning (*ICML*), 2024. (/Acceptance rate: 2609\/9473/) \n
+Khai Nguyen, Shujian Zhang, *Tam Le*, Nhat Ho.
+
+- [https://arxiv.org/pdf/2402.04516.pdf {{<font color="blue">Generalized Sobolev Transport for Probability Measures on a Graph</font>}}]  \n 
+International Conference on Machine Learning (*ICML*), 2024. (/Acceptance rate: 2609\/9473/) \n
+*Tam Le*{{<font color="red">*</font>}}, Truyen Nguyen{{<font color="red">*</font>}}, Kenji Fukumizu.
+
 - [https://arxiv.org/pdf/2310.13653.pdf {{<font color="blue">Optimal Transport for Measures with Noisy Tree Metric</font>}}] \n
 International Conference on Artificial Intelligence and Statistics (*AISTATS*), 2024. (/Acceptance rate: 546\/1980/) \n 
 *Tam Le*, Truyen Nguyen, Kenji Fukumizu. \n
@@ -62,14 +70,6 @@ Machine Learning Journal (*MLJ*), 2014. \n
 == Others
 
 *Other Journals \/ Conference papers \/ Preprints*
-
-- [https://arxiv.org/pdf/2402.04516.pdf {{<font color="blue">Generalized Sobolev Transport for Probability Measures on a Graph</font>}}]  \n 
-ArXiv, 2024. \n 
-*Tam Le*{{<font color="red">*</font>}}, Truyen Nguyen{{<font color="red">*</font>}}, Kenji Fukumizu.
-
-- [https://arxiv.org/pdf/2401.15889.pdf {{<font color="blue">Sliced Wasserstein with Random-Path Projecting Directions</font>}}]  \n 
-ArXiv, 2024. \n 
-Khai Nguyen, Shujian Zhang, *Tam Le*, Nhat Ho.
 
 - [to-be-updated {{<font color="blue">SAVA: Scalable Learning-Agnostic Data Valuation</font>}}]  \n 
 Under review, 2024. \n 
