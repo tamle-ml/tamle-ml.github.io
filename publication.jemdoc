@@ -1,7 +1,7 @@
 # jemdoc: menu{MENU}{publication.html}
 = Tam Le \- Publications
 
-({{<font color="red">*</font>}}: equal contribution)
+({{<font color="red">*</font>}}: equal contribution; {{<font color="purple">**</font>}}: co-last author)
 
 == Selected Journals / Conference papers
 
@@ -75,6 +75,10 @@ Machine Learning Journal (*MLJ*), 2014. \n
 Under review, 2024. \n 
 Samuel Kessler{{<font color="red">*</font>}}, *Tam Le*{{<font color="red">*</font>}}, Vu Nguyen.
 
+- [to-be-updated {{<font color="blue">Tree-Sliced Wasserstein Distance on a System of Lines</font>}}]  \n 
+Under review, 2024. \n 
+Hoang Tran{{<font color="red">*</font>}}, Trang Pham{{<font color="red">*</font>}}, Tho Tran,  *Tam Le*{{<font color="purple">**</font>}}, Tan Nguyen{{<font color="purple">**</font>}}.
+
 - [https://arxiv.org/pdf/2311.00927.pdf {{<font color="blue">Scalable Counterfactual Distribution Estimation in Multivariate Causal Models</font>}}] \n
 Conference on Causal Learning and Reasoning (/CLeaR/), 2024. \n
 Thong Pham, Shohei Shimizu, Hideitsu Hino, *Tam Le*.
@@ -131,7 +135,7 @@ Asian Conference on Intelligent Information and Database Systems (ACIIDS), 2010 
 == Workshop Posters / Talks
 
 *Workshop Posters*
-- 2024, {{<font color="blue">Scalable Robust Optimal Transport for Measures with Noisy Tree Metric</font>}}, [https://sites.google.com/view/dl2024/ Deep Learning: Theory, Applications, and Implications workshop], Japan. (/to present on March 18-20/)
+- 2024, {{<font color="blue">Scalable Robust Optimal Transport for Measures with Noisy Tree Metric</font>}}, [https://sites.google.com/view/dl2024/ Deep Learning: Theory, Applications, and Implications workshop], Japan.
 - 2023, [https://openreview.net/pdf?id=Puw2kj7Wc7 {{<font color="blue">Optimal Transport for Measures with Noisy Tree Metric</font>}}], [https://otmlworkshop.github.io/ NeurIPS workshop: Optimal Transport and Machine Learning (OTML)], US.
 - 2023, [https://www.dropbox.com/scl/fi/7m1exga71quydzjv9xtuk/TamLe_2023_Posters_ISM-Open-House.pdf?rlkey=mtvwyfl6ltootzvod43acgxr7&dl=0 {{<font color="blue">Optimal Transport for Measures on a Graph</font>}}], ISM Open House, Virtual.
 - 2022, {{<font color="blue">Sobolev Transport: A Scalable Metric for Probability Measures with Graph Metrics</font>}}, [https://roisxtalk2022.rois.jp/english ROIS Crosstalk], Virtual. 
@@ -144,7 +148,7 @@ Asian Conference on Intelligent Information and Database Systems (ACIIDS), 2010 
 - Eugene Ndiaye, *Tam Le*, Olivier Fercoq, Joseph Salmon, Ichiro Takeuchi, {{<font color="blue">GridSearch: Complexite et Garantie pour la Validation (GridSearch: Complexity and Guarantee for Validation)</font>}}. [http://cap2018.litislab.fr/Programme-en.html Conference Sur L'Apprentissage Automatique (CAp)], France, 2018.
 
 *Invited Talks*
-- 2024, {{<font color="blue">Scalable Robust Optimal Transport for Measures with Noisy Tree Metric </font>}}, Data Science Seminar ([https://data-descriptive-science.org/en/ Data Descriptive Science]), Kyoto, Japan (hybrid). (/to present on February 15/)
+- 2024, {{<font color="blue">Scalable Robust Optimal Transport for Measures with Noisy Tree Metric </font>}}, Data Science Seminar ([https://data-descriptive-science.org/en/ Data Descriptive Science]), Kyoto, Japan (hybrid).
 - 2024, {{<font color="blue">Local Structures for Large-Scale Optimal Transport</font>}}, [https://ims.nus.edu.sg/events/the-mathematics-of-data/ The Mathematics of Data program -- Workshop on Optimal Transport and PDEs], IMS, NUS, Singapore. \[[https://www.dropbox.com/scl/fi/r5weqj7u1ue01nykzrljx/TamLe_IMS2024_The-Mathematics-of-Data.pdf?rlkey=utlujdbteoojzivxbnfwxcono&dl=0 SLIDE]\]
 - 2023, {{<font color="blue">Sobolev Transport</font>}}, Data Science Seminar ([https://data-descriptive-science.org/en/ Data Descriptive Science]), Tokyo, Japan. \[[https://www.dropbox.com/scl/fi/5sgdtnm2zcul63gjwd9ks/TamLe_2023Aug_TransformativeA_DS_25min.pdf?rlkey=8y9ececp48mqokp0kzwkw8b2s&dl=0 SLIDE]\]
 - 2023, {{<font color="blue">Optimal transport for measures on a graph</font>}}, Statistical Mathematics Seminar Series, Virtual. \[[https://www.dropbox.com/scl/fi/rvow9d86fywadaopjde61/TamLe_2023July_ISM-Seminar_40min.pdf?rlkey=7sns0m321yg9u1cfgukxvu58w&dl=0 SLIDE]\]
