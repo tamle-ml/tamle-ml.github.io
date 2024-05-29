@@ -3,10 +3,7 @@
 
 - [https://github.com/lttam/Generalized-Sobolev-Transport Generalized Sobolev Transport (GST)]. (ICML 2024)
 -- A scalable variant of Orlicz-Wasserstein (OW) for probability measures supported on a graph metric space (i.e., several-order faster than OW for computation, which paves a way to apply OW for practical applications).
--- Decoupling the Sobolev Transport (AISTATS 2022) with the Lp geometric structure and leveraging Orlicz geometry to propose the GST.
-
--- (i) closed-form expression for fast computation; (ii) negative definite metric which allows to build positive definite kernels.
--- Note: Tree Wasserstein (NeurIPS 2019) is a special case of ST (when input measures are supported in a tree metric space).
+-- Decoupling the Sobolev Transport (AISTATS 2022) with the Lp geometric structure, and leveraging Orlicz geometry to derive the GST.
 
 - [https://github.com/lttam/Random-Path-SW Random-Path Sliced-Wasserstein]. (ICML 2024)
 -- An efficient variant of sliced-Wasserstein (SW) by leveraging random-path projection directions.
