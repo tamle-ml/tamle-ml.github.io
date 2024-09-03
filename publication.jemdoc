@@ -6,13 +6,13 @@
 
 == Selected Journals / Conference papers
 
-- [https://arxiv.org/pdf/2401.15889.pdf {{<font color="blue">Sliced Wasserstein with Random-Path Projecting Directions</font>}}]  \n 
-International Conference on Machine Learning (*ICML*), 2024. (/Acceptance rate: 2609\/9473/) \n
-Khai Nguyen, Shujian Zhang, *Tam Le*, Nhat Ho.
-
 - [https://arxiv.org/pdf/2402.04516.pdf {{<font color="blue">Generalized Sobolev Transport for Probability Measures on a Graph</font>}}]  \n 
 International Conference on Machine Learning (*ICML*), 2024. (/Acceptance rate: 2609\/9473/) \n
 *Tam Le*{{<font color="red">*</font>}}, Truyen Nguyen{{<font color="red">*</font>}}, Kenji Fukumizu.
+
+- [https://arxiv.org/pdf/2401.15889.pdf {{<font color="blue">Sliced Wasserstein with Random-Path Projecting Directions</font>}}]  \n 
+International Conference on Machine Learning (*ICML*), 2024. (/Acceptance rate: 2609\/9473/) \n
+Khai Nguyen, Shujian Zhang, *Tam Le*, Nhat Ho.
 
 - [https://proceedings.mlr.press/v238/le24a/le24a.pdf {{<font color="blue">Optimal Transport for Measures with Noisy Tree Metric</font>}}] \n
 International Conference on Artificial Intelligence and Statistics (*AISTATS*), 2024. (/Acceptance rate: 546\/1980/) \n 
@@ -72,13 +72,13 @@ Machine Learning Journal (*MLJ*), 2014. \n
 
 *Other Journals \/ Conference papers \/ Preprints*
 
+- [https://arxiv.org/pdf/2406.13725 {{<font color="blue">Tree-Sliced Wasserstein Distance on a System of Lines</font>}}]  \n 
+ArXiv, 2024. \n 
+Viet-Hoang Tran{{<font color="red">*</font>}}, Trang Pham{{<font color="red">*</font>}}, Tho Tran,  *Tam Le*{{<font color="purple">**</font>}}, Tan M. Nguyen{{<font color="purple">**</font>}}.
+
 - [https://arxiv.org/pdf/2406.01130v1 {{<font color="blue">SAVA: Scalable Learning-Agnostic Data Valuation</font>}}]  \n 
 ArXiv, 2024. \n 
 Samuel Kessler{{<font color="red">*</font>}}, *Tam Le*{{<font color="red">*</font>}}, Vu Nguyen.
-
-- [to-be-updated {{<font color="blue">Tree-Sliced Wasserstein Distance on a System of Lines</font>}}]  \n 
-Under review, 2024. \n 
-Hoang Tran{{<font color="red">*</font>}}, Trang Pham{{<font color="red">*</font>}}, Tho Tran,  *Tam Le*{{<font color="purple">**</font>}}, Tan Nguyen{{<font color="purple">**</font>}}.
 
 - [https://proceedings.mlr.press/v236/pham24a/pham24a.pdf {{<font color="blue">Scalable Counterfactual Distribution Estimation in Multivariate Causal Models</font>}}] \n
 Conference on Causal Learning and Reasoning (/CLeaR/), 2024. \n
@@ -136,6 +136,7 @@ Asian Conference on Intelligent Information and Database Systems (ACIIDS), 2010 
 == Workshop Posters / Talks
 
 *Workshop Posters*
+- 2024, [https://www.dropbox.com/scl/fi/rs654fd09m5aj1umry8k4/TamLe_2024_Posters_ISM-Open-House.pdf?rlkey=msv8nosjc8nfg38zasuapu46c&dl=0 {{<font color="blue">Optimal Transport for Measures with Noisy Tree Metric</font>}}], ISM Open House, Japan.
 - 2024, {{<font color="blue">Scalable Robust Optimal Transport for Measures with Noisy Tree Metric</font>}}, [https://sites.google.com/view/dl2024/ Deep Learning: Theory, Applications, and Implications workshop], Japan.
 - 2023, [https://openreview.net/pdf?id=Puw2kj7Wc7 {{<font color="blue">Optimal Transport for Measures with Noisy Tree Metric</font>}}], [https://otmlworkshop.github.io/ NeurIPS workshop: Optimal Transport and Machine Learning (OTML)], US.
 - 2023, [https://www.dropbox.com/scl/fi/7m1exga71quydzjv9xtuk/TamLe_2023_Posters_ISM-Open-House.pdf?rlkey=mtvwyfl6ltootzvod43acgxr7&dl=0 {{<font color="blue">Optimal Transport for Measures on a Graph</font>}}], ISM Open House, Virtual.
@@ -149,6 +150,7 @@ Asian Conference on Intelligent Information and Database Systems (ACIIDS), 2010 
 - Eugene Ndiaye, *Tam Le*, Olivier Fercoq, Joseph Salmon, Ichiro Takeuchi, {{<font color="blue">GridSearch: Complexite et Garantie pour la Validation (GridSearch: Complexity and Guarantee for Validation)</font>}}. [http://cap2018.litislab.fr/Programme-en.html Conference Sur L'Apprentissage Automatique (CAp)], France, 2018.
 
 *Invited Talks*
+- 2024, {{<font color="blue">Recent Results on Optimal Transport and Its Applications</font>}}, Statistical Mathematics Seminar Series, Virtual. \[[https://www.dropbox.com/scl/fi/eje8t6afomil7uo4olvap/TamLe_2024_SMSS_40min.pdf?rlkey=f1rm43a447whqx239p18uff50&dl=0 SLIDE]\]
 - 2024, {{<font color="blue">Scalable Robust Optimal Transport for Measures with Noisy Tree Metric </font>}}, Data Science Seminar ([https://data-descriptive-science.org/en/ Data Descriptive Science]), Kyoto, Japan (hybrid).
 - 2024, {{<font color="blue">Local Structures for Large-Scale Optimal Transport</font>}}, [https://ims.nus.edu.sg/events/the-mathematics-of-data/ The Mathematics of Data program -- Workshop on Optimal Transport and PDEs], IMS, NUS, Singapore. \[[https://www.dropbox.com/scl/fi/r5weqj7u1ue01nykzrljx/TamLe_IMS2024_The-Mathematics-of-Data.pdf?rlkey=utlujdbteoojzivxbnfwxcono&dl=0 SLIDE]\]
 - 2023, {{<font color="blue">Sobolev Transport</font>}}, Data Science Seminar ([https://data-descriptive-science.org/en/ Data Descriptive Science]), Tokyo, Japan. \[[https://www.dropbox.com/scl/fi/5sgdtnm2zcul63gjwd9ks/TamLe_2023Aug_TransformativeA_DS_25min.pdf?rlkey=8y9ececp48mqokp0kzwkw8b2s&dl=0 SLIDE]\]
