@@ -1,7 +1,7 @@
 # jemdoc: menu{MENU}{publication.html}
 = Tam Le \- Publications
 
-({{<font color="red">*</font>}}: equal contribution; {{<font color="purple">**</font>}}: co-last author)
+({{<font color="red">*</font>}}: equal contribution; {{<font color="green">&oast;</font>}}: co-last author)
 
 
 == Selected Journals / Conference papers
@@ -74,7 +74,7 @@ Machine Learning Journal (*MLJ*), 2014. \n
 
 - [https://arxiv.org/pdf/2406.13725 {{<font color="blue">Tree-Sliced Wasserstein Distance on a System of Lines</font>}}]  \n 
 ArXiv, 2024. \n 
-Viet-Hoang Tran{{<font color="red">*</font>}}, Trang Pham{{<font color="red">*</font>}}, Tho Tran,  *Tam Le*{{<font color="purple">**</font>}}, Tan M. Nguyen{{<font color="purple">**</font>}}.
+Viet-Hoang Tran{{<font color="red">*</font>}}, Trang Pham{{<font color="red">*</font>}}, Tho Tran,  *Tam Le*{{<font color="green">&oast;</font>}}, Tan M. Nguyen{{<font color="green">&oast;</font>}}.
 
 - [https://arxiv.org/pdf/2406.01130v1 {{<font color="blue">SAVA: Scalable Learning-Agnostic Data Valuation</font>}}]  \n 
 ArXiv, 2024. \n 
@@ -82,11 +82,11 @@ Samuel Kessler{{<font color="red">*</font>}}, *Tam Le*{{<font color="red">*</fon
 
 - [to-be-updated {{<font color="blue">Spherical Tree-Sliced Wasserstein Distance</font>}}]  \n 
 /Under review/, 2024. \n 
-Viet-Hoang Tran{{<font color="red">*</font>}}, Thanh Chu{{<font color="red">*</font>}}, Khoi Nguyen, Trang Pham,  *Tam Le*{{<font color="purple">**</font>}}, Tan M. Nguyen{{<font color="purple">**</font>}}.
+Viet-Hoang Tran{{<font color="red">*</font>}}, Thanh Chu{{<font color="red">*</font>}}, Khoi Nguyen, Trang Pham,  *Tam Le*{{<font color="green">&oast;</font>}}, Tan M. Nguyen{{<font color="green">&oast;</font>}}.
 
 - [to-be-updated {{<font color="blue">Distance-Based Tree-Sliced Wasserstein Distance</font>}}]  \n 
 /Under review/, 2024. \n 
-Viet-Hoang Tran{{<font color="red">*</font>}}, Khoi Nguyen{{<font color="red">*</font>}}, Trang Pham, Thanh Chu, *Tam Le*{{<font color="purple">**</font>}}, Tan M. Nguyen{{<font color="purple">**</font>}}.
+Viet-Hoang Tran{{<font color="red">*</font>}}, Khoi Nguyen{{<font color="red">*</font>}}, Trang Pham, Thanh Chu, *Tam Le*{{<font color="green">&oast;</font>}}, Tan M. Nguyen{{<font color="green">&oast;</font>}}.
 
 - [https://proceedings.mlr.press/v236/pham24a/pham24a.pdf {{<font color="blue">Scalable Counterfactual Distribution Estimation in Multivariate Causal Models</font>}}] \n
 Conference on Causal Learning and Reasoning (/CLeaR/), 2024. \n
