@@ -19,7 +19,7 @@ Assistant Professor, [https://www.soken.ac.jp/en/index.html The Graduate School 
 
 *Research interests: Machine learning, optimal transport.* \n
 
-I have been working on theory, methodology, and application of learning with complex and large-scale data and models from mathematical perspectives. More concretely, my recent research includes:
+I have been working on theory, methodology, and application of learning with complex, large-scale data and models from mathematical perspectives. More concretely, my recent research includes:
 - Optimal transport theory: for measures with graph structure, for variants with functional geometric structure.
 - Scalability, robustness, and efficiency of optimal transport for learning with measures in machine learning and deep learning, including deep generative models, diffusion models, data valuation for training with large noisy datasets.
 - RKHS theory: for probability measures with OT geometry, for topological data analysis.
