@@ -20,8 +20,8 @@ Assistant Professor, [https://www.soken.ac.jp/en/index.html The Graduate School 
 Research: Machine learning, optimal transport. \n
 
 I have been working on theory, methodology, and application of learning with large-scale, complex data and models from mathematical perspectives. More concretely, my recent research includes:
-- *Theory*: Optimal transport theory for measures with graph structure, for variants with functional geometric structure.
-- *Methodology*: Scalability, robustness, and efficiency of optimal transport for learning with measures in machine learning and deep learning, including deep generative models, diffusion models, data valuation for LLM pretraining.
+- *Theory*: optimal transport theory for measures with graph structure, for variants with functional geometric structure.
+- *Methodology*: scalability, robustness, and efficiency of optimal transport for learning with measures in machine learning and deep learning, including deep generative models, diffusion models, data valuation for LLM pretraining.
 - *Application*: for domains with large-scale, complex structure data, including non-Euclidean, high-dimension, nonlinearity, corruption. 
 
 I would love to expand my research spectrum to more interesting and impactful (related) research problems.
