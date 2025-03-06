@@ -21,8 +21,8 @@ Assistant Professor, [https://www.soken.ac.jp/en/index.html The Graduate School 
 
 I have been working on theory, methodology, and application of learning with complex and large-scale data and models from mathematical perspectives. More concretely, my recent research includes:
 - Optimal transport theory: for measures with graph structure, for variants with functional geometric structure.
-- Scalability, robustness, and efficiency of optimal transport for learning with measures in machine learning and deep learning, including deep generative models, data valuation for training with large noisy datasets.
-- RKHS theory for nonlinearity on learning with complex data and models, including topological data, probability measures with OT geometry.
+- Scalability, robustness, and efficiency of optimal transport for learning with measures in machine learning and deep learning, including deep generative models, diffusion models, data valuation for training with large noisy datasets.
+- RKHS theory: for probability measures with OT geometry, for topological data analysis.
 
 I would love to expand my research spectrum to more interesting and impactful research problems.
 
