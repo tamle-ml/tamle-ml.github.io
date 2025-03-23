@@ -1,6 +1,21 @@
 # jemdoc: menu{MENU}{code.html}
 = Tam Le \- Code & Datasets
 
+- [https://github.com/lttam/sava SAVA: Scalable Data Valuation]. (ICLR 2025)
+-- A scalable data valuation (agnostic-model) by leveraging optimal transport on batches.
+-- The proposed method can be applied for scoring each data point in a large training dataset (e.g., millions of data points, and more)
+-- Implemented by Samuel Kessler.
+
+- [https://github.com/lttam/STSW Spherical Tree-Sliced-Wasserstein (STSW)]. (ICLR 2025)
+-- Invariant TSW on system of lines (TSW-SL) for measures supported on a hyper-sphere. 
+-- It can also be applied for applications with dynamic-support measures including deep generative model, gradient flow.
+-- Mainly implemented by Thanh Chu.
+
+- [https://github.com/lttam/DbTSW Distance-based Tree-Sliced-Wasserstein (DbTSW)]. (ICLR 2025)
+-- Invariant TSW on system of lines (TSW-SL) where we address key challenges in TSW (NeurIPS 2019). 
+-- It paves a way to apply TSW for applications with dynamic-support measures including diffusion model, gradient flow.
+-- Mainly implemented by Khoi Nguyen.
+
 - [https://github.com/lttam/Generalized-Sobolev-Transport Generalized Sobolev Transport (GST)]. (ICML 2024)
 -- A scalable variant of Orlicz-Wasserstein (OW) for probability measures supported on a graph metric space (i.e., several-order faster than OW for computation, which paves a way to apply OW for practical applications).
 -- Decoupling the Sobolev Transport (AISTATS 2022) with the Lp geometric structure, and leveraging Orlicz geometry to derive the GST.

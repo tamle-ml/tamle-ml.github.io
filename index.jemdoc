@@ -17,12 +17,12 @@ Assistant Professor, [https://www.soken.ac.jp/en/index.html The Graduate School 
 
 #Assistant Professor, [https://www.ism.ac.jp/senkou_eng/ Statistical Science Program], [https://www.soken.ac.jp/en/index.html The Graduate School for Advanced Studies (SOKENDAI)]. \n
 
-Research: machine learning, optimal transport. \n
+== Research: Machine Learning, Optimal Transport \n
 
 I have been working on theory, methodology, and application of learning with large-scale, complex data and models from mathematical perspectives. More concretely, my recent research includes:
-- *Theory*: optimal transport theory for measures with graph structure, for variational Wasserstein problems.
-- *Methodology*: scalability, robustness, and efficiency of optimal transport for learning with measures in machine learning and deep learning, including deep generative models, diffusion models, data valuation for LLM pretraining.
-- *Application*: for domains with large-scale, complex structure data, including non-Euclidean, high-dimension, nonlinearity, corruption. 
+- *Theory*: optimal transport theory for measures with graph structure, with functional geometric structure; and for variational Wasserstein problems.
+- *Methodology*: scalability, robustness, and efficiency of optimal transport for learning with measures in machine learning and deep learning, including deep generative model, diffusion model, data valuation for LLM pretraining.
+- *Application*: for domains with large-scale, complex structure data, including non-Euclidean, high-dimension, dynamic, nonlinearity, corruption. 
 
 I would love to expand my research spectrum to more interesting and impactful (related) research problems.
 
@@ -69,8 +69,17 @@ My CV is [https://www.dropbox.com/scl/fi/ta3dwucrqqvo6pr0wr2zf/TamLe2024Apr.pdf?
 #- 05-Sep-2018, Our paper, entitled [http://papers.nips.cc/paper/8205-persistence-fisher-kernel-a-riemannian-manifold-kernel-for-persistence-diagrams.pdf "Persistence Fisher Kernel: A Riemannian Manifold Kernel for Persistence Diagrams"] has been accepted to [https://nips.cc *NeurIPS 2018*]!  
 #- 01-Sep-2017, Joined in High-Dimensional Statistical Modeling Team, RIKEN AIP as a postdoctoral researcher.
 #- 05-Apr-2017, Our proposal has been accepted by the Grants-in-Aid for Young Scientists (B) as PI (04\/2017 - 03\/2020).
-
-== Research Support
+ 
+ == Vita
+ 
+ I received my Ph.D in 01\/2016 from [http://www.i.kyoto-u.ac.jp/en/ Kyoto University, Japan], supervised by [http://marcocuturi.net/ *Marco* *Cuturi*] and [http://www.iip.ist.i.kyoto-u.ac.jp/member/akihiro/index-e.html *Akihiro* *Yamamoto*]. I worked as a post-doctoral researcher at [http://www-als.ics.nitech.ac.jp/~takeuchi/ Nagoya Institute of Technology] & [https://www.nims.go.jp/eng/ National Institute for Materials Science, Japan], mentored by [https://www.mlds.mae.nagoya-u.ac.jp/takeuchi/index.en.html Ichiro Takeuchi] between 02\/2016 and 08\/2017. I then worked as a post-doctoral researcher between 09\/2017 and 07\/2021, and later as a research scientist between 08\/2021 and 08\/2022 at [http://www.riken.jp/en/research/labs/aip/ RIKEN Center for Advanced Intelligence Project (RIKEN AIP)], mentored by [https://groups.oist.jp/mlds/makoto-yamada Makoto Yamada]. From 09\/2022, I have been working as an assistant professor at [https://www.ism.ac.jp/index_e.html The Institute of Statistical Mathematics (ISM)], and I have concurrently been a visiting scientist at [https://www.riken.jp/en/research/labs/aip/index.html RIKEN AIP], working in [https://www.riken.jp/en/research/labs/aip/generic_tech/funct_anl_learn/ Functional Analytic Learning Team] led by [https://minh-ha-quang.github.io/ Minh Ha Quang] from 12\/2022. 
+ 
+ == Selected Service
+ - Area chair: ICML, ICLR, AISTATS
+ - Program committee: NeurIPS
+ - Reviewer: JMLR
+ 
+ == Research Support
 
 *Grants*
 
@@ -82,13 +91,9 @@ My CV is [https://www.dropbox.com/scl/fi/ta3dwucrqqvo6pr0wr2zf/TamLe2024Apr.pdf?
 
 - 06\/2022 - 03\/2027, a collaborator in Data Science group led by [https://www.ism.ac.jp/~fukumizu/ Kenji Fukumizu] (ISM), JSPS - Grant-in-Aid for Transformative Research Areas (A). 
 - 04\/2023 - 03\/2026, a collaborator in a research group led by [https://sites.google.com/view/hinohide/ Hideitsu Hino] (ISM), Mitsui Knowledge Industry Co., Ltd. grant. 
-- 04\/2024 - 03\/2025, ISM Joint-research 2024-ISMCRP-2021 as PI.
-- 04\/2023 - 03\/2024, ISM Joint-research 2023-ISMCRP-2010 as PI.
- 
- == Vita
- 
- I received my Ph.D in 01\/2016 from [http://www.i.kyoto-u.ac.jp/en/ Kyoto University, Japan], supervised by [http://marcocuturi.net/ *Marco* *Cuturi*] and [http://www.iip.ist.i.kyoto-u.ac.jp/member/akihiro/index-e.html *Akihiro* *Yamamoto*]. I worked as a post-doctoral researcher at [http://www-als.ics.nitech.ac.jp/~takeuchi/ Nagoya Institute of Technology] & [https://www.nims.go.jp/eng/ National Institute for Materials Science, Japan], mentored by [https://www.mlds.mae.nagoya-u.ac.jp/takeuchi/index.en.html Ichiro Takeuchi] between 02\/2016 and 08\/2017. I then worked as a post-doctoral researcher between 09\/2017 and 07\/2021, and later as a research scientist between 08\/2021 and 08\/2022 at [http://www.riken.jp/en/research/labs/aip/ RIKEN Center for Advanced Intelligence Project (RIKEN AIP)], mentored by [https://groups.oist.jp/mlds/makoto-yamada Makoto Yamada]. From 09\/2022, I have been working as an assistant professor at [https://www.ism.ac.jp/index_e.html The Institute of Statistical Mathematics (ISM)], and I have concurrently been a visiting scientist at [https://www.riken.jp/en/research/labs/aip/index.html RIKEN AIP], working in [https://www.riken.jp/en/research/labs/aip/generic_tech/funct_anl_learn/ Functional Analytic Learning Team] led by [https://minh-ha-quang.github.io/ Minh Ha Quang] from 12\/2022. 
- 
+# - 04\/2024 - 03\/2025, ISM Joint-research 2024-ISMCRP-2021 as PI.
+# - 04\/2023 - 03\/2024, ISM Joint-research 2023-ISMCRP-2010 as PI.
+
  
 #I received my Ph.D. in 11/2005 from Ecole des Mines de Paris. Before that I graduated from the ENSAE with a master degree from ENS Cachan. I worked as a post-doctoral researcher at the Institute of Statistical Mathematics, Tokyo, between 11/2005 and 03/2007. Between 04/2007 and 09/2008 I worked in the financial industry. After working at the ORFE department of Princeton University between 02/2009 and 08/2010 as a lecturer, I was at the Graduate School of Informatics of Kyoto University between 09/2010 and 09/2016 as an associate professor (tenured in 11/2013). I have joined ENSAE in 09/2016, working there part-time from 10/2018. Between 10/2018 and 01/2022 I was with the Google Brain team. I joined Apple on 01/2022, working in the Machine Learning Research team led by Samy Bengio.
  
