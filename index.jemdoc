@@ -37,10 +37,11 @@ Room: A506B. [https://www.ism.ac.jp/access/index_e.html Access to ISM] \n
 My CV is [https://www.dropbox.com/scl/fi/wrsoin2s3e7h42cszd913/TamLe_CV_2025March.pdf?rlkey=hpk65w23vrrzkfcga5fxx8hvm&dl=0 here] - Updated March, 2025.
 
 == News
+- 25-Mar-2025, Our paper, entitled [https://arxiv.org/pdf/2308.15005 "Few-Shot Object Detection via Synthetic Features with Optimal Transport"] has been accepted to Computer Vision and Image Understanding (*CVIU*) journal! This is joint work with Khoa Nguyen, Toan Do, Tiep Nguyen, Triet Tran, and Tam V. Nguyen.
 - 23-Jan-2025, Our 3 papers have been accepted to [https://iclr.cc/ *ICLR'25*].
--- [https://arxiv.org/pdf/2406.01130v1 SAVA: Scalable Learning-Agnostic Data Valuation], joint work with Samuel Kessler, and Vu Nguyen.
--- [to-be-updated Distance-Based Tree-Sliced Wasserstein Distance], joint work with Hoang Tran, Khoi Nguyen, Trang Pham, Thanh Chu, and Tan Nguyen.
--- [to-be-updated Spherical Tree-Sliced Wasserstein Distance], joint work with Hoang Tran, Thanh Chu, Khoi Nguyen, Trang Pham, and Tan Nguyen.
+-- [https://openreview.net/pdf?id=0UCoWxPhQ4 SAVA: Scalable Learning-Agnostic Data Valuation], joint work with Samuel Kessler, and Vu Nguyen.
+-- [https://openreview.net/pdf?id=OiQttMHwce Distance-Based Tree-Sliced Wasserstein Distance], joint work with Hoang Tran, Khoi Nguyen, Trang Pham, Thanh Chu, and Tan Nguyen.
+-- [https://openreview.net/pdf?id=FPQzXME9NK Spherical Tree-Sliced Wasserstein Distance], joint work with Hoang Tran, Thanh Chu, Khoi Nguyen, Trang Pham, and Tan Nguyen.
 - 22-Nov-2024, I will serve as Area Chair for [https://icml.cc/ *ICML'25*].
 - 11-Sep-2024, I will serve as Area Chair for [https://aistats.org/aistats2025/ *AISTATS'25*].
 - 07-Aug-2024, I will serve as Area Chair for [https://iclr.cc/ *ICLR'25*], and as Senior Program Committee for [https://aaai.org/conference/aaai/aaai-25/ /AAAI'25/].
