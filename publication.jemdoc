@@ -5,6 +5,19 @@
 
 
 == Selected Journals / Conference papers
+#https://arxiv.org/pdf/2406.13725
+
+- [to-be-updated {{<font color="blue">Tree-Sliced Wasserstein Distance: A Geometric Perspective</font>}}]  \n 
+International Conference on Machine Learning (*ICML*), 2025. \n 
+Hoang V. Tran{{<font color="red">*</font>}}, Trang Pham{{<font color="red">*</font>}}, Tho Tran, Khoi Nguyen, Thanh Chu, *Tam Le*{{<font color="green">&oast;</font>}}, Tan M. Nguyen{{<font color="green">&oast;</font>}}.
+
+- [to-be-updated {{<font color="blue">Tree-Sliced Wasserstein Distance with Nonlinear Projection</font>}}]  \n 
+International Conference on Machine Learning (*ICML*), 2025. \n 
+Thanh Tran{{<font color="red">*</font>}}, Hoang V. Tran{{<font color="red">*</font>}}, Thanh Chu, Trang Pham, Laurent Ghaoui{{<font color="green">&oast;</font>}}, *Tam Le*{{<font color="green">&oast;</font>}}, Tan M. Nguyen{{<font color="green">&oast;</font>}}.
+
+- [https://arxiv.org/pdf/2502.00737 {{<font color="blue">Scalable Sobolev IPM for Probability Measures on a Graph</font>}}]  \n 
+International Conference on Machine Learning (*ICML*), 2025. \n
+*Tam Le*{{<font color="red">*</font>}}, Truyen Nguyen{{<font color="red">*</font>}}, Hideitsu Hino, Kenji Fukumizu.
 
 - [https://openreview.net/pdf?id=OiQttMHwce {{<font color="blue">Distance-Based Tree-Sliced Wasserstein Distance</font>}}]  \n 
 International Conference on Learning Representation (*ICLR*), 2025. (/Acceptance rate: 32.08% out of about 11500 submissions/) \n
@@ -88,21 +101,9 @@ Machine Learning Journal (*MLJ*), 2014. \n
 Computer Vision and Image Understanding (*CVIU*) journal, 2025. \n
 Anh Khoa Nguyen Vu, Thanh-Toan Do, Vinh-Tiep Nguyen, *Tam Le*, Minh-Triet Tran, Tam V. Nguyen
 
-- [to-be-updated {{<font color="blue">Tree-Sliced Wasserstein Distance with Nonlinear Projection</font>}}]  \n 
-Under review, 2025. \n 
-Thanh Tran{{<font color="red">*</font>}}, Hoang V. Tran{{<font color="red">*</font>}}, Thanh Chu, Trang Pham, Laurent Ghaoui{{<font color="green">&oast;</font>}}, *Tam Le*{{<font color="green">&oast;</font>}}, Tan M. Nguyen{{<font color="green">&oast;</font>}}.
-
 - [https://arxiv.org/pdf/2502.00739 {{<font color="blue">Orlicz-Sobolev Transport for Unbalanced Measures on a Graph</font>}}]  \n 
 ArXiv, 2025. \n
 *Tam Le*{{<font color="red">*</font>}}, Truyen Nguyen{{<font color="red">*</font>}}, Hideitsu Hino, Kenji Fukumizu.
-
-- [https://arxiv.org/pdf/2502.00737 {{<font color="blue">Scalable Sobolev IPM for Probability Measures on a Graph</font>}}]  \n 
-ArXiv, 2025. \n
-*Tam Le*{{<font color="red">*</font>}}, Truyen Nguyen{{<font color="red">*</font>}}, Hideitsu Hino, Kenji Fukumizu.
-
-- [https://arxiv.org/pdf/2406.13725 {{<font color="blue">Tree-Sliced Wasserstein Distance on a System of Lines</font>}}]  \n 
-ArXiv, 2024. \n 
-Hoang V. Tran{{<font color="red">*</font>}}, Trang Pham{{<font color="red">*</font>}}, Tho Tran,  *Tam Le*{{<font color="green">&oast;</font>}}, Tan M. Nguyen{{<font color="green">&oast;</font>}}.
 
 - [https://proceedings.mlr.press/v236/pham24a/pham24a.pdf {{<font color="blue">Scalable Counterfactual Distribution Estimation in Multivariate Causal Models</font>}}] \n
 Conference on Causal Learning and Reasoning (/CLeaR/), 2024. \n
