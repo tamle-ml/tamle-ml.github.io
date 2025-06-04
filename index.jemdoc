@@ -23,7 +23,7 @@ Assistant Professor, [https://www.soken.ac.jp/en/index.html The Graduate School 
 #- (i) /Deepening OT theory/: breaking the curse of dimensionality for OT with 1D-structure by exploiting graph structure, and tree system; and going beyond Lp structure for variational Wasserstein problems by utilizing functional geometric structure.
 #- (ii) /Leveraging OT theoretical insights for data science/: designing innovative efficient methodologies; and improving efficiency, scalability, robustness for applications with large-scale, complex data.
 
-My research aims to improve scalability, efficiency, and robustness for learning with large-scale, complex data and models from optimal transport (OT) perspective, focusing on two objectives as follows:
+My research aims to improve scalability, efficiency, and robustness for learning with large-scale, complex data and models from optimal transport (OT) theory perspective, focusing on two following objectives:
 - (i) /Deepening OT theory/: break the curse of dimensionality for OT with 1D-structure; and going beyond Lp structure for variational Wasserstein problems.
 - (ii) /Leveraging OT theoretical insights for data science/: designing innovative efficient methodologies; and improving efficiency, scalability, and robustness for applications with large-scale, complex data.
 
