@@ -1,6 +1,9 @@
 # jemdoc: menu{MENU}{code.html}
 = Tam Le \- Code & Datasets
 
+- [https://github.com/lttam/Sobolev-IPM Scalable Sobolev IPM]. (ICML 2025)
+-- A scalable regularized Sobolev IPM for probability measures supported on a graph metric space. Notice that there is no efficient algorithmic approach to compute Sobolev IPM effectively yet to our knowledge. Therefore, the proposed approach paves a way to apply Sobolev IPM for practical applications, especially for large-scale setting.
+
 - [https://github.com/lttam/sava SAVA: Scalable Data Valuation]. (ICLR 2025)
 -- A scalable data valuation (agnostic-model) by leveraging optimal transport on batches.
 -- The proposed method can be applied for scoring each data point in a large training dataset (e.g., millions of data points, and more)

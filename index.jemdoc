@@ -19,12 +19,16 @@ Assistant Professor, [https://www.soken.ac.jp/en/index.html The Graduate School 
 
 == Research: Machine Learning, Optimal Transport \n
 
-I have been working on learning with large-scale, complex data and models from mathematical perspectives. More concretely, my research focus is structured across three levels:
-- Theory: optimal transport theory for measures with graph structure, tree systems, functional geometric structure; and for variational Wasserstein problems.
-- Methodology: scalability, robustness, and efficiency of optimal transport for learning with measures in machine learning and deep learning, including deep generative models, diffusion models, data valuation for LLM pretraining.
-- Application: for domains with large-scale, complex structure data, including non-Euclidean, high-dimension, dynamic, nonlinearity, corruption. 
+My research goals are to make AI more advanced with a focus on improving its scalability, efficiency, and robustness for learning with large-scale, complex data and models from mathematical perspectives. More specifically, my research focus is to enhance theoretical foundations for data science from /optimal transport (OT) theory/ perspective, with two objectives as follows:
+- (i) /Deepening OT theory/: breaking the curse of dimensionality for OT with 1D-structure by exploiting graph structure, and tree system; and going beyond Lp structure for variational Wasserstein problems by utilizing functional geometric structure.
+- (ii) /Leveraging OT theoretical insights for data science/: designing innovative efficient methodologies; and improving efficiency, scalability, robustness for applications with large-scale, complex data.
 
-Moreover, I actively expand the research spectrum to interesting and impactful (related) research problems.
+My research is structured across three levels:
+- /Theory/: OT theory for measures with graph structure, tree systems, functional geometric structure; and for variational Wasserstein problems.
+- /Methodology/: scalability, robustness, and efficiency of OT for learning with measures in machine learning and deep learning, including deep generative models, diffusion models, data valuation for LLM pretraining.
+- /Application/: for domains with large-scale, complex structure data, including non-Euclidean, high-dimension, dynamic, nonlinearity, corruption. 
+
+Furthermore, I actively expand the research spectrum to interesting and impactful (related) research problems.
 
 == Contact
 
@@ -49,10 +53,10 @@ My CV is [https://www.dropbox.com/scl/fi/wrsoin2s3e7h42cszd913/TamLe_CV_2025Marc
 - 22-Nov-2024, I will serve as Area Chair for [https://icml.cc/ *ICML'25*].
 - 11-Sep-2024, I will serve as Area Chair for [https://aistats.org/aistats2025/ *AISTATS'25*].
 - 07-Aug-2024, I will serve as Area Chair for [https://iclr.cc/ *ICLR'25*], and as Senior Program Committee for [https://aaai.org/conference/aaai/aaai-25/ /AAAI'25/].
-- 02-May-2024, Our 2 papers have been accepted to [https://icml.cc/ *ICML'24*].
--- [https://arxiv.org/pdf/2401.15889 Sliced Wasserstein with Random-Path Projecting Directions], joint work with Khai Nguyen, Shujian Zhang, and Nhat Ho.
--- [https://arxiv.org/pdf/2402.04516 Generalized Sobolev Transport for Probability Measures on a Graph], joint work with Truyen Nguyen, and Kenji Fukumizu.
-- 20-Jan-2024, Our paper, entitled [https://arxiv.org/pdf/2310.13653.pdf "Optimal Transport for Measures with Noisy Tree Metric"] has been accepted to [http://aistats.org/aistats2024/ *AISTATS'24*]! This is joint work with Truyen Nguyen and Kenji Fukumizu.  
+# - 02-May-2024, Our 2 papers have been accepted to [https://icml.cc/ *ICML'24*].
+# -- [https://arxiv.org/pdf/2401.15889 Sliced Wasserstein with Random-Path Projecting Directions], joint work with Khai Nguyen, Shujian Zhang, and Nhat Ho.
+# -- [https://arxiv.org/pdf/2402.04516 Generalized Sobolev Transport for Probability Measures on a Graph], joint work with Truyen Nguyen, and Kenji Fukumizu.
+# - 20-Jan-2024, Our paper, entitled [https://arxiv.org/pdf/2310.13653.pdf "Optimal Transport for Measures with Noisy Tree Metric"] has been accepted to [http://aistats.org/aistats2024/ *AISTATS'24*]! This is joint work with Truyen Nguyen and Kenji Fukumizu.  
 # - 16-Jan-2024, I give an invited talk at [https://ims.nus.edu.sg/events/the-mathematics-of-data/ The Mathematics of Data program -- Workshop on Optimal Transport and PDEs], IMS, NUS, Singapore. \[[https://www.dropbox.com/scl/fi/r5weqj7u1ue01nykzrljx/TamLe_IMS2024_The-Mathematics-of-Data.pdf?rlkey=utlujdbteoojzivxbnfwxcono&dl=0 SLIDE]\]
 # - 13-Jan-2024, Our paper on optimal transport for causal inference, entitled [https://arxiv.org/pdf/2311.00927.pdf "Scalable Counterfactual Distribution Estimation in Multivariate Causal Models"] has been accepted to [https://www.cclear.cc/2024/ /CLeaR'24/]! This is joint work with Thong Pham, Shohei Shimizu and Hideitsu Hino.  
 # - 01-Apr-2023, Our proposal has been accepted by the Grants-in-Aid for Scientific Research (C) as PI (04\/2023 - 03\/2026).
