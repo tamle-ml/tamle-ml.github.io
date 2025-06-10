@@ -4,6 +4,9 @@
 == Professional Services
 
 * Selected ML Conferences / Journals*
+- Journal of Machine Learning Research (*JMLR*)
+-- [https://www.jmlr.org/editorial-board.html Editorial board reviewer]
+#-- Reviewer: 2020-2021, 2023
 - International Conference on Machine Learning (*ICML*)
 -- Area chair (*AC*): [https://icml.cc/Conferences/2024/Reviewers 2024]-2025
 -- Program committee: 2015, 2019-2023
@@ -15,9 +18,6 @@
 -- Program committee: 2020-2023
 - Neural Information Processing Systems (*NeurIPS\/NIPS*)
 -- Program committee: 2015, 2019-2025
-- Journal of Machine Learning Research (*JMLR*)
--- [https://www.jmlr.org/editorial-board.html Editorial board of reviewer]
-#-- Reviewer: 2020-2021, 2023
 
 *Area Chair (Meta-Reviewer) / Senior Program Committee* 
 # - AC, International Conference on Machine Learning (*ICML*): [https://icml.cc/Conferences/2024/Reviewers 2024]-2025
@@ -70,12 +70,12 @@
 
 - 06\/2022 - 03\/2027, a collaborator in Data Science group led by [https://www.ism.ac.jp/~fukumizu/ Kenji Fukumizu] (ISM), JSPS - Grant-in-Aid for Transformative Research Areas (A). 
 - 04\/2023 - 03\/2026, a collaborator in a research group led by [https://sites.google.com/view/hinohide/ Hideitsu Hino] (ISM), Mitsui Knowledge Industry Co., Ltd. grant. 
-- 04\/2024 - 03\/2025, ISM Joint-research 2024-ISMCRP-2021 as PI.
-- 04\/2023 - 03\/2024, ISM Joint-research 2023-ISMCRP-2010 as PI.
+#- 04\/2024 - 03\/2025, ISM Joint-research 2024-ISMCRP-2021 as PI.
+#- 04\/2023 - 03\/2024, ISM Joint-research 2023-ISMCRP-2010 as PI.
 
-== Visitors / ISM Joint-Research
-- [https://cscarv.github.io/ Christopher Scarvelis] (MIT CSAIL): [https://www.jsps.go.jp/english/e-fellow/e-oubei-s/index.html JSPS Postdoctoral Fellowships for Research in Japan, Short-Term Program] (March, 2023 - April, 2023).
-- [https://thongpham.net/ Thong Pham] (Shiga University): [https://www.ism.ac.jp/kyodo/index_j.html ISM Joint-research] (FY2023--FY2024).
+#== Visitors / ISM Joint-Research
+#- [https://cscarv.github.io/ Christopher Scarvelis] (MIT CSAIL): [https://www.jsps.go.jp/english/e-fellow/e-oubei-s/index.html JSPS Postdoctoral Fellowships for Research in Japan, Short-Term Program] (March, 2023 - April, 2023).
+#- [https://thongpham.net/ Thong Pham] (Shiga University): [https://www.ism.ac.jp/kyodo/index_j.html ISM Joint-research] (FY2023--FY2024).
 
 == Teaching Assistant
 
@@ -94,33 +94,33 @@
 - 2012, Game Theory, Multi-agents and social algorithm, Thuc Vu - Google Inc, USA.
 - 2011, Optimization Models for Engineering, Laurent El Ghaoui - University of California, Berkeley, USA.
 
-== Misc
+#== Misc
 
-*Summer Schools*
-- [http://www.iip.ist.i.kyoto-u.ac.jp/mlss15/doku.php Machine Learning Summer School, Kyoto, Japan, 2015].
-- [http://www.iip.ist.i.kyoto-u.ac.jp/mlss12/doku.php Machine Learning Summer School (MLSS series), Kyoto, Japan, 2012].
-- [http://mlss2011.comp.nus.edu.sg/ Machine Learning Summer School (MLSS series), Singapore, 2011].
+#*Summer Schools*
+#- [http://www.iip.ist.i.kyoto-u.ac.jp/mlss15/doku.php Machine Learning Summer School, Kyoto, Japan, 2015].
+#- [http://www.iip.ist.i.kyoto-u.ac.jp/mlss12/doku.php Machine Learning Summer School (MLSS series), Kyoto, Japan, 2012].
+#- [http://mlss2011.comp.nus.edu.sg/ Machine Learning Summer School (MLSS series), Singapore, 2011].
 
-*Conferences*
-- International Conference on Machine Learning (*ICML*): 2015, 2018-2024.
-- Neural Information Processing Systems (*NeurIPS\/NIPS*): 2014, 2017-2024.
-- International Conference on Learning Representations (*ICLR*): 2020-2022, 2025.
-- International Conference on Artificial Intelligence and Statistics (*AISTATS*): 2019-2024.
-- Conference on Learning Theory (COLT): 2018, 2020-2021.
-- Symposium on Theory of Computing (STOC): 2021.
-- Computer Vision and Pattern Recognition (CVPR): 2021.
-- Association for Computational Linguistics (ACL): 2020.
-- ACM Conference on Fairness, Accountability, and Transparency (FAccT): 2021.
+#*Conferences*
+#- International Conference on Machine Learning (*ICML*): 2015, 2018-2024.
+#- Neural Information Processing Systems (*NeurIPS\/NIPS*): 2014, 2017-2024.
+#- International Conference on Learning Representations (*ICLR*): 2020-2022, 2025.
+#- International Conference on Artificial Intelligence and Statistics (*AISTATS*): 2019-2024.
+#- Conference on Learning Theory (COLT): 2018, 2020-2021.
+#- Symposium on Theory of Computing (STOC): 2021.
+#- Computer Vision and Pattern Recognition (CVPR): 2021.
+#- Association for Computational Linguistics (ACL): 2020.
+#- ACM Conference on Fairness, Accountability, and Transparency (FAccT): 2021.
 
-*Internships*
-- 01\/2014 - 02\/2014, Internship student, [http://lear.inrialpes.fr/ Lear, INRIA, Grenoble, France].
--- Supervisor: [http://faculty.washington.edu/zaid/ Professor Zaid Harchaoui].
-- 03\/2013, Internship student at [http://lear.inrialpes.fr/ Lear, INRIA, Grenoble, France].
--- Supervisor: [http://faculty.washington.edu/zaid/ Professor Zaid Harchaoui].
-- 08\/2010 - 02\/2011, Internship student, [http://www.nii.ac.jp/en/ National Institute of Informatics, Tokyo, Japan].
--- Supervisor: [http://research.nii.ac.jp/~sugimoto/ Professor Akihiro Sugimoto]
-- 04\/2009 - 06\/2009, Internship student, [http://www.toyota-ti.ac.jp/ Toyota Technological Institute of Nagoya, Japan].
--- Supervisor: [http://www.ttic.edu/mita.php Professor Seiichi Mita]
+#*Internships*
+#- 01\/2014 - 02\/2014, Internship student, [http://lear.inrialpes.fr/ Lear, INRIA, Grenoble, France].
+#-- Supervisor: [http://faculty.washington.edu/zaid/ Professor Zaid Harchaoui].
+#- 03\/2013, Internship student at [http://lear.inrialpes.fr/ Lear, INRIA, Grenoble, France].
+#-- Supervisor: [http://faculty.washington.edu/zaid/ Professor Zaid Harchaoui].
+#- 08\/2010 - 02\/2011, Internship student, [http://www.nii.ac.jp/en/ National Institute of Informatics, Tokyo, Japan].
+#-- Supervisor: [http://research.nii.ac.jp/~sugimoto/ Professor Akihiro Sugimoto]
+#- 04\/2009 - 06\/2009, Internship student, [http://www.toyota-ti.ac.jp/ Toyota Technological Institute of Nagoya, Japan].
+#-- Supervisor: [http://www.ttic.edu/mita.php Professor Seiichi Mita]
 
 
 
