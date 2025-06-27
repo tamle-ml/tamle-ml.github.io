@@ -28,17 +28,19 @@ My research aims to improve scalability, efficiency, and robustness for learning
 - Deepening OT theory: break the curse of dimensionality for OT with projected 1D-structure; and going beyond Lp-structure for variational Wasserstein problems.
 - Leveraging OT theoretical insights for data science: designing innovative efficient methodologies; and improving efficiency, scalability, and robustness for applications with large-scale, complex data.
 
+## -- old
 #My research is structured across three levels:
 #- Theory: OT theory for measures with graph structure, tree systems, functional geometric structure; and for variational Wasserstein problems.
 #- Methodology: scalability, robustness, and efficiency of OT for learning with measures in machine learning and deep learning, including deep generative models, diffusion models, data valuation for LLM pretraining.
 #- Application: for domains with large-scale, complex structure data, including non-Euclidean, high-dimension, dynamic, nonlinearity, corruption. 
 
-My research is structured across three levels:
-- Theory: OT theory for measures with graph structure, tree systems, functional geometric structure.
-- Methodology: scalability, robustness, and efficient of OT for learning with measures in machine learning and deep learning, e.g., generative models, diffusion models, data valuation for LLM pretraining.
-- Application: for domains with large-scale, complex structure data, including non-Euclidean, high-dimension, dynamic, nonlinearity, corruption.
+# -- latest !
+#My research is structured across three levels:
+#- Theory: OT theory for measures with graph structure, tree systems, functional geometric structure.
+#- Methodology: scalability, robustness, and efficient of OT for learning with measures in machine learning and deep learning, e.g., generative models, diffusion models, data valuation for LLM pretraining.
+#- Application: for domains with large-scale, complex structure data, including non-Euclidean, high-dimension, dynamic, nonlinearity, corruption.
 
-I also actively expand the research to interesting and impactful (related) problems.
+#I also actively expand the research to interesting and impactful (related) problems.
 
 == Contact
 
