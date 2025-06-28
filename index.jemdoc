@@ -31,9 +31,11 @@ My research aims to improve scalability, efficiency, and robustness for learning
 .. Going beyond Lp-structure for variational Wasserstein problems.
 . Leveraging OT theoretical insights for data science: 
 .. Designing innovative, and efficient methodologies.
-.. Improving efficiency, scalability, and robustness for applications with large-scale, complex data.
+.. Centering on applications with large-scale, complex structured data.
 
 # including non-Euclidean, high-dimension, dynamic, nonlinearity, corruption.
+#.. Improving efficiency, scalability, and robustness for applications with large-scale, complex data.
+
 
 ## -- old
 #My research is structured across three levels:
