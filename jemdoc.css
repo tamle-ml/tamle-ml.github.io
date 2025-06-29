@@ -56,7 +56,7 @@ pre, tt {
 }
 
 a, a > tt {
-	color: #0502b5; /* #224b8d; */
+	color: #081e8a; /* #0502b5; #224b8d; */
 	text-decoration: none;
 }
 
@@ -65,11 +65,11 @@ a:hover {
 }
 
 #layout-menu a.current:link, #layout-menu a.current:visited {
-	color: #0502b5; /* #022b6d; */
+	color: #081e8a;  /*#0502b5; #022b6d; */
 	border-bottom: 1px gray solid;
 }
 #layout-menu a:link, #layout-menu a:visited, #layout-menu a:hover {
-	color: #021dc9; /* #527bbd; */
+	color: #081e8a; /* #021dc9; #527bbd; */
 	text-decoration: none;
 }
 #layout-menu a:hover {
