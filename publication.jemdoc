@@ -8,56 +8,56 @@
 #https://arxiv.org/pdf/2406.13725
 
 - [https://arxiv.org/pdf/2406.13725 {{<font color="blue">Tree-Sliced Wasserstein Distance: A Geometric Perspective</font>}}]  \n 
-International Conference on Machine Learning (*ICML*), 2025. (/Acceptance rate: 3260\/12107/) \n 
+International Conference on Machine Learning (*ICML*), 2025. (/AR: 3260\/12107/) \n 
 Hoang V. Tran{{<font color="red">*</font>}}, Trang Pham{{<font color="red">*</font>}}, Tho Tran, Khoi Nguyen, Thanh Chu, *Tam Le*{{<font color="green">&oast;</font>}}, Tan M. Nguyen{{<font color="green">&oast;</font>}}.
 
 - [https://arxiv.org/pdf/2505.00968 {{<font color="blue">Tree-Sliced Wasserstein Distance with Nonlinear Projection</font>}}]  \n 
-International Conference on Machine Learning (*ICML*), 2025. (/Acceptance rate: 3260\/12107/) \n 
+International Conference on Machine Learning (*ICML*), 2025. (/AR: 3260\/12107/) \n 
 Thanh Tran{{<font color="red">*</font>}}, Hoang V. Tran{{<font color="red">*</font>}}, Thanh Chu, Trang Pham, Laurent El Ghaoui{{<font color="green">&oast;</font>}}, *Tam Le*{{<font color="green">&oast;</font>}}, Tan M. Nguyen{{<font color="green">&oast;</font>}}.
 
 - [https://arxiv.org/pdf/2502.00737 {{<font color="blue">Scalable Sobolev IPM for Probability Measures on a Graph</font>}}]  \n 
-International Conference on Machine Learning (*ICML*), 2025. (/Acceptance rate: 3260\/12107/) \n
+International Conference on Machine Learning (*ICML*), 2025. (/AR: 3260\/12107/) \n
 *Tam Le*{{<font color="red">*</font>}}, Truyen Nguyen{{<font color="red">*</font>}}, Hideitsu Hino, Kenji Fukumizu.
 
 - [https://openreview.net/pdf?id=OiQttMHwce {{<font color="blue">Distance-Based Tree-Sliced Wasserstein Distance</font>}}]  \n 
-International Conference on Learning Representation (*ICLR*), 2025. (/Acceptance rate: 32.08% out of about 11500 submissions/) \n
+International Conference on Learning Representation (*ICLR*), 2025. (/AR: 3736\/11672/) \n
 Hoang V. Tran{{<font color="red">*</font>}}, Khoi Nguyen{{<font color="red">*</font>}}, Trang Pham, Thanh Chu, *Tam Le*{{<font color="green">&oast;</font>}}, Tan M. Nguyen{{<font color="green">&oast;</font>}}.
 
 - [https://openreview.net/pdf?id=FPQzXME9NK {{<font color="blue">Spherical Tree-Sliced Wasserstein Distance</font>}}]  \n 
-International Conference on Learning Representation (*ICLR*), 2025. (/Acceptance rate: 32.08% out of about 11500 submissions/) \n
+International Conference on Learning Representation (*ICLR*), 2025. (/AR: 3736\/11672/) \n
 Hoang V. Tran{{<font color="red">*</font>}}, Thanh Chu{{<font color="red">*</font>}}, Khoi Nguyen, Trang Pham,  *Tam Le*{{<font color="green">&oast;</font>}}, Tan M. Nguyen{{<font color="green">&oast;</font>}}.
 
 - [https://openreview.net/pdf?id=0UCoWxPhQ4 {{<font color="blue">SAVA: Scalable Learning-Agnostic Data Valuation</font>}}]  \n 
-International Conference on Learning Representation (*ICLR*), 2025. (/Acceptance rate: 32.08% out of about 11500 submissions/) \n
+International Conference on Learning Representation (*ICLR*), 2025. (/AR: 3736\/11672/) \n
 Samuel Kessler{{<font color="red">*</font>}}, *Tam Le*{{<font color="red">*</font>}}, Vu Nguyen.
 
 - [https://proceedings.mlr.press/v235/le24a.html {{<font color="blue">Generalized Sobolev Transport for Probability Measures on a Graph</font>}}]  \n 
-International Conference on Machine Learning (*ICML*), 2024. (/Acceptance rate: 2609\/9473/) \n
+International Conference on Machine Learning (*ICML*), 2024. (/AR: 2609\/9473/) \n
 *Tam Le*{{<font color="red">*</font>}}, Truyen Nguyen{{<font color="red">*</font>}}, Kenji Fukumizu.
 
 - [https://proceedings.mlr.press/v235/nguyen24l.html {{<font color="blue">Sliced Wasserstein with Random-Path Projecting Directions</font>}}]  \n 
-International Conference on Machine Learning (*ICML*), 2024. (/Acceptance rate: 2609\/9473/) \n
+International Conference on Machine Learning (*ICML*), 2024. (/AR: 2609\/9473/) \n
 Khai Nguyen, Shujian Zhang, *Tam Le*, Nhat Ho.
 
 - [https://proceedings.mlr.press/v238/le24a/le24a.pdf {{<font color="blue">Optimal Transport for Measures with Noisy Tree Metric</font>}}] \n
-International Conference on Artificial Intelligence and Statistics (*AISTATS*), 2024. (/Acceptance rate: 546\/1980/) \n 
+International Conference on Artificial Intelligence and Statistics (*AISTATS*), 2024. (/AR: 546\/1980/) \n 
 *Tam Le*, Truyen Nguyen, Kenji Fukumizu. \n
 (/Preliminary workshop version in NeurIPS workshop: OTML, 2023/)
 
 - [https://proceedings.mlr.press/v206/le23a/le23a.pdf {{<font color="blue">Scalable Unbalanced Sobolev Transport for Measures on a Graph</font>}}] .  \n #\[[https://slideslive.com/38980758/sobolev-transport-a-scalable-metric-for-probability-measures-with-graph-metrics?ref=speaker-17801 Video]\/[https://proceedings.mlr.press/v151/le22b/le22b-supp.zip Supplementary]\/[https://www.dropbox.com/s/eg4pw4rw960bho1/LNPN_AISTATS2022_SobolevTransport_Poster.pdf?dl=0 POSTER]\] \n
-International Conference on Artificial Intelligence and Statistics (*AISTATS*), 2023. (/Acceptance rate: 496\/1686/) \n 
+International Conference on Artificial Intelligence and Statistics (*AISTATS*), 2023. (/AR: 496\/1686/) \n 
 *Tam Le*{{<font color="red">*</font>}}, Truyen Nguyen{{<font color="red">*</font>}}, Kenji Fukumizu.
 
 - [https://proceedings.mlr.press/v151/le22b/le22b.pdf {{<font color="blue">Sobolev Transport: A Scalable Metric for Probability Measures with Graph Metrics</font>}}] .  \[[https://slideslive.com/38980758/sobolev-transport-a-scalable-metric-for-probability-measures-with-graph-metrics?ref=speaker-17801 Video]\/[https://proceedings.mlr.press/v151/le22b/le22b-supp.zip Supplementary]\/[https://www.dropbox.com/s/eg4pw4rw960bho1/LNPN_AISTATS2022_SobolevTransport_Poster.pdf?dl=0 POSTER]\] \n
-International Conference on Artificial Intelligence and Statistics (*AISTATS*), 2022. (/Acceptance rate: 492\/1685/) \n 
+International Conference on Artificial Intelligence and Statistics (*AISTATS*), 2022. (/AR: 492\/1685/) \n 
 *Tam Le*{{<font color="red">*</font>}}, Truyen Nguyen{{<font color="red">*</font>}}, Dinh Phung, Viet Anh Nguyen.
 
 - [https://proceedings.neurips.cc/paper/2021/file/8cfef17bee2b7a75a3ce09d40b497f6b-Paper.pdf {{<font color="blue">Adversarial Regression with Doubly Non-negative Weighting Matrices</font>}}]. \[[https://proceedings.neurips.cc/paper/2021/file/8cfef17bee2b7a75a3ce09d40b497f6b-Supplemental.pdf Supplementary]\/[https://www.dropbox.com/s/aenyabi9mq5vk37/TamLe_NeurIPS2021_AdvReg_Slide.pdf?dl=0 SLIDE]\/[https://www.dropbox.com/s/gbwdqbu5pobpymo/LNBN_NeurIPS21_AdvReg.pdf?dl=0 POSTER]\] \n
-Neural Information Processing Systems (*NeurIPS\/NIPS*), 2021. (/Acceptance rate: 2334\/9122/) \n
+Neural Information Processing Systems (*NeurIPS\/NIPS*), 2021. (/AR: 2334\/9122/) \n
 *Tam Le*{{<font color="red">*</font>}}, Truyen Nguyen{{<font color="red">*</font>}}, Makoto Yamada, Jose Blanchet, Viet Anh Nguyen.
 
 - [http://proceedings.mlr.press/v139/nguyen21d/nguyen21d.pdf {{<font color="blue">Optimal Transport Kernels for Sequential and Parallel Neural Architecture Search</font>}}]. \[[http://proceedings.mlr.press/v139/nguyen21d/nguyen21d-supp.pdf Supplementary]\/[https://www.dropbox.com/s/nivgnbd2wjad4cp/VNTLMYMO_ICML21_NAS_BO_TW.pdf?dl=0 POSTER]\] \n
-International Conference on Machine Learning (*ICML*), 2021. (/Acceptance rate: 1184\/5513/) \n
+International Conference on Machine Learning (*ICML*), 2021. (/AR: 1184\/5513/) \n
 Vu Nguyen{{<font color="red">*</font>}}, *Tam Le*{{<font color="red">*</font>}}, Makoto Yamada, Michael A. Osborne.
 
 - [http://proceedings.mlr.press/v130/le21a/le21a.pdf {{<font color="blue">Entropy Partial Transport with Tree Metrics: Theory and Practice</font>}}]. \[[https://slideslive.com/38953421/oral-entropy-partial-transport-with-tree-metrics-theory-and-practice?ref=speaker-17801-latest Video]\/[http://proceedings.mlr.press/v130/le21a/le21a-supp.pdf Supplementary]\/[https://www.dropbox.com/s/t0585d445apprx7/TamLe_ID1691_AISTATS2021_EPT_12min.pdf?dl=0 SLIDE]\/[https://www.dropbox.com/s/uk5hzfve648gve0/TLTN_AISTATS21_EPT.pdf?dl=0 POSTER]\] \n
@@ -68,24 +68,24 @@ International Conference on Artificial Intelligence and Statistics (*AISTATS*), 
 # {{<font color="green">(This paper was selected for oral presentation. Oral : acceptance : submissions = 48 : 455 : 1527)</font>}}
 
 - [http://proceedings.mlr.press/v130/le21b/le21b.pdf {{<font color="blue">Flow-based Alignment Approaches for Probability Measures in Different Spaces</font>}}] . \[[https://slideslive.com/38953310/flowbased-alignment-approaches-for-probability-measures-in-different-spaces?ref=speaker-17801-latest Video]\/[http://proceedings.mlr.press/v130/le21b/le21b-supp.pdf Supplementary]\/[https://www.dropbox.com/s/vc09k731yh20nhv/TLNHMY_AISTATS2021_FlowAlign.pdf?dl=0 POSTER]\] \n
-International Conference on Artificial Intelligence and Statistics (*AISTATS*), 2021. (/Acceptance rate: 455\/1527/) \n 
+International Conference on Artificial Intelligence and Statistics (*AISTATS*), 2021. (/AR: 455\/1527/) \n 
 *Tam Le*{{<font color="red">*</font>}}, Nhat Ho{{<font color="red">*</font>}}, Makoto Yamada.
 
 - [https://papers.nips.cc/paper/9396-tree-sliced-variants-of-wasserstein-distances.pdf {{<font color="blue">Tree-Sliced Variants of Wasserstein Distances</font>}}]. \[[https://papers.nips.cc/paper/9396-tree-sliced-variants-of-wasserstein-distances-supplemental.zip Supplementary]\/[https://www.dropbox.com/s/4ugbmyu5jepxun0/TLMYKFMC_NeurIPS19_TSW.pdf?dl=0 POSTER]\] \n
- Neural Information Processing Systems (*NeurIPS\/NIPS*), 2019. (/Acceptance rate: 1428\/6743/) \n 
+ Neural Information Processing Systems (*NeurIPS\/NIPS*), 2019. (/AR: 1428\/6743/) \n 
  *Tam Le*, Makoto Yamada, Kenji Fukumizu, Marco Cuturi.
  
 - [http://proceedings.mlr.press/v97/ndiaye19a/ndiaye19a.pdf {{<font color="blue">Safe Grid Search with Optimal Complexity</font>}}]. \[[http://proceedings.mlr.press/v97/ndiaye19a/ndiaye19a-supp.pdf Supplementary]\/[https://www.dropbox.com/s/f4appwq8sghnz31/poster_icml2019_ndiaye_final.pdf?dl=0 POSTER]\]  \n
-International Conference on Machine Learning (*ICML*), 2019. (/Acceptance rate: 773\/3424/) \n
+International Conference on Machine Learning (*ICML*), 2019. (/AR: 773\/3424/) \n
  Eugene Ndiaye, *Tam Le*, Olivier Fercoq, Joseph Salmon, Ichiro Takeuchi.
 
 - [http://papers.nips.cc/paper/8205-persistence-fisher-kernel-a-riemannian-manifold-kernel-for-persistence-diagrams.pdf {{<font color="blue">Persistence Fisher Kernel: A Riemannian Manifold Kernel for Persistence Diagrams</font>}}]. \[[http://papers.nips.cc/paper/8205-persistence-fisher-kernel-a-riemannian-manifold-kernel-for-persistence-diagrams-supplemental.zip Supplementary]\/[https://www.dropbox.com/s/o99zja0qtzpdzci/TLMY_NIPS18_PFKernel_PD.pdf?dl=0 POSTER]\]  \n
-Neural Information Processing Systems (*NeurIPS\/NIPS*), 2018. (/Acceptance rate: 1011\/4856/) \n
+Neural Information Processing Systems (*NeurIPS\/NIPS*), 2018. (/AR: 1011\/4856/) \n
  *Tam Le*, Makoto Yamada. \n
  (/Preliminary workshop version in ICML workshop: GML, 2018/)
  
 - [http://proceedings.mlr.press/v37/le15.pdf {{<font color="blue">Unsupervised Riemannian Metric Learning for Histograms Using Aitchison Transformations</font>}}]. \[[http://videolectures.net/icml2015_le_histograms/?q=Tam\%20Le Video]\/[http://proceedings.mlr.press/v37/le15-supp.pdf Supplemental]\/[https://www.dropbox.com/s/vj4gsgnazrhlvdt/TL.MC.ICML2015.Slide.pdf?dl=0 SLIDE]\/[https://www.dropbox.com/s/4zboqoil7gwn3i1/TL.MC.ICML2015.Poster.pdf?dl=0 POSTER]\] \n
-International Conference on Machine Learning (*ICML*), 2015. (/Acceptance rate: 270\/1037/) \n
+International Conference on Machine Learning (*ICML*), 2015. (/AR: 270\/1037/) \n
  *Tam Le*, Marco Cuturi.
  
 - [https://www.dropbox.com/s/ag7hy2v7wdilu4j/TL.MC.MLJ2014.pdf?dl=0 {{<font color="blue">Adaptive Euclidean Maps for Histograms: Generalized Aitchison Embeddings</font>}}] \n
@@ -120,19 +120,19 @@ Conference on Causal Learning and Reasoning (/CLeaR/), 2024. \n
 Thong Pham, Shohei Shimizu, Hideitsu Hino, *Tam Le*.
 
 - [https://www.ijcai.org/proceedings/2023/0423.pdf {{<font color="blue">Dynamic Flows on Curved Space Generated by Labeled Data</font>}}] \n
-International Joint Conference on Artificial Intelligence (*IJCAI*), 2023. (/Acceptance rate: 15% out of 4566 submissions/) \n
+International Joint Conference on Artificial Intelligence (*IJCAI*), 2023. (/AR: 643\/4566/) \n
 Xinru Hua, Truyen Nguyen, *Tam Le*, Jose Blanchet, Viet Anh Nguyen
 
 - [https://openaccess.thecvf.com/content/ICCV2021/papers/Nguyen_Point-Set_Distances_for_Learning_Representations_of_3D_Point_Clouds_ICCV_2021_paper.pdf {{<font color="blue">Point-set Distances for Learning Representations of 3D Point Clouds</font>}}] \n
-International Conference on Computer Vision (*ICCV*), 2021. (/Acceptance rate: 1617\/6236/) \n
+International Conference on Computer Vision (*ICCV*), 2021. (/AR: 1617\/6236/) \n
 Trung Nguyen, Quang-Hieu Pham, *Tam Le*, Tung Pham, Nhat Ho, Binh-Son Hua.
 
 - [https://ecmlpkdd-storage.s3.eu-central-1.amazonaws.com/former-websites/2021/wp-content/uploads/2021/07/sub_142.pdf {{<font color="blue">LSMI-Sinkhorn: Semi-supervised Squared-Loss Mutual Information Estimation with Optimal Transport</font>}}] \n
-European Conference on Machine Learning and Principles \& Practice of Knowledge Discovery in Databases (/ECML-PKDD/), 2021. (/Acceptance rate: 147\/685/) \n
+European Conference on Machine Learning and Principles \& Practice of Knowledge Discovery in Databases (/ECML-PKDD/), 2021. (/AR: 147\/685/) \n
 Yanbin Liu{{<font color="red">*</font>}}, Makoto Yamada{{<font color="red">*</font>}}, Yao-Hung Hubert Tsai, *Tam Le*, Ruslan Salakhutdinov, Yi Yang
 
 - [https://ecai2020.eu/papers/330_paper.pdf {{<font color="blue">Topological Bayesian Optimization with Persistence Diagrams</font>}}] \n
-European Conference on Artificial Intelligence (/ECAI/), 2020. (/Acceptance rate: 365\/1363/) \n
+European Conference on Artificial Intelligence (/ECAI/), 2020. (/AR: 365\/1363/) \n
 Tatsuya Shiraishi, *Tam Le*, Hisashi Kashima, Makoto Yamada
 
 - [https://arxiv.org/pdf/1910.04483.pdf {{<font color="blue">Tree-Wasserstein Barycenter for Large-Scale Multilevel Clustering and Scalable Bayes</font>}}] \n
@@ -144,7 +144,7 @@ Science and Technology of Advance Materials Journal (STAM), 2018. \n
  Randy Jalem, Masanobu Nakayama, Yusuke Noda, *Tam Le*, Ichiro Takeuchi, Yoshitaka Tateyama, Hisatsugu Yamazaki
  
 - [http://proceedings.mlr.press/v29/Le13.pdf {{<font color="blue">Generalized Aitchison Embeddings for Histograms</font>}}]. \[[https://799a327a-a-62cb3a1a-s-sites.googlegroups.com/site/tamtle85/acml13/TamLe_ACML13.pdf?attachauth=ANoY7co0ctNrM6IGtGy7-HUUGaF_jZNDALnhKuyeXTvrvnRFksIGZaEm5xtXaqY8o92WUlHWgomz46LrFTNuAxHpyH260KPc9qFskG75521q96T1aVUXrtSSJsMZowtTBxFO5cMtu6l4GYPQT-rsx97SfSU8QxMoGN-ik17jgZyKGNqWVINs36qZ7VDnUYopGTOi0_vMOKI5AHjMnjTEm_yWp9VdkJcA05GFzRhsNpNJqZewg222Sqo%3D&attredirects=0 SLIDE]\] \n
-Asian Conference on Machine Learning (/ACML/), 2013 (oral). (/Oral paper rate: 9.7\%/) \n
+Asian Conference on Machine Learning (/ACML/), 2013 (oral). (/Oral rate: 9.7\%/) \n
  *Tam Le*, Marco Cuturi
  
 - [https://799a327a-a-62cb3a1a-s-sites.googlegroups.com/site/tamtle85/hsmk-code/TL.YK.AS-HSMK-IIEEJ13.pdf?attachauth=ANoY7cptnG2XULNdwNvStBxHRF8txio8ZQk3x6EZgWSPZPNf91QFmZQAI4gI6v7o2bS48WD9Pcn-KC1VGm43cZh6E0nH_xC0jDkQ22HyVHkW7V-8NOF0cpQGaxgdxxtsQqz50Mc3PkLvMsSSCxyiGCTgUmzdycH3WiQK64E9RV6dYDItqJs-EJZbTCq9qJT6enMaItGICb7BP6M1ybUWqCMEXIBBw7JAUtmDfUZkl2auPdjT5bSEw_o%3D&attredirects=0 {{<font color="blue">Image Categorization Using Hierarchical Spatial Matching Kernel</font>}}] \n
@@ -153,7 +153,7 @@ Journal of the Institute of Image Electronics Engineers of Japan (IIEEJ), Vol. 4
  (/Preliminary conference version in ICIAR, 2011/)
  
 - [https://www.dropbox.com/s/4bqrsuzn9as0tix/TamLe-ICIAR11.pdf?dl=0 {{<font color="blue">Hierarchical Spatial Matching Kernel for Image Categorization</font>}}]. \[[https://f2496fb7-a-62cb3a1a-s-sites.googlegroups.com/site/lttam85/Home/TamLe-HSMK-ICIAR11.pdf?attachauth=ANoY7crjZ3Vt6hzUNYaDrFcbxZa7jywngZ-KX3FDN8uMs7NLsMbGWBOp122P29kFrRmXAgYLVtN6VKr-TksXj7p_XUSOyo_WDfmjl_6xRsFR-Cf3OTCfrdyLoGvODtRi7i5xS3L0j1jKiAf-EncSOtNba7Qaq1EL46LaG9rLERKLvr39AeOSKb8MVy5oN2o-mW0PMEwIfDW8p8jIUPR_XBAqg2hpJoJSMKOtzihdKDvTMGuhBiniQIk%3D&attredirects=0 SLIDE]\] \n
-International Conference on Image Processing and Recognition (ICIAR), 2011 (oral). (/Oral paper rate: 25\%/)\n
+International Conference on Image Processing and Recognition (ICIAR), 2011 (oral). (/Oral rate: 25\%/)\n
  *Tam Le*, Yousun Kang, Akihiro Sugimoto, Son Tran, Thuc Nguyen
  
 - [https://www.dropbox.com/s/987ev6ok1dtatyj/TamLe-ACIIDS10.pdf?dl=0 {{<font color="blue">Realtime Traffic Sign Detection Using Color and Shape-Based Features</font>}}] \n
