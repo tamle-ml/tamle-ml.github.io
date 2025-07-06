@@ -1,6 +1,10 @@
 # jemdoc: menu{MENU}{code.html}
 = Tam Le \- Code & Datasets
 
+- [https://github.com/lttam/NonlinearTSW Tree-Sliced-Wasserstein with Nonlinear Radon Transform]. (ICML 2025)
+-- TSW with nonlinear Radon transform, i.e., circular Radon transform on System-of-Lines, and spatial Radon transform on System-of-Lines. Consequently, we proposed CircularTSW and SpatialTSW respectively. Additionally, we also propose Spatial Spherical TSW (SpatialSTSW) with spatial spherical Radon transform on spherical trees.
+-- Implemented by Thanh Tran and Thanh Chu.
+
 - [https://github.com/lttam/Sobolev-IPM Scalable Sobolev IPM]. (ICML 2025)
 -- A scalable regularized Sobolev IPM for probability measures supported on a graph metric space. Notice that there is no efficient algorithmic approach to compute Sobolev IPM effectively yet to our knowledge. Therefore, the proposed approach paves a way to apply Sobolev IPM for practical applications, especially for large-scale setting.
 
