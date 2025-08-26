@@ -9,16 +9,21 @@
 Assistant Professor, [https://www.ism.ac.jp/index_e.html *The Institute of Statistical Mathematics (ISM)*] \n
 [https://www.ism.ac.jp/souran-en/index_e.html Department of Advanced Data Science] \n
 [https://www.ism.ac.jp/noe/sml-center/en/index.html Research Center for Statistical Machine Learning] \n
-\n
-Concurrent affiliation: \n
-#Visiting Scientist, [https://www.riken.jp/en/research/labs/aip/generic_tech/funct_anl_learn/ Functional Analytic Learning Team], [https://www.riken.jp/en/research/labs/aip/index.html RIKEN Center for Advanced Intelligence Project (RIKEN AIP)]. \n
-Visiting Scientist, [https://www.riken.jp/en/research/labs/aip/generic_tech/funct_anl_learn/ Functional Analytic Learning Team], [https://www.riken.jp/en/research/labs/aip/index.html RIKEN AIP]. \n
-Assistant Professor, [https://www.soken.ac.jp/en/index.html The Graduate School for Advanced Studies (SOKENDAI)]. \n
+
+#Concurrent affiliation: \n
+##Visiting Scientist, [https://www.riken.jp/en/research/labs/aip/generic_tech/funct_anl_learn/ Functional Analytic Learning Team], [https://www.riken.jp/en/research/labs/aip/index.html RIKEN Center for Advanced Intelligence Project (RIKEN AIP)]. \n
+#Visiting Scientist, [https://www.riken.jp/en/research/labs/aip/generic_tech/funct_anl_learn/ Functional Analytic Learning Team], [https://www.riken.jp/en/research/labs/aip/index.html RIKEN AIP]. \n
+#Assistant Professor, [https://www.soken.ac.jp/en/index.html The Graduate School for Advanced Studies (SOKENDAI)]. \n
+
+Email: tam\[/at/\]ism.ac.jp \n
+\n 
+[https://www.dropbox.com/scl/fi/0d38797rptvc3vgqnhcud/TamLe2025Aug_CV.pdf?rlkey=atjivszmnl6pksp4z4t2t0nox&dl=0 CV] - [https://scholar.google.com/citations?user=ZyrRB_8AAAAJ&hl=en Google scholar] - [https://github.com/lttam GitHub] - [https://researchmap.jp/tamle Research map] \n
+
 ~~~
 
 #Assistant Professor, [https://www.ism.ac.jp/senkou_eng/ Statistical Science Program], [https://www.soken.ac.jp/en/index.html The Graduate School for Advanced Studies (SOKENDAI)]. \n
 
-== Research: Machine Learning, Optimal Transport \n
+== Research Interests: Machine Learning, Optimal Transport, Kernels \n
 
 #My research goals are to make AI more advanced with a focus on improving its scalability, efficiency, and robustness for learning with large-scale, complex data and models from mathematical perspectives. More specifically, my research focus is to enhance theoretical foundations for data science from /optimal transport (OT) theory/ perspective, with two objectives as follows:
 #- (i) /Deepening OT theory/: breaking the curse of dimensionality for OT with 1D-structure by exploiting graph structure, and tree system; and going beyond Lp structure for variational Wasserstein problems by utilizing functional geometric structure.
@@ -56,12 +61,11 @@ My research aims to make AI more advanced, with a focus on improving its scalabi
 
 ~~~
 10-3 Midori-cho, Tachikawa, Tokyo 190-8562, Japan \n
-Email: tam\[/at/\]ism.ac.jp (or lttam.vn\[/at/\]gmail.com) \n
 Room: A506B. [https://www.ism.ac.jp/access/index_e.html Access to ISM] \n
+Email: tam\[/at/\]ism.ac.jp (or lttam.vn\[/at/\]gmail.com) \n
 ~~~
-
-My CV is [https://www.dropbox.com/scl/fi/0d38797rptvc3vgqnhcud/TamLe2025Aug_CV.pdf?rlkey=atjivszmnl6pksp4z4t2t0nox&dl=0 here] - Updated August, 2025. \n
-\[[https://scholar.google.com/citations?user=ZyrRB_8AAAAJ&hl=en Google scholar], [https://github.com/lttam GitHub], [https://researchmap.jp/tamle Research map]\]
+ 
+#[https://www.dropbox.com/scl/fi/0d38797rptvc3vgqnhcud/TamLe2025Aug_CV.pdf?rlkey=atjivszmnl6pksp4z4t2t0nox&dl=0 CV] - [https://scholar.google.com/citations?user=ZyrRB_8AAAAJ&hl=en Google scholar] - [https://github.com/lttam GitHub] - [https://researchmap.jp/tamle Research map]
 
 == News
 - 16-Aug-2025, I will serve as Area Chair for [https://iclr.cc/ *ICLR'26*] and [https://aistats.org/aistats2026/ *AISTATS'26*].
