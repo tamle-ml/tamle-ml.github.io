@@ -1,5 +1,10 @@
 # jemdoc: menu{MENU}{code.html}
-= Tam Le \- Code & Datasets
+= Tam LE \- Code & Datasets
+
+#[https://www.dropbox.com/scl/fi/0d38797rptvc3vgqnhcud/TamLe2025Aug_CV.pdf?rlkey=atjivszmnl6pksp4z4t2t0nox&dl=0 CV] - [https://scholar.google.com/citations?user=ZyrRB_8AAAAJ&hl=en Google Scholar] - [https://www.linkedin.com/in/lttam/ LinkedIn] - [https://github.com/lttam GitHub] - [https://researchmap.jp/tamle Research Map] \n
+
+[https://github.com/lttam GitHub Page] for a list of our recent published codes.  \n
+\n
 
 - [https://github.com/lttam/NonlinearTSW Tree-Sliced-Wasserstein with Nonlinear Radon Transforms]. (ICML 2025)
 -- TSW with nonlinear Radon transforms, i.e., circular Radon transform on System-of-Lines, spatial Radon transform on System-of-Lines, and spatial spherical Radon transform on spherical-trees. Consequently, we propose CircularTSW, SpatialTSW, and SpatialSTSW respectively.

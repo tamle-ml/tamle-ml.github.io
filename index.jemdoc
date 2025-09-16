@@ -1,13 +1,17 @@
 # jemdoc: menu{MENU}{index.html}
-= Tam Le (PhD, 2016)
+= Tam LE  ~\[Ph.D. 2016\]
 # = Tam Le
 
 #TamLe_ISM22.jpg
 ~~~
 {}{img_left}{TamLeISM22.jpg}{Tam Le}{150}{178}{TamLeISM22.jpg}
 #(a.k.a. Lê Thanh Tâm) \n
-Assistant Professor, [https://www.ism.ac.jp/index_e.html Institute of Statistical Mathematics (ISM)] \n
+
+*Tam Le* \n
+/Assistant Professor/ \n
 [https://www.ism.ac.jp/souran-en/index_e.html Department of Advanced Data Science] \n
+[https://www.ism.ac.jp/index_e.html Institute of Statistical Mathematics (ISM)] \n
+
 #[https://www.ism.ac.jp/noe/sml-center/en/index.html Research Center for Statistical Machine Learning] \n
 
 #Concurrent affiliation: \n
@@ -17,7 +21,7 @@ Assistant Professor, [https://www.ism.ac.jp/index_e.html Institute of Statistica
 
 Email: tam\[/at/\]ism.ac.jp \n
 \n 
-[https://www.dropbox.com/scl/fi/0d38797rptvc3vgqnhcud/TamLe2025Aug_CV.pdf?rlkey=atjivszmnl6pksp4z4t2t0nox&dl=0 CV] - [https://scholar.google.com/citations?user=ZyrRB_8AAAAJ&hl=en Google scholar] - [https://www.linkedin.com/in/lttam/ LinkedIn] - [https://github.com/lttam GitHub] - [https://researchmap.jp/tamle Research map] \n
+[https://www.dropbox.com/scl/fi/0d38797rptvc3vgqnhcud/TamLe2025Aug_CV.pdf?rlkey=atjivszmnl6pksp4z4t2t0nox&dl=0 CV] - [https://scholar.google.com/citations?user=ZyrRB_8AAAAJ&hl=en Google Scholar] - [https://www.linkedin.com/in/lttam/ LinkedIn] - [https://github.com/lttam GitHub] - [https://researchmap.jp/tamle Research Map] \n
 
 ~~~
 
@@ -79,9 +83,9 @@ Email: tam\[/at/\]ism.ac.jp (or lttam.vn\[/at/\]gmail.com) \n
 -- [https://openreview.net/pdf?id=0UCoWxPhQ4 SAVA: Scalable Learning-Agnostic Data Valuation], joint work with Samuel Kessler, and Vu Nguyen.
 -- [https://openreview.net/pdf?id=OiQttMHwce Distance-Based Tree-Sliced Wasserstein Distance], joint work with Hoang Tran, Khoi Nguyen, Trang Pham, Thanh Chu, and Tan Nguyen.
 -- [https://openreview.net/pdf?id=FPQzXME9NK Spherical Tree-Sliced Wasserstein Distance], joint work with Hoang Tran, Thanh Chu, Khoi Nguyen, Trang Pham, and Tan Nguyen.
-- 22-Nov-2024, I will serve as Area Chair for [https://icml.cc/ *ICML'25*].
-- 11-Sep-2024, I will serve as Area Chair for [https://aistats.org/aistats2025/ *AISTATS'25*].
-- 07-Aug-2024, I will serve as Area Chair for [https://iclr.cc/ *ICLR'25*], and as Senior Program Committee for [https://aaai.org/conference/aaai/aaai-25/ /AAAI'25/].
+# - 22-Nov-2024, I will serve as Area Chair for [https://icml.cc/ *ICML'25*].
+# - 11-Sep-2024, I will serve as Area Chair for [https://aistats.org/aistats2025/ *AISTATS'25*].
+# - 07-Aug-2024, I will serve as Area Chair for [https://iclr.cc/ *ICLR'25*], and as Senior Program Committee for [https://aaai.org/conference/aaai/aaai-25/ /AAAI'25/].
 
 # - 02-May-2024, Our 2 papers have been accepted to [https://icml.cc/ *ICML'24*].
 # -- [https://arxiv.org/pdf/2401.15889 Sliced Wasserstein with Random-Path Projecting Directions], joint work with Khai Nguyen, Shujian Zhang, and Nhat Ho.

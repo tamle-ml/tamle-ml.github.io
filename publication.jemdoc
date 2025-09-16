@@ -1,6 +1,9 @@
 # jemdoc: menu{MENU}{publication.html}
-= Tam Le \- Publications
+= Tam LE \- Publications
 
+#[https://www.dropbox.com/scl/fi/0d38797rptvc3vgqnhcud/TamLe2025Aug_CV.pdf?rlkey=atjivszmnl6pksp4z4t2t0nox&dl=0 CV] - [https://scholar.google.com/citations?user=ZyrRB_8AAAAJ&hl=en Google scholar] - [https://www.linkedin.com/in/lttam/ LinkedIn] - [https://github.com/lttam GitHub] - [https://researchmap.jp/tamle Research map] \n
+
+[https://scholar.google.com/citations?user=ZyrRB_8AAAAJ&hl=en Google Scholar Page] for a list of my most recent preprints. \n
 ({{<font color="red">*</font>}}: equal contribution; {{<font color="green">&oast;</font>}}: co-last author)
 
 
@@ -230,9 +233,12 @@ ICIAR, 2011. \[oral\] \n
 ACIIDS, 2010. \[oral\] \n
  *Tam Le*, Son Tran, Seichii Mita, Thuc Nguyen
 
+
 *Thesis*
 - [https://repository.kulib.kyoto-u.ac.jp/dspace/bitstream/2433/204594/2/djohk00596.pdf {{<font color="blue">Geometry-Aware Learning Algorithms for Histogram Data Using Adaptive Metric Embeddings and Kernel Functions</font>}}] \n
  Ph.D. thesis, Kyoto University, Japan, 2015.
+
+
 
 #== Workshop Posters / Talks
 == Invited Talks
