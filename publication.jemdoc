@@ -10,7 +10,6 @@
 #<font style="color:rgb(23, 165, 137)">
 == Selected Journals / Conference Papers
 
-
 - [to-be-updated {{<font color="blue">An Efficient Orlicz-Sobolev Approach for Transporting Unbalanced Measures on a Graph</font>}}]  \n 
 *{{<font style="color:rgb(34, 153, 84)">NeurIPS</font>}}*, 2025. \[Spotlight rate: 688\/21575=*3.19%*\] \n
 *Tam Le*{{<font color="red">*</font>}}, Truyen Nguyen{{<font color="red">*</font>}}, Hideitsu Hino, Kenji Fukumizu. \n
@@ -20,6 +19,9 @@
 *{{<font style="color:rgb(34, 153, 84)">NeurIPS</font>}}*, 2025. \n
 Viet-Hoang Tran, Thanh Tran, Thanh T. Chu, *Tam Le*{{<font color="green">&oast;</font>}}, Tan M. Nguyen{{<font color="green">&oast;</font>}}.
 
+- [to-be-updated {{<font color="blue">Tree Structure for the Categorical Wasserstein Weisfeiler-Lehman Graph Kernel</font>}}]  \n 
+*{{<font style="color:rgb(23, 165, 137)">TMLR</font>}}*, 2025. \n
+Keishi Sando, *Tam Le*, Hideitsu Hino.
 
 - [https://openreview.net/pdf?id=StaRAs9n49 {{<font color="blue">Tree-Sliced Wasserstein Distance: A Geometric Perspective</font>}}]. \[[https://www.dropbox.com/scl/fi/bs7qa04znefzwopb4atqd/ICML2025_Poster_TSW-SL_TreeSystem.pdf?rlkey=b8hs29frkutd4kxphe36cboct&dl=0 POSTER]\] \n 
 #International Conference on Machine Learning (*ICML*), 2025. /AR: 3260\/12107/) \n 
@@ -182,10 +184,6 @@ Viet-Hoang Tran, Thanh T. Chu, Thanh Tran, Duy-Tung Pham, Khang Tran, *Tam Le*{{
 - [to-be-updated {{<font color="blue">Sobolev–Ricci Curvature</font>}}]  \n 
 Under review. \n 
 Kyoichi Iwasaki, *Tam Le*, Hideitsu Hino.
-
-- [to-be-updated {{<font color="blue">Tree Structure for the Categorical Wasserstein Weisfeiler-Lehman Graph Kernel</font>}}]  \n 
-Under review. \n 
-Keishi Sando, *Tam Le*, Hideitsu Hino.
 
 #- [https://arxiv.org/pdf/2502.00739 {{<font color="blue">Orlicz-Sobolev Transport for Unbalanced Measures on a Graph</font>}}]  \n 
 #ArXiv, 2025. \n
