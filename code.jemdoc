@@ -7,8 +7,8 @@
 \n
 
 - [https://github.com/lttam/PartialTSW Tree-Sliced Entropy Partial Transport (PartialTSW)]. (NeurIPS 2025)
--- Tree-Sliced Entropy Partial Transport (PartialTSW), to our knowledge, is the *first* approach of TSW for unbalanced measures having *closed-form* expression for applications with dynamic-support measures. 
--- Note that, to our knowledge, there is **no** sliced-Wasserstein (SW) approach for unbalanced measures admitting closed-form expression.
+-- Tree-Sliced Entropy Partial Transport (PartialTSW), to our knowledge, is the /first/ approach of TSW for unbalanced measures having /closed-form/ expression for applications with dynamic-support measures. 
+-- Note that, to our knowledge, there is /*no*/ sliced-Wasserstein (SW) approach for unbalanced measures admitting closed-form expression.
 -- Implemented by Thanh Tran.
 
 - [https://github.com/lttam/OST_OrliczEPT Orlicz-Sobolev Transport (OST) and Orlicz-EPT]. (NeurIPS 2025)
