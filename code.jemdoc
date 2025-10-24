@@ -11,8 +11,8 @@
 -- Note that, to our knowledge, there is **no** sliced-Wasserstein (SW) approach for unbalanced measures admitting closed-form expression.
 -- Implemented by Thanh Tran.
 
-- [https://github.com/lttam/OST_OrliczEPT Orlicz-Sobolev Transport (OST) and Orlicz-EPT for unbalanced graph-based measures]. (NeurIPS 2025)
--- Efficient Orlicz-Sobolev approaches for transporting unbalanced measures on a graph.
+- [https://github.com/lttam/OST_OrliczEPT Orlicz-Sobolev Transport (OST) and Orlicz-EPT]. (NeurIPS 2025)
+-- Efficient Orlicz-Sobolev approaches, i.e., OST and Orlicz-EPT, for transporting unbalanced measures on a graph.
 -- Orlicz-EPT is an extension of Orlicz-Wasserstein (OW) for unbalanced measures.
 -- Orlicz-Sobolev Transport (OST) is an extension of Generalized Sobolev Transport (GST) (ICML 2024) for unbalanced measures.
 -- OST is a scalable variant of Orlicz-EPT (in the same sense as GST is a scalable variant of OW).
