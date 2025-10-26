@@ -13,7 +13,7 @@
 - [to-be-updated {{<font color="blue">An Efficient Orlicz-Sobolev Approach for Transporting Unbalanced Measures on a Graph</font>}}]  \n 
 *{{<font style="color:rgb(34, 153, 84)">NeurIPS</font>}}*, 2025. \[Spotlight rate: 688\/21575=*3.19%*\] \n
 *Tam Le*{{<font color="red">*</font>}}, Truyen Nguyen{{<font color="red">*</font>}}, Hideitsu Hino, Kenji Fukumizu. \n
-({{<font style="color:rgb(138,43,226)">This paper was selected for spotlight presentation.</font>}} Spotlight : acceptance : submissions = 688 : 5290 : 21575)
+({{<font style="color:rgb(138,43,226)">This paper was selected for a spotlight presentation.</font>}} Spotlight : acceptance : submissions = 688 : 5290 : 21575)
 
 - [to-be-updated {{<font color="blue">Tree-Sliced Entropy Partial Transport</font>}}]. \n 
 *{{<font style="color:rgb(34, 153, 84)">NeurIPS</font>}}*, 2025. \n
@@ -112,7 +112,8 @@ Khai Nguyen, Shujian Zhang, *Tam Le*, Nhat Ho.
 #*ICML*, 2021. \[AR: 1184\/5513\] \n
 #*{{<font style="color:rgb(34, 153, 84)">ICML</font>}}*, 2021. \n
 *{{<font style="color:rgb(34, 153, 84)">ICML</font>}}*, 2021. \n
-Vu Nguyen{{<font color="red">*</font>}}, *Tam Le*{{<font color="red">*</font>}}, Makoto Yamada, Michael A. Osborne.
+Vu Nguyen{{<font color="red">*</font>}}, *Tam Le*{{<font color="red">*</font>}}, Makoto Yamada, Michael A. Osborne. \n
+({{<font style="color:rgb(138,43,226)">This paper was selected for a spotlight presentation.</font>}})
 
 - [http://proceedings.mlr.press/v130/le21a/le21a.pdf {{<font color="blue">Entropy Partial Transport with Tree Metrics: Theory and Practice</font>}}]. \[[https://slideslive.com/38953421/oral-entropy-partial-transport-with-tree-metrics-theory-and-practice?ref=speaker-17801-latest Video]\/[http://proceedings.mlr.press/v130/le21a/le21a-supp.pdf Supplementary]\/[https://www.dropbox.com/s/t0585d445apprx7/TamLe_ID1691_AISTATS2021_EPT_12min.pdf?dl=0 SLIDE]\/[https://www.dropbox.com/s/uk5hzfve648gve0/TLTN_AISTATS21_EPT.pdf?dl=0 POSTER]\] \n
 #International Conference on Artificial Intelligence and Statistics (*AISTATS*), 2021. (/Oral rate: 48\/1527=3.1%/) \n 
@@ -122,7 +123,7 @@ Vu Nguyen{{<font color="red">*</font>}}, *Tam Le*{{<font color="red">*</font>}},
 *Tam Le*{{<font color="red">*</font>}}, Truyen Nguyen{{<font color="red">*</font>}} \n
 ({{<font style="color:rgb(138,43,226)">This paper was selected for oral presentation.</font>}} Oral : acceptance : submissions = 48 : 455 : 1527)
 
-# {{<font color="green">(This paper was selected for oral presentation. Oral : acceptance : submissions = 48 : 455 : 1527)</font>}}
+# {{<font color="green">(This paper was selected for an oral presentation. Oral : acceptance : submissions = 48 : 455 : 1527)</font>}}
 
 - [http://proceedings.mlr.press/v130/le21b/le21b.pdf {{<font color="blue">Flow-based Alignment Approaches for Probability Measures in Different Spaces</font>}}]. \[[https://slideslive.com/38953310/flowbased-alignment-approaches-for-probability-measures-in-different-spaces?ref=speaker-17801-latest Video]\/[http://proceedings.mlr.press/v130/le21b/le21b-supp.pdf Supplementary]\/[https://www.dropbox.com/s/vc09k731yh20nhv/TLNHMY_AISTATS2021_FlowAlign.pdf?dl=0 POSTER]\] \n
 #International Conference on Artificial Intelligence and Statistics (*AISTATS*), 2021. (/AR: 455\/1527/) \n 
