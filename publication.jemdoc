@@ -20,7 +20,8 @@
 Viet-Hoang Tran, Thanh Tran, Thanh T. Chu, *Tam Le*{{<font color="green">&oast;</font>}}, Tan M. Nguyen{{<font color="green">&oast;</font>}}.
 
 - [to-be-updated {{<font color="blue">Tree Structure for the Categorical Wasserstein Weisfeiler-Lehman Graph Kernel</font>}}]  \n 
-*{{<font style="color:rgb(23, 165, 137)">TMLR</font>}}*, 2025. \n
+#*{{<font style="color:rgb(23, 165, 137)">TMLR</font>}}*, 2025. \n
+*{{<font style="color:rgb(137, 179, 75)">TMLR</font>}}*, 2025. \n
 Keishi Sando, *Tam Le*, Hideitsu Hino.
 
 - [https://openreview.net/pdf?id=StaRAs9n49 {{<font color="blue">Tree-Sliced Wasserstein Distance: A Geometric Perspective</font>}}]. \[[https://www.dropbox.com/scl/fi/bs7qa04znefzwopb4atqd/ICML2025_Poster_TSW-SL_TreeSystem.pdf?rlkey=b8hs29frkutd4kxphe36cboct&dl=0 POSTER]\] \n 
@@ -166,9 +167,11 @@ Eugene Ndiaye, *Tam Le*, Olivier Fercoq, Joseph Salmon, Ichiro Takeuchi. \n
 - [https://www.dropbox.com/s/ag7hy2v7wdilu4j/TL.MC.MLJ2014.pdf?dl=0 {{<font color="blue">Adaptive Euclidean Maps for Histograms: Generalized Aitchison Embeddings</font>}}] \n
 #Machine Learning Journal (*MLJ*), 2014. \n
 #Machine Learning Journal (*{{<font style="color:rgb(23, 165, 137)">MLJ</font>}}*), 2014. \n
-*ML* Journal (*{{<font style="color:rgb(23, 165, 137)">MLJ</font>}}*), 2014. \n
+#*ML* Journal (*{{<font style="color:rgb(23, 165, 137)">MLJ</font>}}*), 2014. \n
+*{{<font style="color:rgb(137, 179, 75)">ML</font>}}* Journal (*{{<font style="color:rgb(137, 179, 75)">MLJ</font>}}*), 2014. \n
 *Tam Le*, Marco Cuturi. \n
 (/Preliminary conference version in ACML, 2013/)
+
 
 == Others
 
@@ -180,7 +183,7 @@ Eugene Ndiaye, *Tam Le*, Olivier Fercoq, Joseph Salmon, Ichiro Takeuchi. \n
 Under review. \n 
 Viet-Hoang Tran, Thanh T. Chu, Thanh Tran, Duy-Tung Pham, Khang Tran, *Tam Le*{{<font color="green">&oast;</font>}}, Tan M. Nguyen{{<font color="green">&oast;</font>}}.
 
-- [to-be-updated {{<font color="blue">Scalable Sobolev IPM for Applications with Dynamic-Support Measures</font>}}]  \n 
+- [to-be-updated {{<font color="blue">Scalable Sobolev IPM for Dynamic-Support Measures and Its Applications</font>}}]  \n 
 Under review. \n 
 Viet-Hoang Tran, Thanh T. Chu, Thanh Tran, Duy-Tung Pham, Khang Tran, *Tam Le*{{<font color="green">&oast;</font>}}, Tan M. Nguyen{{<font color="green">&oast;</font>}}.
 

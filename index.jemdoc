@@ -27,7 +27,7 @@ Email: tam\[/at/\]ism.ac.jp \n
 
 #Assistant Professor, [https://www.ism.ac.jp/senkou_eng/ Statistical Science Program], [https://www.soken.ac.jp/en/index.html The Graduate School for Advanced Studies (SOKENDAI)]. \n
 
-== Research Interests: Machine Learning, Optimal Transport, Kernels \n
+== Research Interests: Machine Learning, Optimal Transport, Kernel Methods \n
 
 #My research goals are to make AI more advanced with a focus on improving its scalability, efficiency, and robustness for learning with large-scale, complex data and models from mathematical perspectives. More specifically, my research focus is to enhance theoretical foundations for data science from /optimal transport (OT) theory/ perspective, with two objectives as follows:
 #- (i) /Deepening OT theory/: breaking the curse of dimensionality for OT with 1D-structure by exploiting graph structure, and tree system; and going beyond Lp structure for variational Wasserstein problems by utilizing functional geometric structure.
@@ -35,10 +35,10 @@ Email: tam\[/at/\]ism.ac.jp \n
 
 #My research aims to improve scalability, efficiency, and robustness for learning with large-scale, complex data and models from optimal transport (OT) theory perspectives, with a focus on two main objectives:
 
-My research aims to make AI more advanced, with a focus on improving its scalability, efficiency, and robustness for learning with large-scale, complex data and models from /optimal transport (OT) theory/ perspectives. More specifically, my research objectives are as follows:
+My research aims to make AI more advanced, with a focus on improving its scalability, efficiency, and robustness for learning with large-scale, complex data and models from mathematical perspectives, especially /optimal transport (OT) theory/. More concretely, my research objectives are as follows:
 . Deepening OT theory: 
-.. Breaking the curse of dimensionality for OT with projected 1D-structure, e.g., graph structure, tree system, tree structure.
-.. Going beyond Lp-structure for variational Wasserstein problems, e.g., functional geometric structure.
+.. Breaking the curse of dimensionality for OT with projected 1D-structure, e.g., exploiting graph structure, tree system, tree structure.
+.. Going beyond Lp-structure for variational Wasserstein problems, e.g., leveraging functional geometric structure.
 . Leveraging OT theoretical insights for data science: 
 .. Designing innovative, and efficient methodologies, e.g., for data valuation, LLM pretraining, diffusion model, generative model.
 .. Centering on applications with large-scale, complex structured data, e.g., non-Euclidean, dynamic, nonlinearity, corruption.
@@ -136,7 +136,7 @@ Email: tam\[/at/\]ism.ac.jp (or lttam.vn\[/at/\]gmail.com) \n
  - Area chair: ICML, ICLR, AISTATS
  - Editor board reviewer: JMLR
  - Program committee: NeurIPS
-# - Senior program committee: AAAI
+ - Senior program committee: AAAI
 
 # == Research Support
 
