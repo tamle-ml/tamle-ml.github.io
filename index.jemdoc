@@ -30,12 +30,6 @@ Email: tam\[/at/\]ism.ac.jp \n
 
 == Research Interests: Machine Learning, Optimal Transport, Geometric Methods, Kernel Methods \n
 
-#My research goals are to make AI more advanced with a focus on improving its scalability, efficiency, and robustness for learning with large-scale, complex data and models from mathematical perspectives. More specifically, my research focus is to enhance theoretical foundations for data science from /optimal transport (OT) theory/ perspective, with two objectives as follows:
-#- (i) /Deepening OT theory/: breaking the curse of dimensionality for OT with 1D-structure by exploiting graph structure, and tree system; and going beyond Lp structure for variational Wasserstein problems by utilizing functional geometric structure.
-#- (ii) /Leveraging OT theoretical insights for data science/: designing innovative efficient methodologies; and improving efficiency, scalability, robustness for applications with large-scale, complex data.
-
-#My research aims to improve scalability, efficiency, and robustness for learning with large-scale, complex data and models from optimal transport (OT) theory perspectives, with a focus on two main objectives:
-
 My research aims to make AI more advanced, with a focus on improving its scalability, efficiency, and robustness for learning with large-scale, complex data and models from mathematical perspectives, in particular /optimal transport (OT) theory/. More specially, I have been pursuing two main objectives as follows:
 . Deepening OT theory: 
 .. Breaking the curse-of-dimensionality for OT with projected 1D-structure, e.g., exploiting graph structure, tree system, tree structure.
@@ -44,27 +38,8 @@ My research aims to make AI more advanced, with a focus on improving its scalabi
 .. Designing innovative, and efficient methodologies, e.g., for data valuation, LLM pretraining, diffusion model, generative model.
 .. Centering on applications with large-scale, complex structured data, e.g., non-Euclidean, dynamic, nonlinearity, corruption, perturbation.
 
-# including non-Euclidean, high-dimension, dynamic, nonlinearity, corruption.
-#.. Improving efficiency, scalability, and robustness for applications with large-scale, complex data.
-
-
-## -- old
-#My research is structured across three levels:
-#- Theory: OT theory for measures with graph structure, tree systems, functional geometric structure; and for variational Wasserstein problems.
-#- Methodology: scalability, robustness, and efficiency of OT for learning with measures in machine learning and deep learning, including deep generative models, diffusion models, data valuation for LLM pretraining.
-#- Application: for domains with large-scale, complex structure data, including non-Euclidean, high-dimension, dynamic, nonlinearity, corruption. 
-
-# -- latest !
-#My research is structured across three levels:
-#- Theory: OT theory for measures with graph structure, tree systems, functional geometric structure.
-#- Methodology: scalability, robustness, and efficient of OT for learning with measures in machine learning and deep learning, e.g., generative models, diffusion models, data valuation for LLM pretraining.
-#- Application: for domains with large-scale, complex structure data, including non-Euclidean, high-dimension, dynamic, nonlinearity, corruption.
-
 #I also actively expand the research to interesting and impactful (related) problems.
-
  
-#[https://www.dropbox.com/scl/fi/0d38797rptvc3vgqnhcud/TamLe2025Aug_CV.pdf?rlkey=atjivszmnl6pksp4z4t2t0nox&dl=0 CV] - [https://scholar.google.com/citations?user=ZyrRB_8AAAAJ&hl=en Google scholar] - [https://github.com/lttam GitHub] - [https://researchmap.jp/tamle Research map]
-
 == News
 - 20-Nov-2025, I will serve as Area Chair for [https://icml.cc/ *ICML'26*].
 - 22-Oct-2025, Our paper, entitled [to-be-updated "Tree Structure for the Categorical Wasserstein Weisfeiler-Lehman Graph Kernel"] has been accepted to [https://jmlr.org/tmlr/ *TMLR*] journal! This is joint work with Keishi Sando, and Hideitsu Hino.
@@ -82,24 +57,36 @@ My research aims to make AI more advanced, with a focus on improving its scalabi
 -- [https://openreview.net/pdf?id=0UCoWxPhQ4 SAVA: Scalable Learning-Agnostic Data Valuation], joint work with Samuel Kessler, and Vu Nguyen.
 -- [https://openreview.net/pdf?id=OiQttMHwce Distance-Based Tree-Sliced Wasserstein Distance], joint work with Hoang Tran, Khoi Nguyen, Trang Pham, Thanh Chu, and Tan Nguyen.
 -- [https://openreview.net/pdf?id=FPQzXME9NK Spherical Tree-Sliced Wasserstein Distance], joint work with Hoang Tran, Thanh Chu, Khoi Nguyen, Trang Pham, and Tan Nguyen.
-# - 22-Nov-2024, I will serve as Area Chair for [https://icml.cc/ *ICML'25*].
-# - 11-Sep-2024, I will serve as Area Chair for [https://aistats.org/aistats2025/ *AISTATS'25*].
-# - 07-Aug-2024, I will serve as Area Chair for [https://iclr.cc/ *ICLR'25*], and as Senior Program Committee for [https://aaai.org/conference/aaai/aaai-25/ /AAAI'25/].
 
-# - 02-May-2024, Our 2 papers have been accepted to [https://icml.cc/ *ICML'24*].
-# -- [https://arxiv.org/pdf/2401.15889 Sliced Wasserstein with Random-Path Projecting Directions], joint work with Khai Nguyen, Shujian Zhang, and Nhat Ho.
-# -- [https://arxiv.org/pdf/2402.04516 Generalized Sobolev Transport for Probability Measures on a Graph], joint work with Truyen Nguyen, and Kenji Fukumizu.
-# - 20-Jan-2024, Our paper, entitled [https://arxiv.org/pdf/2310.13653.pdf "Optimal Transport for Measures with Noisy Tree Metric"] has been accepted to [http://aistats.org/aistats2024/ *AISTATS'24*]! This is joint work with Truyen Nguyen and Kenji Fukumizu.  
-# - 16-Jan-2024, I give an invited talk at [https://ims.nus.edu.sg/events/the-mathematics-of-data/ The Mathematics of Data program -- Workshop on Optimal Transport and PDEs], IMS, NUS, Singapore. \[[https://www.dropbox.com/scl/fi/r5weqj7u1ue01nykzrljx/TamLe_IMS2024_The-Mathematics-of-Data.pdf?rlkey=utlujdbteoojzivxbnfwxcono&dl=0 SLIDE]\]
-# - 13-Jan-2024, Our paper on optimal transport for causal inference, entitled [https://arxiv.org/pdf/2311.00927.pdf "Scalable Counterfactual Distribution Estimation in Multivariate Causal Models"] has been accepted to [https://www.cclear.cc/2024/ /CLeaR'24/]! This is joint work with Thong Pham, Shohei Shimizu and Hideitsu Hino.  
-# - 01-Apr-2023, Our proposal has been accepted by the Grants-in-Aid for Scientific Research (C) as PI (04\/2023 - 03\/2026).
-#- 01-Dec-2022, I am officially appointed as a visiting scientist at [https://www.riken.jp/en/research/labs/aip/generic_tech/funct_anl_learn/ Functional Analytic Learning Unit], [https://www.riken.jp/en/research/labs/aip/index.html RIKEN Center for Advanced Intelligence Project (RIKEN AIP)].
-#- 01-Sep-2022, I officially join in [https://www.ism.ac.jp/index_e.html The Institute of Statistical Mathematics (ISM)] as Assistant Professor. I am also an Assistant Professor at [https://www.soken.ac.jp/en/index.html The Graduate School for Advanced Studies (SOKENDAI)].
+{{
+<details>
+  <summary><i>older news</i></summary>
+}}
 
-#- 23-Jan-2024, I will serve as Area Chair for [https://icml.cc/ *ICML'24*].
-#- 24-Aug-2023, I will serve as Area Chair for [http://aistats.org/aistats2024/ *AISTATS'24*] and [https://iclr.cc/ *ICLR'24*].
-#- 20-Apr-2023, Our paper, entitled [https://arxiv.org/pdf/2302.00061.pdf "Dynamic Flows on Curved Space Generated by Labeled Data"] has been accepted to [https://ijcai-23.org/ *IJCAI'23*]! This is joint work with Xinru Hua, Truyen Nguyen, Jose Blanchet, and Viet Anh Nguyen.  
-#- 21-Jan-2023, Our paper, entitled [https://arxiv.org/pdf/2302.12498.pdf "Scalable Unbalanced Sobolev Transport for Measures on a Graph"] has been accepted to [http://aistats.org/aistats2023/ *AISTATS'23*]! This is joint work with Kenji Fukumizu, and Truyen Nguyen.  
+- 22-Nov-2024, I will serve as Area Chair for [https://icml.cc/ *ICML'25*].
+- 11-Sep-2024, I will serve as Area Chair for [https://aistats.org/aistats2025/ *AISTATS'25*].
+- 07-Aug-2024, I will serve as Area Chair for [https://iclr.cc/ *ICLR'25*], and as Senior Program Committee for [https://aaai.org/conference/aaai/aaai-25/ /AAAI'25/].
+- 02-May-2024, Our 2 papers have been accepted to [https://icml.cc/ *ICML'24*].
+-- [https://arxiv.org/pdf/2401.15889 Sliced Wasserstein with Random-Path Projecting Directions], joint work with Khai Nguyen, Shujian Zhang, and Nhat Ho.
+-- [https://arxiv.org/pdf/2402.04516 Generalized Sobolev Transport for Probability Measures on a Graph], joint work with Truyen Nguyen, and Kenji Fukumizu.
+- 23-Jan-2024, I will serve as Area Chair for [https://icml.cc/ *ICML'24*].
+- 20-Jan-2024, Our paper, entitled [https://arxiv.org/pdf/2310.13653.pdf "Optimal Transport for Measures with Noisy Tree Metric"] has been accepted to [http://aistats.org/aistats2024/ *AISTATS'24*]! This is joint work with Truyen Nguyen and Kenji Fukumizu.  
+- 16-Jan-2024, I give an invited talk at [https://ims.nus.edu.sg/events/the-mathematics-of-data/ The Mathematics of Data program -- Workshop on Optimal Transport and PDEs], IMS, NUS, Singapore. \[[https://www.dropbox.com/scl/fi/r5weqj7u1ue01nykzrljx/TamLe_IMS2024_The-Mathematics-of-Data.pdf?rlkey=utlujdbteoojzivxbnfwxcono&dl=0 SLIDE]\]
+- 13-Jan-2024, Our paper on optimal transport for causal inference, entitled [https://arxiv.org/pdf/2311.00927.pdf "Scalable Counterfactual Distribution Estimation in Multivariate Causal Models"] has been accepted to [https://www.cclear.cc/2024/ /CLeaR'24/]! This is joint work with Thong Pham, Shohei Shimizu and Hideitsu Hino.  
+- 24-Aug-2023, I will serve as Area Chair for [http://aistats.org/aistats2024/ *AISTATS'24*] and [https://iclr.cc/ *ICLR'24*].
+- 20-Apr-2023, Our paper, entitled [https://arxiv.org/pdf/2302.00061.pdf "Dynamic Flows on Curved Space Generated by Labeled Data"] has been accepted to [https://ijcai-23.org/ *IJCAI'23*]! This is joint work with Xinru Hua, Truyen Nguyen, Jose Blanchet, and Viet Anh Nguyen.  
+- 21-Jan-2023, Our paper, entitled [https://arxiv.org/pdf/2302.12498.pdf "Scalable Unbalanced Sobolev Transport for Measures on a Graph"] has been accepted to [http://aistats.org/aistats2023/ *AISTATS'23*]! This is joint work with Kenji Fukumizu, and Truyen Nguyen.  
+
+- 01-Apr-2023, Our proposal has been accepted by the Grants-in-Aid for Scientific Research (C) as PI (04\/2023 - 03\/2026).
+- 01-Dec-2022, I am officially appointed as a visiting scientist at [https://www.riken.jp/en/research/labs/aip/generic_tech/funct_anl_learn/ Functional Analytic Learning Unit], [https://www.riken.jp/en/research/labs/aip/index.html RIKEN Center for Advanced Intelligence Project (RIKEN AIP)].
+- 01-Sep-2022, I officially join in [https://www.ism.ac.jp/index_e.html The Institute of Statistical Mathematics (ISM)] as Assistant Professor. I am also an Assistant Professor at [https://www.soken.ac.jp/en/index.html The Graduate School for Advanced Studies (SOKENDAI)].
+
+
+{{  
+</details>
+}}
+
+
 
 #- 26-Jul-2022, I give an invited talk at Kyoto Machine Learning workshop.
 #- 27-May-2022, I give an invited talk at [https://sites.google.com/kyoto-u.ac.jp/apatg Asia Pacific Seminar on Applied Topology and Geometry (APATG)]. \[[https://www.dropbox.com/s/hd8c61gui6n55py/TamLe_APATG2022_Slide.pdf?dl=0 SLIDE]\]
@@ -112,18 +99,10 @@ My research aims to make AI more advanced, with a focus on improving its scalabi
 #- 01-Sep-2017, Joined in High-Dimensional Statistical Modeling Team, RIKEN AIP as a postdoctoral researcher.
 #- 05-Apr-2017, Our proposal has been accepted by the Grants-in-Aid for Young Scientists (B) as PI (04\/2017 - 03\/2020).
  
- 
-# I received my Ph.D. in 11/2005 from Ecole des Mines de Paris. Before that I graduated from the ENSAE with a master degree from ENS Cachan. I worked as a post-doctoral researcher at the Institute of Statistical Mathematics, Tokyo, between 11/2005 and 03/2007. Between 04/2007 and 09/2008 I worked in the financial industry. After working at the ORFE department of Princeton University between 02/2009 and 08/2010 as a lecturer, I was at the Graduate School of Informatics of Kyoto University between 09/2010 and 09/2016 as an associate professor (tenured in 11/2013). I have joined ENSAE in 09/2016, working there part-time from 10/2018. Between 10/2018 and 01/2022 I was with the Google Brain team. I joined Apple on 01/2022, working in the Machine Learning Research team led by Samy Bengio.
- 
+  
  == Vita
  
  I received my Ph.D. in 01\/2016 from [http://www.i.kyoto-u.ac.jp/en/ Kyoto University], supervised by [http://marcocuturi.net/ Marco Cuturi] and advised by [http://www.iip.ist.i.kyoto-u.ac.jp/member/akihiro/index-e.html Akihiro Yamamoto]. I worked as a postdoc at [https://www-als.ics.nitech.ac.jp/en_index.html NITECH] & [https://www.nims.go.jp/eng/ NIMS], between 02\/2016 and 08\/2017. Then, I worked at [http://www.riken.jp/en/research/labs/aip/ RIKEN AIP] between 09\/2017 and 07\/2021 as a researcher; and between 08\/2021 and 08\/2022 as a research scientist. I have joined [https://www.ism.ac.jp/index_e.html Institute of Statistical Mathematics (ISM)], Tokyo, in 09\/2022, as an assistant professor. 
-
-# I received my Ph.D. in 01\/2016 from [http://www.i.kyoto-u.ac.jp/en/ Kyoto University], supervised by [http://marcocuturi.net/ Marco Cuturi] and advised by [http://www.iip.ist.i.kyoto-u.ac.jp/member/akihiro/index-e.html Akihiro Yamamoto]. I worked as a post-doctoral researcher at [https://www-als.ics.nitech.ac.jp/en_index.html NITECH] & [https://www.nims.go.jp/eng/ NIMS], between 02\/2016 and 08\/2017. Then, I worked at [http://www.riken.jp/en/research/labs/aip/ RIKEN AIP] between 09\/2017 and 07\/2021 as a post-doctoral researcher; and between 08\/2021 and 08\/2022 as a research scientist. I have joined [https://www.ism.ac.jp/index_e.html Institute of Statistical Mathematics (ISM)], Tokyo, in 09\/2022, as an assistant professor. 
- 
- #I concurrently joined [https://www.riken.jp/en/research/labs/aip/index.html RIKEN AIP] in 12\/2022 as a visiting scientist.
- # working in Functional Analytic Learning team led by Minh Ha Quang.
-
 
  #I received the Ph.D degree in 01\/2016 from [http://www.i.kyoto-u.ac.jp/en/ Kyoto University, Japan], supervised by [http://marcocuturi.net/ *Marco* *Cuturi*] and [http://www.iip.ist.i.kyoto-u.ac.jp/member/akihiro/index-e.html *Akihiro* *Yamamoto*]. I worked as a post-doctoral researcher at [http://www-als.ics.nitech.ac.jp/~takeuchi/ Nagoya Institute of Technology] & [https://www.nims.go.jp/eng/ National Institute for Materials Science, Japan], mentored by [https://www.mlds.mae.nagoya-u.ac.jp/takeuchi/index.en.html Ichiro Takeuchi] between 02\/2016 and 08\/2017. I then worked as a post-doctoral researcher between 09\/2017 and 07\/2021, and as a research scientist between 08\/2021 and 08\/2022 at [http://www.riken.jp/en/research/labs/aip/ RIKEN Center for Advanced Intelligence Project (RIKEN AIP)], with [https://groups.oist.jp/mlds/makoto-yamada Makoto Yamada]. From 09\/2022, I have been working as an assistant professor at [https://www.ism.ac.jp/index_e.html The Institute of Statistical Mathematics (ISM)]. I have concurrently been a visiting scientist at [https://www.riken.jp/en/research/labs/aip/index.html RIKEN AIP], working in [https://www.riken.jp/en/research/labs/aip/generic_tech/funct_anl_learn/ Functional Analytic Learning Team] led by [https://minh-ha-quang.github.io/ Minh Ha Quang] from 12\/2022. 
  
@@ -160,9 +139,7 @@ Office: Room A506B \n
 # - 04\/2024 - 03\/2025, ISM Joint-research 2024-ISMCRP-2021 as PI.
 # - 04\/2023 - 03\/2024, ISM Joint-research 2023-ISMCRP-2010 as PI.
 
- 
-#I received my Ph.D. in 11/2005 from Ecole des Mines de Paris. Before that I graduated from the ENSAE with a master degree from ENS Cachan. I worked as a post-doctoral researcher at the Institute of Statistical Mathematics, Tokyo, between 11/2005 and 03/2007. Between 04/2007 and 09/2008 I worked in the financial industry. After working at the ORFE department of Princeton University between 02/2009 and 08/2010 as a lecturer, I was at the Graduate School of Informatics of Kyoto University between 09/2010 and 09/2016 as an associate professor (tenured in 11/2013). I have joined ENSAE in 09/2016, working there part-time from 10/2018. Between 10/2018 and 01/2022 I was with the Google Brain team. I joined Apple on 01/2022, working in the Machine Learning Research team led by Samy Bengio.
- 
+  
 #== Education
 #- 10\/2012 - 09\/2015, PhD program, [http://www.i.kyoto-u.ac.jp/en/ Graduate school of Informatics], [http://www.i.kyoto-u.ac.jp/en/ Kyoto University, Japan].
 #-- Supervisors: [http://marcocuturi.net/ *Marco* *Cuturi*] and [http://www.iip.ist.i.kyoto-u.ac.jp/member/akihiro/index-e.html *Akihiro* *Yamamoto*].
