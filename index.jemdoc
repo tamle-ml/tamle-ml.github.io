@@ -42,7 +42,7 @@ My research aims to make AI more advanced, with a focus on improving its scalabi
  
 == News
 - 20-Nov-2025, I will serve as Area Chair for [https://icml.cc/ *ICML'26*].
-- 22-Oct-2025, Our paper, entitled [to-be-updated "Tree Structure for the Categorical Wasserstein Weisfeiler-Lehman Graph Kernel"] has been accepted to [https://jmlr.org/tmlr/ *TMLR*] journal! This is joint work with Keishi Sando, and Hideitsu Hino.
+- 22-Oct-2025, Our paper, entitled [https://openreview.net/pdf?id=VwoSsFK22P "Tree Structure for the Categorical Wasserstein Weisfeiler-Lehman Graph Kernel"] has been accepted to [https://jmlr.org/tmlr/ *TMLR*] journal! This is joint work with Keishi Sando, and Hideitsu Hino.
 - 19-Sep-2025, Our 2 papers have been accepted to [https://neurips.cc/ *NeurIPS'25*].
 -- [https://openreview.net/pdf?id=VymXLPX6Ps An Efficient Orlicz-Sobolev Approach for Transporting Unbalanced Measures on a Graph] \[*{{<font style="color:rgb(138,43,226)">spotlight</font>}}*\], joint work with Truyen Nguyen, Hideitsu Hino, and Kenji Fukumizu.
 -- [https://openreview.net/pdf?id=41ZbysfW4h Tree-Sliced Entropy Partial Transport], joint work with Hoang Tran, Thanh Tran, Thanh Chu, and Tan Nguyen.
