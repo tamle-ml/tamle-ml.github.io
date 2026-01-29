@@ -10,6 +10,14 @@
 #<font style="color:rgb(23, 165, 137)">
 == Selected ML Journals / Conference Papers
 
+- [https://openreview.net/forum?id=HHNQSXaLkF {{<font color="blue">Tree-Sliced Sobolev IPM</font>}}]  \n 
+*{{<font style="color:rgb(34, 153, 84)">ICLR</font>}}*, 2026. \n
+Viet-Hoang Tran{{<font color="red">*</font>}}, Thanh Tran{{<font color="red">*</font>}}, Thanh T. Chu, Duy-Tung Pham, Khang Tran, *Tam Le*{{<font color="green">&oast;</font>}}, Tan M. Nguyen{{<font color="green">&oast;</font>}}.
+
+- [https://openreview.net/forum?id=kDqG03v05B {{<font color="blue">Revisiting Tree-Sliced Wasserstein Distance through the Lens of the Fermat–Weber Problem</font>}}]  \n 
+*{{<font style="color:rgb(34, 153, 84)">ICLR</font>}}*, 2026. \n
+Viet-Hoang Tran{{<font color="red">*</font>}}, Thanh Tran{{<font color="red">*</font>}}, Thanh T. Chu{{<font color="red">*</font>}}, Duy-Tung Pham, Khang Tran, *Tam Le*{{<font color="green">&oast;</font>}}, Tan M. Nguyen{{<font color="green">&oast;</font>}}.
+
 - [https://openreview.net/pdf?id=VymXLPX6Ps {{<font color="blue">An Efficient Orlicz-Sobolev Approach for Transporting Unbalanced Measures on a Graph</font>}}]  \[[https://www.dropbox.com/scl/fi/n1g2udj6p2balnezsb5eh/LNHF_NeurIPS25__OrliczSobolevTransport_OrliczEPT_Poster.pdf?rlkey=u9zeg7mubz55ywwvqs65ua2qn&dl=0 POSTER]\/[https://www.dropbox.com/scl/fi/nrqq4i108aj6wi8tn2abj/LNHF_NeurIPS25__OrliczSobolevTransport_OrliczEPT_Slide.pdf?rlkey=gpry7tiu3r6ziagac0g5e4fp0&dl=0 SLIDE]\] \n 
 *{{<font style="color:rgb(34, 153, 84)">NeurIPS</font>}}*, 2025. \[Spotlight rate: 688\/21575=*{{<font style="color:rgb(138,43,226)">3.19%</font>}}*\] \n
 *Tam Le*{{<font color="red">*</font>}}, Truyen Nguyen{{<font color="red">*</font>}}, Hideitsu Hino, Kenji Fukumizu. \n
@@ -182,14 +190,6 @@ Eugene Ndiaye, *Tam Le*, Olivier Fercoq, Joseph Salmon, Ichiro Takeuchi. \n
 - [https://arxiv.org/pdf/2510.25591 {{<font color="blue">Generalized Sobolev IPM for Graph-Based Measures</font>}}]  \n 
 ArXiv, 2025. \n
 *Tam Le*{{<font color="red">*</font>}}, Truyen Nguyen{{<font color="red">*</font>}}, Hideitsu Hino, Kenji Fukumizu.
-
-- [to-be-updated {{<font color="blue">Revisiting Tree-Sliced Wasserstein Distance Through the Lens of the Fermat–Weber Problem</font>}}]  \n 
-Under review. \n 
-Viet-Hoang Tran, Thanh T. Chu, Thanh Tran, Duy-Tung Pham, Khang Tran, *Tam Le*{{<font color="green">&oast;</font>}}, Tan M. Nguyen{{<font color="green">&oast;</font>}}.
-
-- [to-be-updated {{<font color="blue">Scalable Sobolev IPM for Dynamic-Support Measures and Its Applications</font>}}]  \n 
-Under review. \n 
-Viet-Hoang Tran, Thanh T. Chu, Thanh Tran, Duy-Tung Pham, Khang Tran, *Tam Le*{{<font color="green">&oast;</font>}}, Tan M. Nguyen{{<font color="green">&oast;</font>}}.
 
 #- [to-be-updated {{<font color="blue">Sobolev–Ricci Curvature</font>}}]  \n 
 #Under review. \n 
