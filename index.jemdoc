@@ -31,15 +31,19 @@ Email: tam\[/at/\]ism.ac.jp \n
 
 == Research Interests: Machine Learning, Optimal Transport, Geometric Methods, Kernel Methods \n
 
-My research aims to make AI more advanced, with a focus on improving its scalability, efficiency, and robustness for learning with large-scale, complex data and models from mathematical perspectives, in particular /optimal transport (OT) theory/. More specially, I have been pursuing two main objectives as follows:
-. Deepening OT theory: 
-.. Breaking the curse-of-dimensionality for OT with projected 1D-structure, e.g., with graph structure, tree system, tree structure.
-.. Going beyond Lp geometric structure for variational Wasserstein problems, e.g., with functional geometric structure.
-. Leveraging OT theoretical insights for AI: 
-.. Designing innovative, and efficient methodologies, e.g., for data valuation, LLM pretraining, diffusion models, generative models.
-.. Centering on applications with large-scale, complex structured data, e.g., non-Euclidean, dynamic, nonlinearity, corruption, perturbation.
-
+#My research aims to make AI more advanced, with a focus on improving its scalability, efficiency, and robustness for learning with large-scale, complex data and models from mathematical perspectives, in particular /optimal transport (OT) theory/. More specially, I have been pursuing two main objectives as follows:
+#.. Designing innovative, and efficient methodologies, e.g., for data valuation, LLM pretraining, diffusion models, generative models.
 #I also actively expand the research to interesting and impactful (related) problems.
+#.. Going beyond Lp geometric structure for variational Wasserstein problems, e.g., with functional geometric structure.
+#.. Centering on applications with large-scale, complex structured data, e.g., non-Euclidean, dynamic, nonlinearity, corruption, perturbation.
+
+My research aims to make AI more advanced, with a focus on improving its scalability, efficiency, and robustness for learning with large-scale, complex data and models from mathematical perspectives, in particular /optimal transport (OT) theory/. More specially, my current interests are as follows:
+. Deepening OT theory: 
+.. Breaking the curse-of-dimensionality for OT with projected 1D-structure, e.g., with graph structure, tree system.
+.. Going beyond Lp structure for variational Wasserstein problems, e.g., with functional geometric structure.
+. Leveraging OT theoretical insights for AI: 
+.. Designing efficient methodologies, e.g., for data valuation, LLM pretraining, diffusion models, generative models.
+.. Centering on applications with large-scale, complex structured data, e.g., non-Euclidean, dynamic, nonlinearity, corruption.
  
 == News
 - 27-Jan-2026, Our 2 papers have been accepted to [https://iclr.cc/ *ICLR'26*], joint works with Viet-Hoang Tran, Thanh Tran, Thanh Chu, Duy-Tung Pham, Khang Tran, and Tan Nguyen.
