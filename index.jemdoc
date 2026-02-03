@@ -13,37 +13,32 @@
 [https://www.ism.ac.jp/index_e.html Institute of Statistical Mathematics (ISM)] \n
 
 #[https://www.ism.ac.jp/noe/sml-center/en/index.html Research Center for Statistical Machine Learning] \n
-
 #Concurrent affiliation: \n
 ##Visiting Scientist, [https://www.riken.jp/en/research/labs/aip/generic_tech/funct_anl_learn/ Functional Analytic Learning Team], [https://www.riken.jp/en/research/labs/aip/index.html RIKEN Center for Advanced Intelligence Project (RIKEN AIP)]. \n
 #Visiting Scientist, [https://www.riken.jp/en/research/labs/aip/generic_tech/funct_anl_learn/ Functional Analytic Learning Team], [https://www.riken.jp/en/research/labs/aip/index.html RIKEN AIP]. \n
 #Assistant Professor, [https://www.soken.ac.jp/en/index.html The Graduate School for Advanced Studies (SOKENDAI)]. \n
-
-Email: tam\[/at/\]ism.ac.jp \n
- 
 #[https://www.dropbox.com/scl/fi/m6xwc946gms6w7efl0tfp/TamLe2025Nov_CV.pdf?rlkey=dnhauh98pwhx9hfszxd136ndw&dl=0 CV] - 
 
+Email: tam\[/at/\]ism.ac.jp \n 
+ 
+Research Interests: machine learning, optimal transport, geometric methods, kernels \n
 [https://scholar.google.com/citations?user=ZyrRB_8AAAAJ&hl=en Google Scholar] - [https://www.linkedin.com/in/lttam/ LinkedIn] - [https://github.com/lttam GitHub] - [https://researchmap.jp/tamle Research Map] \n
 
-#<a href="https://scholar.google.com/citations?user=ZyrRB_8AAAAJ&hl=en"><img src="img/googlescholar48.png" alt="Google Scholar" style="width:32px;height:32px;"></a>
 ~~~
+#<a href="https://scholar.google.com/citations?user=ZyrRB_8AAAAJ&hl=en"><img src="img/googlescholar48.png" alt="Google Scholar" style="width:32px;height:32px;"></a>
 #Assistant Professor, [https://www.ism.ac.jp/senkou_eng/ Statistical Science Program], [https://www.soken.ac.jp/en/index.html The Graduate School for Advanced Studies (SOKENDAI)]. \n
-
-== Research Interests: Machine Learning, Optimal Transport, Geometric Methods, Kernel Methods \n
-
 #My research aims to make AI more advanced, with a focus on improving its scalability, efficiency, and robustness for learning with large-scale, complex data and models from mathematical perspectives, in particular /optimal transport (OT) theory/. More specially, I have been pursuing two main objectives as follows:
 #.. Designing innovative, and efficient methodologies, e.g., for data valuation, LLM pretraining, diffusion models, generative models.
 #I also actively expand the research to interesting and impactful (related) problems.
 #.. Going beyond Lp geometric structure for variational Wasserstein problems, e.g., with functional geometric structure.
 #.. Centering on applications with large-scale, complex structured data, e.g., non-Euclidean, dynamic, nonlinearity, corruption, perturbation.
-
-My research aims to make AI more advanced, with a focus on improving its scalability, efficiency, and robustness for learning with large-scale, complex data and models from mathematical perspectives, in particular /optimal transport (OT) theory/. More specially, my current interests are as follows:
-. Deepening OT theory: 
-.. Breaking the curse-of-dimensionality for OT with projected 1D-structure, e.g., with graph structure, tree system.
-.. Going beyond Lp structure for variational Wasserstein problems, e.g., with functional geometric structure.
-. Leveraging OT theoretical insights for AI: 
-.. Designing efficient methodologies, e.g., for data valuation, LLM pretraining, diffusion models, generative models.
-.. Centering on applications with large-scale, complex structured data, e.g., non-Euclidean, dynamic, nonlinearity, corruption.
+###My research aims to make AI more advanced, with a focus on improving its scalability, efficiency, and robustness for learning with large-scale, complex data and models from mathematical perspectives, in particular /optimal transport (OT) theory/. More specially, my current interests are as follows:
+###. Deepening OT theory: 
+###.. Breaking the curse-of-dimensionality for OT with projected 1D-structure, e.g., with graph structure, tree system.
+###.. Going beyond Lp structure for variational Wasserstein problems, e.g., with functional geometric structure.
+###. Leveraging OT theoretical insights for AI: 
+###.. Designing efficient methodologies, e.g., for data valuation, LLM pretraining, diffusion models, generative models.
+###.. Centering on applications with large-scale, complex structured data, e.g., non-Euclidean, dynamic, nonlinearity, corruption.
  
 == News
 - 27-Jan-2026, Our 2 papers have been accepted to [https://iclr.cc/ *ICLR'26*], joint works with Viet-Hoang Tran, Thanh Tran, Thanh Chu, Duy-Tung Pham, Khang Tran, and Tan Nguyen.
