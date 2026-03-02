@@ -44,9 +44,9 @@ My research aims to make AI more advanced, with a focus on improving its scalabi
 .. Centering on applications with large-scale, complex structured data.
 
 == News
-- 27-Jan-2026, Our 2 papers have been accepted to [https://iclr.cc/ *ICLR'26*], joint works with Viet-Hoang Tran, Thanh Tran, Thanh Chu, Duy-Tung Pham, Khang Tran, and Tan Nguyen.
--- [https://openreview.net/forum?id=HHNQSXaLkF Tree-sliced Sobolev IPM].
--- [https://openreview.net/forum?id=kDqG03v05B Revisiting Tree-Sliced Wasserstein Distance Through the Lens of the Fermat–Weber Problem].
+- 27-Jan-2026, Our 2 papers have been accepted to [https://iclr.cc/ *ICLR'26*], joint works with Viet-Hoang Tran, Thanh Q. Tran, Thanh Chu, Duy-Tung Pham, Khang Tran, and Tan Nguyen.
+-- [https://openreview.net/pdf?id=HHNQSXaLkF Tree-sliced Sobolev IPM].
+-- [https://openreview.net/pdf?id=kDqG03v05B Revisiting Tree-Sliced Wasserstein Distance Through the Lens of the Fermat–Weber Problem].
 - 20-Nov-2025, I will serve as Area Chair for [https://icml.cc/ *ICML'26*].
 - 22-Oct-2025, Our paper, entitled [https://openreview.net/pdf?id=VwoSsFK22P "Tree Structure for the Categorical Wasserstein Weisfeiler-Lehman Graph Kernel"] has been accepted to [https://jmlr.org/tmlr/ *TMLR*] journal! This is joint work with Keishi Sando, and Hideitsu Hino.
 - 19-Sep-2025, Our 2 papers have been accepted to [https://neurips.cc/ *NeurIPS'25*].

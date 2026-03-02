@@ -6,6 +6,16 @@
 [https://github.com/lttam GitHub Page] for a list of our recent published codes.  \n
 \n
 
+- [https://github.com/lttam/TS-Sobolev-IPM Tree-Sliced Sobolev IPM]. (ICLR 2026)
+-- Invariant TSW on system of lines (TSW-SL) with high-order metrics for gradient-based learning.
+-- Invariant regularized Sobolev IPM (ICML 2025) for dynamic-support measures in applications, e.g., diffusion model, gradient flow.
+-- Implemented by Thanh Tran.
+
+- [https://github.com/lttam/FW-TSW Fermat-Weber Tree-Sliced-Wasserstein (FW-TSW)]. (ICLR 2026)
+-- Invariant TSW on system of lines (TSW-SL) for dynamic-support measures, with efficient data-adaptive tree sampling.
+-- By leveraging Fermat-Weber problem, FW-TSW provides an efficient tree sampling for TSW-SL involving both directional and positional information beyond its counterpart for SW, to reflect the geometric structure of the underlying data more accurately.
+-- Mainly implemented by Thanh Tran.
+
 - [https://github.com/lttam/PartialTSW Tree-Sliced Entropy Partial Transport (PartialTSW)]. (NeurIPS 2025)
 -- Tree-Sliced Entropy Partial Transport (PartialTSW), to our knowledge, is the /first/ approach of TSW for unbalanced measures having /closed-form/ expression for applications with dynamic-support measures (e.g., generative models)
 -- Note that, to our knowledge, there is /*no*/ sliced-Wasserstein (SW) approach for unbalanced measures admitting closed-form expression.
