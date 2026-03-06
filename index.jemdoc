@@ -21,8 +21,8 @@
 
 Email: tam\[/at/\]ism.ac.jp \n 
  
-Research Interests: machine learning, optimal transport, geometric methods, kernels \n
 [https://scholar.google.com/citations?user=ZyrRB_8AAAAJ&hl=en Google Scholar] - [https://www.linkedin.com/in/lttam/ LinkedIn] - [https://github.com/lttam GitHub] - [https://researchmap.jp/tamle Research Map] \n
+Research Interests: machine learning, optimal transport, geometric methods, kernels \n
 
 ~~~
 
@@ -34,16 +34,16 @@ Research Interests: machine learning, optimal transport, geometric methods, kern
 #.. Going beyond Lp geometric structure for variational Wasserstein problems, e.g., with functional geometric structure.
 #.. Centering on applications with large-scale, complex structured data, e.g., non-Euclidean, dynamic, nonlinearity, corruption, perturbation.
 
-\n
-My research aims to make AI more advanced, with a focus on improving its scalability, efficiency, and robustness for learning with large-scale, complex data and models from mathematical perspectives, particularly /optimal transport (OT) theory/. My current interests are as follows:
-. Deepening OT theory: 
-.. Breaking the curse-of-dimensionality for OT with projected 1D-structure.
-.. Going beyond Lp structure for variational Wasserstein problems.
-. Leveraging OT theoretical insights for AI: 
-.. Designing innovative, efficient methodologies.
-.. Centering on applications with large-scale, complex structured data.
+#\n
+#My research aims to make AI more advanced, with a focus on improving its scalability, efficiency, and robustness for learning with large-scale, complex data and models from mathematical perspectives, particularly /optimal transport (OT) theory/. My current interests are as follows:
+#. Deepening OT theory: 
+#.. Breaking the curse-of-dimensionality for OT with projected 1D-structure.
+#.. Going beyond Lp structure for variational Wasserstein problems.
+#. Leveraging OT theoretical insights for AI: 
+#.. Designing innovative, efficient methodologies.
+#.. Centering on applications with large-scale, complex structured data.
 
-== News
+== Recent News
 - 27-Jan-2026, Our 2 papers have been accepted to [https://iclr.cc/ *ICLR'26*], joint works with Viet-Hoang Tran, Thanh Q. Tran, Thanh Chu, Duy-Tung Pham, Khang Tran, and Tan Nguyen.
 -- [https://openreview.net/pdf?id=HHNQSXaLkF Tree-sliced Sobolev IPM].
 -- [https://openreview.net/pdf?id=kDqG03v05B Revisiting Tree-Sliced Wasserstein Distance Through the Lens of the Fermat–Weber Problem].
