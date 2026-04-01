@@ -11,7 +11,6 @@
 /Assistant Professor/ \n
 [https://www.ism.ac.jp/souran-en/index_e.html Department of Advanced Data Science] \n
 [https://www.ism.ac.jp/index_e.html Institute of Statistical Mathematics (ISM)] \n
-
 #[https://www.ism.ac.jp/noe/sml-center/en/index.html Research Center for Statistical Machine Learning] \n
 #Concurrent affiliation: \n
 ##Visiting Scientist, [https://www.riken.jp/en/research/labs/aip/generic_tech/funct_anl_learn/ Functional Analytic Learning Team], [https://www.riken.jp/en/research/labs/aip/index.html RIKEN Center for Advanced Intelligence Project (RIKEN AIP)]. \n
@@ -19,10 +18,12 @@
 #Assistant Professor, [https://www.soken.ac.jp/en/index.html The Graduate School for Advanced Studies (SOKENDAI)]. \n
 #[https://www.dropbox.com/scl/fi/m6xwc946gms6w7efl0tfp/TamLe2025Nov_CV.pdf?rlkey=dnhauh98pwhx9hfszxd136ndw&dl=0 CV] - 
 
-Email: tam\[/at/\]ism.ac.jp \n 
- 
+#Email: tam\[/at/\]ism.ac.jp \n 
+
 [https://scholar.google.com/citations?user=ZyrRB_8AAAAJ&hl=en Google Scholar] - [https://www.linkedin.com/in/lttam/ LinkedIn] - [https://github.com/lttam GitHub] - [https://researchmap.jp/tamle Research Map] \n
 Research Interests: machine learning, optimal transport, geometric methods, kernels \n
+
+In 2026, I have been awarded a JST-BOOST Grant for the project AI-OTT.
 
 ~~~
 
@@ -43,9 +44,22 @@ Research Interests: machine learning, optimal transport, geometric methods, kern
 #.. Designing innovative, efficient methodologies.
 #.. Centering on applications with large-scale, complex structured data.
 
+== Contact
+
+~~~
+Institute of Statistical Mathematics \n
+10-3 Midori-cho, Tachikawa, Tokyo 190-8562, Japan \n
+Office: Room A506B \n
+[https://www.ism.ac.jp/access/index_e.html Access to ISM] \n
+
+/The best way to contact me is via email:/ \n
+Email: tam\[/at/\]ism.ac.jp (or lttam.vn\[/at/\]gmail.com) \n
+~~~
+
 == Recent News
 
 - 25-Mar-2026, I will serve as Area Chair for [https://neurips.cc/ *NeurIPS'26*].
+- 27-Jan-2026, I am awarded a [https://www.jst.go.jp/pr/info/info1826/index.html JST-BOOST Grant] for the project [https://www.jst.go.jp/pr/info/info1826/pdf/info1826.pdf AI-OTT] (Enhance AI Foundations with Optimal Transport Theory).
 - 27-Jan-2026, Our 2 papers have been accepted to [https://iclr.cc/ *ICLR'26*], joint works with Viet-Hoang Tran, Thanh Q. Tran, Thanh Chu, Duy-Tung Pham, Khang Tran, and Tan Nguyen.
 -- [https://openreview.net/pdf?id=HHNQSXaLkF Tree-sliced Sobolev IPM].
 -- [https://openreview.net/pdf?id=kDqG03v05B Revisiting Tree-Sliced Wasserstein Distance Through the Lens of the Fermat–Weber Problem].
@@ -120,17 +134,6 @@ Research Interests: machine learning, optimal transport, geometric methods, kern
  
 # - Program committee: [https://neurips.cc/ NeurIPS]
 #- Senior program committee: AAAI
-
-== Contact
-
-~~~
-Email: tam\[/at/\]ism.ac.jp (or lttam.vn\[/at/\]gmail.com) \n
-
-Institute of Statistical Mathematics \n
-10-3 Midori-cho, Tachikawa, Tokyo 190-8562, Japan \n
-Office: Room A506B \n
-[https://www.ism.ac.jp/access/index_e.html Access to ISM] \n
-~~~
 
 
 # == Research Support
