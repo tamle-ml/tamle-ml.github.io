@@ -10,15 +10,15 @@
 #<font style="color:rgb(23, 165, 137)">
 == Selected ML Journals / Conference Papers
 
-- [https://openreview.net/pdf?id=HHNQSXaLkF {{<font color="blue">Tree-Sliced Sobolev IPM</font>}}] \[[https://www.dropbox.com/scl/fi/cq7rpgduujlw3p55c9n5g/ICLR2026_Poster_TS_Sobolev_IPM.pdf?rlkey=ctfgdubnxndar65nv9lxkgzx9&dl=0 POSTER]\] \n 
+- [https://openreview.net/pdf?id=HHNQSXaLkF {{<font color="blue">Tree-Sliced Sobolev IPM</font>}}]. \[[https://www.dropbox.com/scl/fi/cq7rpgduujlw3p55c9n5g/ICLR2026_Poster_TS_Sobolev_IPM.pdf?rlkey=ctfgdubnxndar65nv9lxkgzx9&dl=0 POSTER]\] \n 
 *{{<font style="color:rgb(34, 153, 84)">ICLR</font>}}*, 2026. \n
 Viet-Hoang Tran{{<font color="red">*</font>}}, Thanh Q. Tran{{<font color="red">*</font>}}, Thanh Chu, Duy-Tung Pham, Trung-Khang Tran, *Tam Le*{{<font color="green">&oast;</font>}}, Tan M. Nguyen{{<font color="green">&oast;</font>}}.
 
-- [https://openreview.net/pdf?id=kDqG03v05B {{<font color="blue">Revisiting Tree-Sliced Wasserstein Distance through the Lens of the Fermat–Weber Problem</font>}}] \[[https://www.dropbox.com/scl/fi/3qbljpxjmrb5av4ib84ui/ICLR2026_Poster_FW_TSW.pdf?rlkey=8xx9awhg1jvyj6sfpn7ooib84&dl=0 POSTER]\] \n 
+- [https://openreview.net/pdf?id=kDqG03v05B {{<font color="blue">Revisiting Tree-Sliced Wasserstein Distance through the Lens of the Fermat–Weber Problem</font>}}]. \[[https://www.dropbox.com/scl/fi/3qbljpxjmrb5av4ib84ui/ICLR2026_Poster_FW_TSW.pdf?rlkey=8xx9awhg1jvyj6sfpn7ooib84&dl=0 POSTER]\] \n 
 *{{<font style="color:rgb(34, 153, 84)">ICLR</font>}}*, 2026. \n
 Viet-Hoang Tran{{<font color="red">*</font>}}, Thanh Q. Tran{{<font color="red">*</font>}}, Thanh Chu{{<font color="red">*</font>}}, Trung-Khang Tran, Duy-Tung Pham, *Tam Le*{{<font color="green">&oast;</font>}}, Tan M. Nguyen{{<font color="green">&oast;</font>}}.
 
-- [https://openreview.net/pdf?id=VymXLPX6Ps {{<font color="blue">An Efficient Orlicz-Sobolev Approach for Transporting Unbalanced Measures on a Graph</font>}}]  \[[https://www.dropbox.com/scl/fi/n1g2udj6p2balnezsb5eh/LNHF_NeurIPS25__OrliczSobolevTransport_OrliczEPT_Poster.pdf?rlkey=u9zeg7mubz55ywwvqs65ua2qn&dl=0 POSTER]\/[https://www.dropbox.com/scl/fi/nrqq4i108aj6wi8tn2abj/LNHF_NeurIPS25__OrliczSobolevTransport_OrliczEPT_Slide.pdf?rlkey=gpry7tiu3r6ziagac0g5e4fp0&dl=0 SLIDE]\] \n 
+- [https://openreview.net/pdf?id=VymXLPX6Ps {{<font color="blue">An Efficient Orlicz-Sobolev Approach for Transporting Unbalanced Measures on a Graph</font>}}]. \[[https://www.dropbox.com/scl/fi/n1g2udj6p2balnezsb5eh/LNHF_NeurIPS25__OrliczSobolevTransport_OrliczEPT_Poster.pdf?rlkey=u9zeg7mubz55ywwvqs65ua2qn&dl=0 POSTER]\/[https://www.dropbox.com/scl/fi/nrqq4i108aj6wi8tn2abj/LNHF_NeurIPS25__OrliczSobolevTransport_OrliczEPT_Slide.pdf?rlkey=gpry7tiu3r6ziagac0g5e4fp0&dl=0 SLIDE]\] \n 
 *{{<font style="color:rgb(34, 153, 84)">NeurIPS</font>}}*, 2025. \[Spotlight rate: 688\/21575=*{{<font style="color:rgb(138,43,226)">3.19%</font>}}*\] \n
 *Tam Le*{{<font color="red">*</font>}}, Truyen Nguyen{{<font color="red">*</font>}}, Hideitsu Hino, Kenji Fukumizu. \n
 (*{{<font style="color:rgb(138,43,226)">This paper was selected for a spotlight presentation.</font>}}* Spotlight : acceptance : submissions = 688 : 5290 : 21575)
@@ -27,7 +27,7 @@ Viet-Hoang Tran{{<font color="red">*</font>}}, Thanh Q. Tran{{<font color="red">
 *{{<font style="color:rgb(34, 153, 84)">NeurIPS</font>}}*, 2025. \n
 Viet-Hoang Tran, Thanh Tran, Thanh T. Chu, *Tam Le*{{<font color="green">&oast;</font>}}, Tan M. Nguyen{{<font color="green">&oast;</font>}}.
 
-- [https://openreview.net/pdf?id=VwoSsFK22P {{<font color="blue">Tree Structure for the Categorical Wasserstein Weisfeiler-Lehman Graph Kernel</font>}}]  \n 
+- [https://openreview.net/pdf?id=VwoSsFK22P {{<font color="blue">Tree Structure for the Categorical Wasserstein Weisfeiler-Lehman Graph Kernel</font>}}].  \n 
 #*{{<font style="color:rgb(23, 165, 137)">TMLR</font>}}*, 2025. \n
 *{{<font style="color:rgb(137, 179, 75)">TMLR</font>}}*, 2025. \n
 Keishi Sando, *Tam Le*, Hideitsu Hino.
@@ -172,7 +172,7 @@ Eugene Ndiaye, *Tam Le*, Olivier Fercoq, Joseph Salmon, Ichiro Takeuchi. \n
 *{{<font style="color:rgb(34, 153, 84)">ICML</font>}}*, 2015. \n  #\[{{<font style="color:rgb(209, 6, 54)">Oral presentation</font>}}\] \n
 *Tam Le*, Marco Cuturi. \n
  
-- [https://www.dropbox.com/s/ag7hy2v7wdilu4j/TL.MC.MLJ2014.pdf?dl=0 {{<font color="blue">Adaptive Euclidean Maps for Histograms: Generalized Aitchison Embeddings</font>}}] \n
+- [https://www.dropbox.com/s/ag7hy2v7wdilu4j/TL.MC.MLJ2014.pdf?dl=0 {{<font color="blue">Adaptive Euclidean Maps for Histograms: Generalized Aitchison Embeddings</font>}}]. \n
 #Machine Learning Journal (*MLJ*), 2014. \n
 #Machine Learning Journal (*{{<font style="color:rgb(23, 165, 137)">MLJ</font>}}*), 2014. \n
 #*ML* Journal (*{{<font style="color:rgb(23, 165, 137)">MLJ</font>}}*), 2014. \n
@@ -187,13 +187,13 @@ Eugene Ndiaye, *Tam Le*, Olivier Fercoq, Joseph Salmon, Ichiro Takeuchi. \n
 
 #{{<font color="red">*</font>}}
 
-- [https://arxiv.org/pdf/2510.25591 {{<font color="blue">Generalized Sobolev IPM for Graph-Based Measures</font>}}]  \n 
-ArXiv, 2025. \n
-*Tam Le*{{<font color="red">*</font>}}, Truyen Nguyen{{<font color="red">*</font>}}, Hideitsu Hino, Kenji Fukumizu.
+- [https://arxiv.org/pdf/2603.12652 {{<font color="blue">Sobolev–Ricci Curvature</font>}}]  \n 
+ArXiv preprint, 2026. \n 
+Kyoichi Iwasaki, *Tam Le*, Hideitsu Hino.
 
-#- [to-be-updated {{<font color="blue">Sobolev–Ricci Curvature</font>}}]  \n 
-#Under review. \n 
-#Kyoichi Iwasaki, *Tam Le*, Hideitsu Hino.
+- [https://arxiv.org/pdf/2510.25591 {{<font color="blue">Generalized Sobolev IPM for Graph-Based Measures</font>}}]  \n 
+ArXiv preprint, 2025. \n
+*Tam Le*{{<font color="red">*</font>}}, Truyen Nguyen{{<font color="red">*</font>}}, Hideitsu Hino, Kenji Fukumizu.
 
 - [https://www.dropbox.com/scl/fi/dsforw4iizhwr8lw0v2vl/CVIU2025-Few-Shot-Object-Detection-via-Synthetic-Features-with-Optimal-Transport.pdf?rlkey=uo2ljzicldzg71w7nuv1b5l3r&dl=0 {{<font color="blue">Few-Shot Object Detection via Synthetic Features with Optimal Transport</font>}}] \n
 #Computer Vision and Image Understanding (*CVIU*) journal, 2025. \n
@@ -232,7 +232,7 @@ Yanbin Liu{{<font color="red">*</font>}}, Makoto Yamada{{<font color="red">*</fo
 Tatsuya Shiraishi, *Tam Le*, Hisashi Kashima, Makoto Yamada
 
 - [https://arxiv.org/pdf/1910.04483v1 {{<font color="blue">On Scalable Variant of Wasserstein Barycenter</font>}}] \n
-ArXiv, 2019. \n
+ArXiv preprint, 2019. \n
 *Tam Le*{{<font color="red">*</font>}}, Viet Huynh{{<font color="red">*</font>}}, Nhat Ho{{<font color="red">*</font>}}, Dinh Phung, Makoto Yamada
 
 - [https://www.tandfonline.com/doi/epdf/10.1080/14686996.2018.1439253?needAccess=true {{<font color="blue">A General Representation Scheme for Crystalline Solids based on Voronoi-Tessellation Real Feature Values and Atomic Property Data</font>}}] \n
