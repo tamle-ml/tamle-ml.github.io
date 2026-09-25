@@ -10,6 +10,14 @@
 #<font style="color:rgb(23, 165, 137)">
 == Selected ML Journals / Conference Papers
 
+#Orlicz-Sobolev with Musielak: An Efficient Regularization Approach for Graph-based IPM
+#- [https://arxiv.org/pdf/2510.25591 {{<font color="blue">Generalized Sobolev IPM for Graph-Based Measures</font>}}]  \n 
+#ArXiv preprint, 2025. \n
+
+- [to-be-updated {{<font color="blue">Orlicz-Sobolev with Musielak: An Efficient Regularization Approach for Graph-based IPM</font>}}]  \n
+*{{<font style="color:rgb(34, 153, 84)">NeurIPS</font>}}*, 2026. \n
+*Tam Le*{{<font color="red">*</font>}}, Truyen Nguyen{{<font color="red">*</font>}}, Hideitsu Hino{{<font color="green">&oast;</font>}}, Kenji Fukumizu{{<font color="green">&oast;</font>}}.
+
 - [https://openreview.net/pdf?id=HHNQSXaLkF {{<font color="blue">Tree-Sliced Sobolev IPM</font>}}]. \[[https://www.dropbox.com/scl/fi/cq7rpgduujlw3p55c9n5g/ICLR2026_Poster_TS_Sobolev_IPM.pdf?rlkey=ctfgdubnxndar65nv9lxkgzx9&dl=0 POSTER]\] \n 
 *{{<font style="color:rgb(34, 153, 84)">ICLR</font>}}*, 2026. \n
 Viet-Hoang Tran{{<font color="red">*</font>}}, Thanh Q. Tran{{<font color="red">*</font>}}, Thanh Chu, Duy-Tung Pham, Trung-Khang Tran, *Tam Le*{{<font color="green">&oast;</font>}}, Tan M. Nguyen{{<font color="green">&oast;</font>}}.
@@ -191,9 +199,9 @@ Eugene Ndiaye, *Tam Le*, Olivier Fercoq, Joseph Salmon, Ichiro Takeuchi. \n
 ArXiv preprint, 2026. \n 
 Kyoichi Iwasaki, *Tam Le*, Hideitsu Hino.
 
-- [https://arxiv.org/pdf/2510.25591 {{<font color="blue">Generalized Sobolev IPM for Graph-Based Measures</font>}}]  \n 
-ArXiv preprint, 2025. \n
-*Tam Le*{{<font color="red">*</font>}}, Truyen Nguyen{{<font color="red">*</font>}}, Hideitsu Hino, Kenji Fukumizu.
+#- [https://arxiv.org/pdf/2510.25591 {{<font color="blue">Generalized Sobolev IPM for Graph-Based Measures</font>}}]  \n 
+#ArXiv preprint, 2025. \n
+#*Tam Le*{{<font color="red">*</font>}}, Truyen Nguyen{{<font color="red">*</font>}}, Hideitsu Hino, Kenji Fukumizu.
 
 - [https://www.dropbox.com/scl/fi/dsforw4iizhwr8lw0v2vl/CVIU2025-Few-Shot-Object-Detection-via-Synthetic-Features-with-Optimal-Transport.pdf?rlkey=uo2ljzicldzg71w7nuv1b5l3r&dl=0 {{<font color="blue">Few-Shot Object Detection via Synthetic Features with Optimal Transport</font>}}] \n
 #Computer Vision and Image Understanding (*CVIU*) journal, 2025. \n

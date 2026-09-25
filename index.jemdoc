@@ -54,6 +54,7 @@ In 2026, I have been awarded a [https://www.jst.go.jp/program/boost/yr/index.htm
 
 == Recent News
 
+- 25-Sep-2026, Our paper, entitled [to-be-updated "Orlicz-Sobolev with Musielak: An Efficient Regularization Approach for Graph-based IPM"] has been accepted to [https://neurips.cc/ *NeurIPS'26*]! This is joint work with Truyen Nguyen, Hideitsu Hino, and Kenji Fukumizu.  
 - 18-Sep-2026, I will serve as Area Chair for [https://iclr.cc/ *ICLR'27*] and [https://aistats.org/aistats2027/ *AISTATS'27*].
 #- 18-Sep-2026, I will serve as Area Chair for [https://aistats.org/aistats2027/ *AISTATS'27*].
 - 31-Aug-2026, I give an invited talk at [https://ims.nus.edu.sg/events/mathfoundationsai/ Mathematical Foundations \& Methodologies for Artificial Intelligence and Data-Driven Scientific Computing program -- Workshop on Mathematical Approaches to Modern AI Challenges], IMS, NUS, Singapore. \[[https://www.dropbox.com/scl/fi/rm32dp329lhfdyejjbp3z/TamLe_IMS_MathAI2026.pdf?rlkey=icoju186mrjw1k7rpvbchboy1&dl=0 SLIDE]\]
@@ -65,15 +66,15 @@ In 2026, I have been awarded a [https://www.jst.go.jp/program/boost/yr/index.htm
 - 27-Jan-2026, I am awarded a [https://www.jst.go.jp/pr/info/info1826/index.html JST-BOOST Grant] [https://www.jst.go.jp/pr/info/info1826/pdf/info1826.pdf (FY2025)]. \[¥50M (\~\$315K) for 2026--2031\]
 - 20-Nov-2025, I will serve as Area Chair for [https://icml.cc/ *ICML'26*].
 - 22-Oct-2025, Our paper, entitled [https://openreview.net/pdf?id=VwoSsFK22P "Tree Structure for the Categorical Wasserstein Weisfeiler-Lehman Graph Kernel"] has been accepted to [https://jmlr.org/tmlr/ *TMLR*] journal! This is joint work with Keishi Sando, and Hideitsu Hino.
-- 19-Sep-2025, Our 2 papers have been accepted to [https://neurips.cc/ *NeurIPS'25*].
--- [https://openreview.net/pdf?id=VymXLPX6Ps An Efficient Orlicz-Sobolev Approach for Transporting Unbalanced Measures on a Graph] \[*{{<font style="color:rgb(138,43,226)">spotlight</font>}}*\], joint work with Truyen Nguyen, Hideitsu Hino, and Kenji Fukumizu.
--- [https://openreview.net/pdf?id=41ZbysfW4h Tree-Sliced Entropy Partial Transport], joint work with Viet-Hoang Tran, Thanh Tran, Thanh Chu, and Tan Nguyen.
 
 {{
 <details>
   <summary><i>older news</i></summary>
 }}
 
+- 19-Sep-2025, Our 2 papers have been accepted to [https://neurips.cc/ *NeurIPS'25*].
+-- [https://openreview.net/pdf?id=VymXLPX6Ps An Efficient Orlicz-Sobolev Approach for Transporting Unbalanced Measures on a Graph] \[*{{<font style="color:rgb(138,43,226)">spotlight</font>}}*\], joint work with Truyen Nguyen, Hideitsu Hino, and Kenji Fukumizu.
+-- [https://openreview.net/pdf?id=41ZbysfW4h Tree-Sliced Entropy Partial Transport], joint work with Viet-Hoang Tran, Thanh Tran, Thanh Chu, and Tan Nguyen.
 - 16-Aug-2025, I will serve as Area Chair for [https://iclr.cc/ *ICLR'26*] and [https://aistats.org/aistats2026/ *AISTATS'26*].
 - 13-July-2025, I will serve as Senior Program Committee for [https://aaai.org/conference/aaai/aaai-26/ /AAAI'26/].
 - 01-May-2025, Our 3 papers have been accepted to [https://icml.cc/ *ICML'25*].
