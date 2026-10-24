@@ -6,6 +6,10 @@
 [https://github.com/lttam GitHub Page] for a list of our recent published codes.  \n
 \n
 
+- [https://github.com/lttam/GenSobolevIPM-Musielak Generalized Sobolev IPM with Musielak regularization (GSI-M)]. (NeurIPS 2026)
+-- Generalize Sobolev IPM (ICML25) beyond the Lp geometry by leveraging Orlicz geometric structure.
+-- A scalable regularization approach for generalized Sobolev IPM for graph-based probability measures.
+
 - [https://github.com/lttam/TS-Sobolev-IPM Tree-Sliced Sobolev IPM]. (ICLR 2026)
 -- Invariant TSW on system of lines (TSW-SL) with high-order metrics for gradient-based learning.
 -- Invariant regularized Sobolev IPM (ICML 2025) for dynamic-support measures in applications, e.g., diffusion model, gradient flow.
